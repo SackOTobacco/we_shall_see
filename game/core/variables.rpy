@@ -1,6 +1,6 @@
 default treasury = 10
 default popularity = 5
-default authority = 5
+default imperial_majesty = 5
 default military = 50
 
 # Relationship variables
@@ -10,6 +10,13 @@ default furique_relationship = 0
 default torrez_relationship = 0
 default aurgenbia_relationship = 0
 default gaucho_relationship = 0
+default solene_relationship = 0
+default isine_relationship = 0
+default robertz_relationship = 0
+default charristo_relationship = 0
+default mate_relationship = 0
+default calitz_relationship = 0
+default sicill_relationship = 0
 
 # Political variables
 
@@ -41,7 +48,7 @@ default project_income_bonus = 0
 
 default treasury_modifiers = []
 
-default authority_modifiers = []
+default legitimacy_modifiers = []
 
 default popularity_modifiers = []
 
@@ -61,5 +68,5 @@ default map_y = -4800
 default map_zoom = 5.5
 
 default active_event = True
-default current_event = "grand_council_001"
+default current_event = "reception_001"
 

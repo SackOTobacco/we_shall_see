@@ -62,7 +62,7 @@ label grand_council_001:
 
         "I made an effort to appear imperious, strutting to my throne without paying mind to the Pueblidorés.":
 
-            $ authority += 1
+            $ imperial_majesty += 1
             $ council_approval -= 1
 
             n "Though I kept my eyes ahead, I could tell upon majestically turning and taking my seat that the Pueblidorés were in awe at my presence."
@@ -71,7 +71,7 @@ label grand_council_001:
 
         "I attempted to survey the Pueblidorés, giving them an expression of sincerity as I did.":
 
-            $ authority -= 1
+            $ imperial_majesty -= 1
             $ council_approval += 1
 
             n "Shifting my gaze from each Pueblidoré, I saw both young and old, soft and strict, servile and ambitious faces among them staring back at me."
@@ -1089,10 +1089,10 @@ label final_decree_choice:
 
             n "I stared at the document before me; my first Imperial Decree."
 
-        "Open the Imperial Palace (-1 Budget, -1 Authority)":
+        "Open the Imperial Palace (-1 Budget, -1 Imperial Majesty)":
 
             $ treasury -= 1
-            $ authority -= 1
+            $ imperial_majesty -= 1
 
             # Hidden
             $ popularity += 1
@@ -1113,9 +1113,9 @@ label final_decree_choice:
 
             n "I stared at the document before me; my first Imperial Decree."
 
-        "Pass the Act of Clemency (-2 Authority)":
+        "Pass the Act of Clemency (-2 Imperial Majesty)":
 
-            $ authority -= 2
+            $ imperial_majesty -= 2
 
             # Hidden
             $ popularity += 1
@@ -1141,7 +1141,7 @@ label final_decree_choice:
 
             # Hidden
             $ popularity += 1
-            $ authority += 2
+            $ imperial_majesty += 2
             $ military_approval += 1
             $ colonial_relations += 1
             $ galactic_reputation += 1
@@ -1175,7 +1175,7 @@ label final_decree_choice:
 
         "Pueblidorés, you represent the culmination of the brightest minds Suzerain has to offer...":
 
-            $ authority -= 1
+            $ imperial_majesty -= 1
             $ council_approval += 1
 
             p "Pueblidorés, you represent the culmination of the brightest minds Suzerain has to offer. It is by your merits which the Councils you represent have entrusted the privilege of my full attention."
@@ -1194,7 +1194,7 @@ label final_decree_choice:
 
         "My subjects, your vows of loyalty to me and Suzerain's royal family have truly touched my heart...":
 
-            $ authority += 1
+            $ imperial_majesty += 1
             $ council_approval -= 1
 
             p "My subjects, your vows of loyalty to me and Suzerain's royal family have truly touched my heart."

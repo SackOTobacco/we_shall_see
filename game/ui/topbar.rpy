@@ -21,13 +21,7 @@ screen topbar():
                     modifiers=treasury_modifiers
                 )
 
-            textbutton "👑 [authority]":
-
-                action Show(
-                    "modifier_tooltip",
-                    title="Authority",
-                    modifiers=authority_modifiers
-                )
+            text "👑 [imperial_majesty]"
 
             textbutton "👥 [popularity]":
 

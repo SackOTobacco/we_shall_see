@@ -112,6 +112,63 @@ With his newfound societal influence and eye for economic management, it wasn’
 
 Given the economic golden age ushered in since Furique’s appointment, he was elected to retain his position in the Castilles following Empress Sicill’s passing.
 """
+        },
+
+        "torrez": {
+
+            "name": "Torrez fue Léon",
+
+            "title": "First Envoy of Foreign Affairs, Count of Monquist, and patriarch of the largest Noble family in Suzerain.",
+
+            "text": """
+Unlike most cases of obtaining house seniority, Torrez became head of the fue Léons upon the abdication of his Father, ex-Count Reál. This came about after rival cousins of the family attempted a forceful takeover on the aging Count, one which he hoped to circumvent through his abdication, and subsequently having Torrez be officially recognized by Empress Sicill as the legal successor to his authority. Such a calling of the Empress to intervene in his familial matters hurt the prestige of the fue Léons and indebted them to the Empress, which Torrez since repaid by serving as an Imperial Diplomat, but did function in invalidating any potential challenge to the new family leader.
+
+The reason for this scandal in the first place, was due to the remarriage of Count Reál to a commoner woman, Lydana, upon the death of his first wife, Countess Bruntelli. It was from this second marriage that Gaucho was born, making them half brothers, though none can usually tell based on how they look and treat each other.
+
+Growing up as a young Count, not even of legal age to inherit, Torrez was forced to learn the intricacies of keeping peace between his extended family from early in his life. This, and the constant trouble he’d have to talk Gaucho out of, left Torrez with quite the experience in diplomacy by the point he came of age, making his appointment as an Imperial Diplomat not much of a surprise.
+
+What indeed came as a shock to even Torrez’s most ardent believers, was how unparalleled he proved to be in securing Suzerain’s advantageous positions throughout the 40 Years War. Unlike many of his contemporaries, he did not shy away from war, rather Torrez always strived to keep Suzerain’s enemies more focused on fighting one another, giving Empress Sicill the prime opportunity to pounce upon them once the opportune moment presented itself. Torrez’s magnum opus came when he orchestrated what historians would later call the Great Isolation. Through patient diplomacy, calculated concessions, deliberately timed wars, and carefully worded treaties, he ensured that none of Suzerain's rivals ever entered the 40 Years War as a united front. By convincing each power, the Ajour, Zerecks, Eternal Star, Kammaria, and Caetzar, that their greatest threat lay not in Suzerain, but in another member of the Grand 5, Torrez transformed what might have become a war of annihilation into a succession of regional conflicts, from which Suzerain emerged the sole beneficiary.
+
+For his services, Torrez was personally recommended by Empress Sicill as a candidate for First Envoy, after which he won the election and remains in such a position. This makes Torrez, along with his brother Gaucho, the youngest members of the Castilles, both in age and time serving upon it.
+"""
+        },
+
+        "aurgenbia": {
+
+            "name": "Aurgenbia Panzarre",
+
+            "title": "Indes of Colonial Affairs and Marquise of Bah Sing.",
+
+            "text": """
+The oldest serving member of the Castilles, Aurgenbia was a close friend to Empress Sicill in their youth, and thus was readily given the opportunity to be elected first as Lord Councillor, then eventually Indes of Suzerain. Her time as Lord Councillor was unremarkable, considering Aurgenbia largely was a bad match for organizing the Castilles and other councils of Suzerain. It was only upon her cooperation with the Council of the Archiyula, an old colonial region on Isa Bellmaré before Suzerain’s proper space ascension, that her aptitudes in such a field shined. After crushing a local revolt, developing the local colonial towns into proper urban centers, facilitating protected treasure fleets, and increasing local cash crop production tenfold, did her reputation as a colonial overlord earn Aurgenbia the election of Indes.
+
+No better time was there to rise into such a role, as this was shortly in Suzerain’s spread towards neighboring solar systems, and from there the rapid colonial expansion throughout the 40 Years War. The Indes was no longer in charge of a single planet’s colonial territories, it now managed the entire reaches of hundreds of planets, then furthermore the various new subjects and colonial states crafted to serve the Empire. Proverbally, Aurgenbia found herself before an Empire begging to be organized, and she gleefully rose to the task. Together with Sicill, the regions obtained by the Armada and Army were given structure, purpose, and efficiency to serve Suzerain. Not a single province has yet broken from the firm grasp of the Indes.
+
+Yet, as this same grip begins to loosen with age, first by Empress Sicill’s passing and with Aurgenbia too getting in her twilight years, the question on many minds is whether she has what it takes to serve Emperor Pherip.
+
+Simultaneously, there has been an aura of respect and obedience which developed even past Sicill’s death. Her decades of experience and credit as author for Suzerain’s colonial dominance afforded Aurgenbia a dually strong willed and compassionate guardian figure, one even further supported the older she’s gotten. Most have come to view the elder stateswoman as the successor to Sicill’s grandmotherly position over the Empire, helped in no small part by some of her hobbies, including flower pressing, hosting tea parties, and embroidery. All still understand alongside this is the firm hand which stands ready to slap any of her misbehaving “grandchildren” subjects. Famously, Aurgenbia’s putting down of the Balterland Exports Revolt reminded all that she can easily lay down the bloody might of the Empire, though often as a last resort.
+
+Despite some persisting concerns, Aurgenbia was elected again as Indes of the Castilles under Emperor Pherip, where she continues to serve in bringing the various decenters of Suzerain to kneel.
+"""
+        },
+
+        "gaucho": {
+
+            "name": "Gaucho fue Léon",
+
+            "title": "Captain General of War and Security and Admiral of the 8th Fleet.",
+
+            "text": """
+Labeled quietly as a bastard by some, despite the official avenue which his parents took, Gaucho has had to fight tooth and nail to reach where he is now. His Father, Count Reál, after the death of his first wife remarried to Gaucho’s Mother, Lydana, a commoner of scarce Noble lineage discovered only in retrospect after their union to add some semblance of justification. Being born from scandal, Gaucho became used to sticking up for himself and his sometimes excessive pride, as well as the privileges he considered a birthright which many of his relatives worked hard to pry away. Given the already disapproved marriage between Gaucho’s parents was straddled too with a new heir of mixed blood, who was set to inherit enough of Reál’s estates to put him leagues above most of the pure Noble fue Léons, Gaucho drew the ire of his various cousins, aunts, and uncles. Only by a mixture of Empress Sicill’s patronage along with Count Reál’s approval has Gaucho barely managed to emerge as a legitimized and powerful member of the fue Léon family.
+
+Chief among Gaucho’s supporters always stood Torrez, Gaucho’s half brother and, on paper, his main rival for Reál’s inheritance, but this matter paled in comparison to the true brotherly love which they shared. Even with all the baggage which came from associating with Gaucho, Torrez loved and accepted his brother without question, the two forming a bond that lasts even today as they serve within the Castilles together. However, this being under far different positions, as the diplomatic and cautious Torrez could never quite rein in the bold and confrontational Gaucho. At first chance, Gaucho enlisted in the Imperial Armada, rising eventually to the rank of Rear Admiral within the 8th Fleet, Empress Sicill’s personal fleet. Having seen extensive combat during the concluding conflicts of the 40 Years War, Gaucho obtained prestige and renown as a war hero, better solidifying his stance in the family, though rivals still persist.
+
+Following Empress Sicill’s passing, the 8th Fleet, though also known as the “Iron Falcera of her Majesty, Empress Sicill”, was transferred under Gaucho, whereupon he serves today as Admiral. He commands it with great pride, and it follows him nearly everywhere he goes across the Empire and beyond, acting as a massive shadow to cast in his political maneuvering. Contrary to past elections for Captain General, Gaucho is neither Grand Admiral nor Grand General of Suzerain, thus keeping the positions in a checks and balances relationship that for the most part ensures the armed forces do not dominate the Empire.
+
+Given his famous hobbies of brawling, cartography, and bathhouse-patronage, Gaucho has been predictably known to in the same day participate in a local wrestling tournament, rest up for the evening in a bathhouse, and finish the day studying various historical and modern maps. On one occasion, this routine left him exposed to a planned assassination by a cousin of his, and only thanks to him losing the tournament and going home in a huff did he avoid the bomb left for him at his favorite bathhouse. Since then, precautions have been taken to ensure Gaucho’s safety.
+
+Gaucho serves along with his brother Torrez as the youngest members of the Castilles, both in age and time serving upon it.
+"""
         }
 
     }
@@ -162,19 +219,39 @@ Given the economic golden age ushered in since Furique’s appointment, he was e
         "Quixote": "quixote",
         "Furique Vallitu": "furique",
         "Furique": "furique",
+        "Torrez fue Léon": "torrez",
+        "Torrez": "torrez",
+        "Aurgenbia Panzarre": "aurgenbia",
+        "Aurgenbia": "aurgenbia",
+        "Gaucho fue Léon": "gaucho",
+        "Gaucho": "gaucho",
     }
     DIALOGUE_CODEX_PATTERN = re.compile(
-        r'(?<!\w)(?:Quixote\ fue\ Ostamara|Furique\ Vallitu|Empress\ Sicill|Quixote|Furique|Sicill)(?!\w)'
+        r'(?<!\w)(?:Quixote\ fue\ Ostamara|Furique\ Vallitu|Torrez\ fue\ Léon|Aurgenbia\ Panzarre|Gaucho\ fue\ Léon|Empress\ Sicill|Quixote|Furique|Torrez|Aurgenbia|Gaucho|Sicill)(?!\w)'
     )
+    DIALOGUE_POSSESSIVE_PATTERN = re.compile(
+        r"(?<!\w)(%s)\s+(['’]s)\b" % "|".join(
+            re.escape(alias) for alias in sorted(DIALOGUE_CODEX_ALIASES, key=len, reverse=True)
+        )
+    )
+    CODEX_HYPERLINK_PATTERN = re.compile(r"(\{a=codex:[^}]+\})(.*?)(\{/a\})")
 
     def dialogue_codex_markup(text):
         """Turn requested character names in dialogue into codex links."""
+
+        # Keep possessives attached to the linked name, even if a script line
+        # contains accidental whitespace before 's or ’s.
+        text = DIALOGUE_POSSESSIVE_PATTERN.sub(r"\1\2", text)
 
         def link_alias(match):
             phrase = match.group(0)
             return "{a=codex:%s}%s{/a}" % (DIALOGUE_CODEX_ALIASES[phrase], phrase)
 
         return DIALOGUE_CODEX_PATTERN.sub(link_alias, text)
+
+    def narrator_codex_markup(text):
+        """Keep codex links italic when they appear inside narration."""
+        return CODEX_HYPERLINK_PATTERN.sub(r"\1{i}\2{/i}\3", text)
 
     # Apply the markup before Ren'Py hands dialogue to the say screen. This
     # keeps the screen's `what` displayable identical to the dialogue value.

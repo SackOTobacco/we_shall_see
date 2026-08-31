@@ -73,8 +73,8 @@ init python:
             store.treasury_modifiers
         )
 
-        store.authority += modifier_total(
-            store.authority_modifiers
+        store.imperial_majesty += modifier_total(
+            store.legitimacy_modifiers
         )
 
         store.popularity += modifier_total(

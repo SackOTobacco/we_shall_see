@@ -22,7 +22,7 @@ screen empire_overview():
 
             text "Treasury: [treasury]"
             text "Popularity: [popularity]"
-            text "Authority: [authority]"
+            text "Imperial Majesty: [imperial_majesty]"
             text "Military: [military]"
 
             text ""

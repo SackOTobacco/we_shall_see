@@ -1,0 +1,491 @@
+reception_001
+
+
+Narrator:
+Cheers of elation, showers of flower pedals, and the thunder of marching soldiers. This is what engulfed my senses as I was driven by carriage to the royal palace.
+It truly was beyond the scale of even my Grandmother’s coronation, which despite having been only a child at the time, I remembered especially among a flood of other imperial celebrations.
+Being the heir to a now star spanning empire—in fact the largest in known galactic history—carried with it some necessity to eclipse any previous levels of grandeur. I knew my government had a field day concocting all manner of ways to spend our ever growing treasury in this regard. 
+My favorite thus far was the proposal to terraform our largest moon to resemble my visage, however nonsensical it was.
+Riding down the cobblestone streets of Isa Bellmaré, with Suzerain’s royal heraldry hung over every conceivable space, I thought more of my Grandmother. How I used to sit beside her and my parents in this very carriage, watching her wave at our subjects in the graceful manner befitting an Empress. 
+She seemed so perfect in those moments, so absolute, so beyond comparison. 
+Yet just before I’d begin to think my Grandmother couldn’t possibly pay any mind to someone like me, someone mortal, she’d give a glance and warm smile, as if to say “My dear, none of this is more important than you”. 
+That’s the version of Sicill held fondly in my mind. Beside this aura of unassailability which most of Suzerain viewed her with, I recalled when she’d help lift me on the palace balcony to wave down at her gathered subjects, how we’d quietly throw crumbs of bread at one another during dinner with impish smiles.
+How we mourned my Father’s passing.
+She’d tell me my Father would be so proud of the man I was shaping up to be, that I’d soon become the greatest Emperor in all of Suzerain’s history.
+I always hoped she was right. Yet I couldn't shake the thought of Sicill's shadow—how I'd spend my entire reign cast beneath it, measured against her. 
+I shook this concern out of mind. Today was one of new beginnings, of my turn to shape Suzerain, and now the galaxy.
+Making our final journey towards Catheljunta, the imperial palace and my home, a swarm of commoners tried to follow in pace, becoming quickly fatigued at the steep mountainous climb, but pushing through their weariness all the same. I saw the boiling and panting faces of many Suzerains as they jogged, parents even carrying their children, all in an effort to simply be as close to me as possible throughout this last stretch of public viewing.
+Beside my carriage ran a rather young boy, whose friends were leagues behind him, puffing his cheeks and exerting every effort to not fall behind me. He snuck glances in my direction every chance he got, though to avoid losing his focus and being overtaken by the surrounding crowd, he kept turning his head violently from side to front. 
+His rigid arms, serious expression, and stiff motions made him to me appear a soldier.
+Dialog Choice #1
+Pherip:
+I ordered my carriage to slow down, allowing the crowd a slower pace to keep up with me.
+
+(Hidden)
+Popularity +1
+Burghers Approval +1
+Legitimacy -1
+
+Narrator:
+My driver obeyed, slowing our speed to a more walkable stride, both to the surprise and relief of my people. 
+The young boy took a moment to regain his breath, grinning as he turned, waving his friends over to catch up with him.
+I heard cries of joy as the crowd immediately surrounding my carriage grew in size, all wishing me both success in my rule and thanks for my gesture.
+Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, with most of my subjects having reached the peak with me, though had no more energy to continue any further.
+It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
+
+Dialog Choice #2
+Pherip:
+I gestured the young boy to approach, offering him a ride hanging from the carriage footboard.
+
+(Hidden)
+Popularity +2
+Legitimacy -1
+
+Narrator:
+At first, the boy didn’t fathom I was addressing him, he turned his head to either side trying to see with whom I was gesturing to. Upon reiterating my offer, his eyes widened with bewilderment. 
+A guard made room for the child to enter, and he with no hesitation made a break for my carriage.
+At first, he continued his march beside me, awe stricken at being so close to his Emperor. He even saluted me with his short little arms.
+Whilst amusing, I again offered him a spot on the footboard, which he looked up to me questioningly, as if asking if he were worthy. With a nod, I assured him it was ok, and he reluctantly yet gleefully climbed aboard.
+I’d never seen such amazement in someone before. For him, this was a dream come true. 
+Along the journey, the boy waved at passers by, who laughed at his extreme luck. I even caught him in one instance boastfully waving to his friends that had fallen behind. They seemed so impressed one of their own pals was riding on the royal carriage at the Emperor’s personal invitation.
+I knew he’d brag about this for the rest of his life.
+Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, only the strongest physiqued or willed of my subjects made it the full way with me.
+It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
+The young boy who had become visibly lost in the other world he found himself in was swiftly guided by a servant off the footboard, and per my instructions, was to be permitted as a special guest for the festivities should he wished.
+
+Dialog Choice #3
+Pherip:
+I encouraged the young boy and crowd, waving and rallying them to keep up with me.
+(Hidden)
+Legitimacy +1
+
+Narrator:
+I motioned at the crowd, telling them they could keep up with just a bit more effort. 
+Most seemed to get an extra boost in their step at seeing this, and seeing my intervention was working, I proclaimed my subjects had it within them to stay by their Emperor, if only they wished.
+This really got them moving, and the crowd of people, that young boy included, huffed and puffed at my behest, hoping to show off their loyalty to me, and seemingly genuinely having a second wind.
+Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, only the strongest physiqued or willed of my subjects made it the full way with me.
+It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
+
+Dialog Choice #4
+Pherip:
+I ordered the driver to increase the pace.
+(Hidden)
+Legitimacy +2
+Popularity -1
+
+Narrator:
+Not wanting to be obstructed among the various Commoners, I ordered the driver to increase speed. 
+With a whip, we dashed forth and I was jolted back in my seat, the seas of people around me thinning until eventually all were left in our dust. Some still tried their best to keep up, but even the most athletic spectators eventually lost to the demanding climb and pace.
+Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau alone.
+It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
+
+Reconvene:
+Narrator:
+Taking in the overwhelming scenery, I composed myself to show off a model of imperial perfection, and exited the carriage.
+The roars of excitement were ear-shattering. I had been dressed in my new Emperor's uniform, tailored to combine the austerity of an administrator and grandeur of a military commander, the gilded Royal Blade of Saint Pytor hung at my side, and the perhaps humble yet recognizable Imperial Crown rested lightly upon my brow. 
+I gave the crowd a moment to look upon my grand display, then strutted forward confidently to the reception hall. 
+The crowd followed cautiously, not wanting to get too close before I took my seat at my camp throne. Being made of sturdy wood with only a few engravings and paint, it was commissioned by my Grandmother during her enlistment to the 8th fleet, as she needed a portable and more resistant relic to use whilst traveling to vanquish the Kammarian Empire.
+Approaching the throne, I turned to look again upon my new subjects, and waited to be announced, as was custom. 
+An awkward yet assured Suzerain, who I understood to be my Lord Councillor, marched halfway up the dais steps, then cleared his throat.
+
+Quixote: 
+“Lords and ladies of the Empire, honored guests, Nobles, Ministers, Foreign Dignitaries, Subject Representatives, Colonial Overseers, and other servants of the Imperial Crown—lend your ears!”
+“Having been duly crowned and invested with the regalia of the Imperial Throne, His Imperial Majesty stands before you in these halls as Sovereign of Suzerain and His many territories.”
+“By the continuity of the Crown, inherited by ancestors, and through the acclaim of his subjects, I am honored to inaugurate Pherip the Fourth, Emperor of Suzerain!”
+“Let all present receive their Emperor with a cheer of ‘Brava’!”
+
+Narrator:
+The crowd took in deep breaths, and all Suzerains stood their trains up ready to flourish them with every cry.
+The Lord Councillor himself took in a proper gulp of air, and shouted with all the might he could muster.
+
+Quixote: 
+“GLORY AND WISDOM TO THE NEW EMPEROR, PHERIP IV, LONG MAY HE LIVE!!!”
+
+Crowd: 
+“BRAVA!”
+
+Quixote: 
+“IN SERVICE TO GOD AND HIS MADATE!!!”
+
+Crowd: 
+“BRAVA!”
+
+Quixote: 
+“SO MAY FOREVER REIGN THE EMPIRE OF SUZERAIN!!!”
+
+Crowd: 
+“BRAVA!!!”
+
+Narrator:
+The booming cries to usher in my rule shook the entire hall, then a silence fell.
+After savoring the moment for a few seconds, the Lord Chancellor made an emotional gesture to the band, who at once struck up an eloquent tune. The attendees began to disperse, and so began the festivities.
+Drinks and food were served, eventually dances took up between guests, however most of the foreign species abstained, likely not knowing our fashionable gallenes.
+Meanwhile, I sat upon my throne, observing all the mingling and activities, though for this celebration confined from joining them. I was meant to just behave like the August Emperor I now embodied, above even the upper echelons of our society, and apathetically judging their every move.
+I couldn’t wait until the next gathering, when I could truly act like a person again.
+Yet there was one matter which I was expected to actively participate in; the receiving of any important persons who would wish me well in my new position. The first among these were rather uninteresting, middling Nobles, the occasional especially famous celebrity, some prominent Industrialists and Merchants. 
+As the evening went on so did the magnitude of my well-wishers increase, starting with my future Councillors who made short introductions but each promising to speak more at our upcoming first meeting. Then came the foreign dignitaries, most gave rehearsed congratulations I had heard similarly be given to my Grandmother after the end of the 40 Years War, but some stood out.
+Strutting forth straight after an eye-catching dance with a Suzeraish Countess came the Queen of the Kingdom of the Eternal Star, Queen Solène Lapis. Her vibrant and regal orange fur complimented well with the sea of Suzerish colors, and though strange to our culture for a woman to have, she wore her mustache-styled snout fur well.
+She nodded her head with respect, her beautiful features enhanced by the smile she wore.
+
+Solène Lapis:
+“A most high praise and genuine congratulations at joining us in the monarchical sphere, your Majesty.”
+“While the loss of your Grandmother, Gods guide her soul, saddened us greatly across the Kingdom, we took comfort in the knowledge you’d be soon steering the nation in her absence.”
+“Rarely do I mean it when I say the following, but Sicill was a great inspiration to me and a close friend. Know I will do whatever I can to make your transition in the Emperorship smooth.”
+
+Dialog Choice #1
+Pherip:
+“Thank you, Queen Solène, really. Heaven knows I could do with a reliable member of the family during these shifting times.”
+
+Solène Lapis:
+“Most would hardly consider us family, dear Pherip, but I’m glad to see you think alike to myself.”
+“Distantly or not, we must look out for each other. I always saw Sicill as a sister, after all. Now you are like the nephew I wish to guide to greatness. Albeit many times removed.”
+“But I must say, Suzerains and Solis are more closely knit than one would expect, between our shared regal styles, beautiful aesthetics, and let’s not forget the flamboyant details.”
+
+Narrator:
+Solène swooshed her tail upwards and elegantly side to side behind her head, trying to replicate the extending of a Suzerain’s train.
+She wore an amused grin.
+
+Dialog Choice #1.1
+Smile and extend your train in a similar motion.
+
+Narrator:
+Solène and I laughed together. I got the sense she was either a very experienced politician, or a genuinely decent person.
+
+Solène Lapis:
+“You remind me so much of Sicill. Our nations are sure to meet the future side by side, I just know it.”
+“Now, I’ll not take up more of your time dear nephew, cousin, or whatever we should call each other. You have many more attendees seeking your attention.”
+
+Dialog Choice #1.2
+Pherip:
+“Your work on the dancefloor already convinced me of Solis and Suzerish overlaps. I’ve never seen a foreigner so quickly match our strut.”
+
+Solène Lapis:
+“Waltz, young Emperor. For a Solis it is our signature waltz.”
+“I also know my impartiality of partners is creating discourse among your court, so we are not completely one in the same, it seems.”
+“Speaking of, I’d ask you for the honor of a dance, but unfortunately now is not the occasion for such a thing. Perhaps next time.”
+“I’ll not take up more of your time dear nephew, cousin, or whatever we should call each other. You have many more attendees seeking your attention.”
+
+Dialog Choice #1.3
+Grin and nod your head in agreement.
+
+Solène Lapis:
+“I’ll not take up more of your time dear nephew, cousin, or whatever we should call each other. You have many more attendees seeking your attention.”
+
+Dialog Choice #2
+Pherip:
+“Quite. Am I to presume there is nothing your Kingdom would like in exchange for such help?”
+
+Solène Lapis:
+“There’s always something someone will want from you, Emperor. Remember that, or your reign will be a short one.”
+
+Narrator:
+I shifted in my seat uncomfortably.
+
+Solène Lapis:
+“As for myself, you know our struggles. Those Confederated Nobles to our south still present a considerable thorn in our foot. Sending your Armada to assist us would not go unappreciated.”
+“But this is not the time for such talk. Favors like these are to be asked through more official channels.”
+“With that, I’ll not take up more of your time. You have many more attendees seeking your attention.”
+
+Dialog Choice #3
+Pherip:
+“Your kind words touch me. I know you and my Grandmother shared a special connection, she spoke of you often. I hope to further sustain the cordial relations our nations have likewise held.”
+
+Solène Lapis:
+“Princess Saphron and my Son contribute much to that respect. I’ve another unmarried daughter, should you wish to further bind our countries together.”
+
+Dialog Choice #3.1
+“Send her portrait my way, I’ll seriously consider it.”
+
+Solène Lapis:
+“I’m sure you’ll find her youthful magnanimity quite complementary to your own. If there’s two things in this galaxy which attract, it's a Solis and Suzerain.”
+“With that, I’ll not take up more of your time. You have many more attendees seeking your attention.”
+
+Dialog Choice #3.2
+“Your offer is generous, but I’d rather not commit to anything this early.”
+
+Solène Lapis:
+“Very wise, your Majesty. Very wise indeed.”
+“Just write me should you come to a more decision-making point in your rule.”
+“With that, I’ll not take up more of your time. You have many more attendees seeking your attention.”
+
+Reconvene:
+Narrator:
+Marching down the steps, Solène turned her head back to me once again.
+
+Solène Lapis:
+“Do remember most of them aren’t your friends. Until next time.”
+
+Narrator:
+She rejoined the crowd, already looking for a new dance partner.
+Suzerain’s greatest ally- Only remaining ally, the Kingdom of the Eternal Star, would surely stay an important piece throughout my reign. I wasn’t sure whether as a future formidable foe, or steady comrade to lean on.
+Shortly after the Queen arose several prominent Noblemen, including of houses fue Léon, Trastiñora fuet Anizoti, Horchat, and Sebunillas.
+They bid me recited and acceptable felicitations, making clear their intentions of bending the knee would come with requests of their own. 
+But for now they restrained themselves from making all but the most obvious of requests like lowering taxes on the Nobility and distributing more titles for our conquered lands.
+I began to lose attention listening to their droning on about “Needing to maintain Suzerain’s traditions”, until a very shiny caravan of chests were brought up to me by their servants, spilling over with gold, art pieces, and rare artifacts (+2 Treasury). 
+These, they claimed, were but a small contribution the most loyal of Suzerain’s Noble families wanted to make to the state and new Emperor.
+Following these Nobles, came representatives of the Clergy, chief among them the Frances, our head of the Church, and the Obisote of Rizzi Empeliamus.
+With their retinue of various other Obisotes and Priests, I was given a series of prayers and blessings for my pious era, and another spiel of soft appeals. This time for more funds to be allocated in the conversion programs across the new borders, and support in creating additional churches and missions.
+They too had brought offerings, this time befitting the sanctity of their office. Documents displaying the transfer of a significant portion in that month’s tithe to the treasury, a bountiful boost indeed (+2 Treasury).
+With a gesture of blessing, they left me to mull over the nation’s new stimulus.
+I had a longer break between guests to think and rest my voice. Inevitably, however, I was informed several prominent commoners wished to approach me.
+ 
+Dialog Choice #1
+I haven’t the time nor will to entertain commoners, no matter how prominent. I reject their request.
+Imperial Majesty +2
+
+Dialog Choice #2
+Let even the low-born gaze on their new leader.
+
+Narrator:
+My guards led the commoners to me, though to label them the same as the general populace would be hardly accurate. These were some of the more prominent Burghers, being traders, industrialists, mine operators, and plantation owners from across the Empire. 
+Countless commoners seized the opportunities afforded them by the 40 Years War and its aftermath, carving a profitable slice for themselves to live akin to Nobles, some even more affluent. 
+I knew only some within this crowd by reputation, the rest blended into a stream of tacky clothes trying to replicate the elegance of an aristocrat’s garb.
+The exception was one Furique Vallitu, owner of the Vallitu Plantation Casscao and elected member of my Council of Councils.
+We all made simple introductions. The Burghers clearly were tense to be in my presence, unlike the previous two estates, given their lack of familiarity in seeing, let alone speaking to, the Monarch.
+It wasn’t long ago the most a commoner could boast was seeing their local Noble at a distance, now they were being given frequent audiences by the royal household itself.
+Such were the changing times my Grandmother charted.
+After some careful allusions to being grateful should I in future be willing to expand the rights of commoners to finish what Empress Sicill started, the tradition of gift giving was upheld, as expensive and colonially sprawling goods and jewels were donated to me for use at my pleasure (+1 Treasury).
+The collective wealth of these Burghers was nothing to scoff at, I’d have to truly keep in mind their economic influence moving forward.
+
+Reconvene:
+More and more guests came and went, though at last, some truly friendly faces made themselves known.
+My Mother, Duchess Isine, Brothers, Íñigo Robertz, Íñigo Charristo, and Íñigo Maté, and Sisters, Íñigante Cálitz and Íñigante Sicill, made their way to me side by side. 
+Even trying to refrain herself, my Mother beamed with adoration at seeing me. It was always her dream, she’d tell, to see me sit upon the throne my Father never could. 
+A short and informal bow was given by them all.
+Apart from Charristo, who bowed with all the ceremony he could gather.
+Stepping forward first, the eldest of my Brothers, Robertz, wore the proud and boastful expression he’d employ around other Nobles, making it clear he thought himself above all the rest. His justification for this tended to flip flop between either his own merits or relation to me, depending on the mood.
+
+Robertz fue Tholedo:
+“Pherip! How are you faring? Sitting there displayed like a prized pet must be exhausting.”
+
+Narrator:
+I couldn’t help but silently agree.
+
+Robertz fue Tholedo:
+“And tell me, my new Emperor, is the martial throne truly as uncomfortable as my army suspects?”
+
+Narrator:
+Isine rolled her eyes at Robertz, while my siblings, besides Charristo, snickered under their breaths.
+
+Dialog Choice #1
+“Robertz! You have no idea how desperately I want to escape this pageant and stiff chair with you to get blitzed…”
+
+(Hidden)
++1 Robertz Relationship
+
+Robertz fue Tholedo:
+“I’ll drink doubly more on your behalf. Though perhaps triply would be more accurate…”
+
+Isine fue Tholedo:
+“Enough, you two.”
+“You’ll have plenty of time later to goof around.”
+
+Narrator:
+I questioned if that were true.
+
+Dialog Choice #2
+“Standing would be preferable to this back-stiffening contraption. I can’t imagine why Grandmother lugged it around with her for the entire campaign.”
+
+Robertz fue Tholedo:
+“Looks fancier than a camp bench, I guess.”
+“But was it worth it? She’d always complain about her back, remember?”
+
+Narrator:
+I did. The only two signs of my Grandmother’s aging were her worsening back and fading eyesight. 
+Towards her final months, Sicill’s vision got bad enough she began confusing all my siblings and I. 
+To counteract this, we each kept our trains extended at halo when around her, the unique colors showed through better for her. She had even started calling us her “rainbow”.
+I thought about how even in such sad circumstances, happiness could still spawn.
+
+Dialog Choice #3
+“Can’t say it’s anything other than what your troops expected. Though I’m happy to see you all rather than another round of strangers.”
+
+Robertz fue Tholedo:
+“Charristo here could come across as any random petitioner, the way he grovels to you.”
+
+Charristo fue Tholedo:
+“I do not feel any shame at honoring our Brother, Robertz.”
+“OUR Emperor, need I remind.”
+
+Robertz fue Tholedo:
+“He’ll always be my Brother before my Emperor. Family comes before title.”
+
+Narrator:
+My Mother and other siblings nodded along.
+Charristo’s serious expression did not falter as he kept staring at me.
+
+Charristo fue Tholedo:
+“I’m sure His Majesty would beg to differ…?”
+
+Dialog Choice #3.1
+“You presume correctly, Íñigo. Though that does not mean we aren’t still family beside our titles.”
+
+(Hidden)
++1 Charristo Relationship
+
+Narrator:
+Both brothers seemed content with my answer, as Robertz un-tensed his shoulders and Charristo smiled at me.
+The rest of my family also seemed somewhat relieved I didn’t fully subscribe to Charristo’s line of thinking, but neither did they entirely like being distanced as subjects of mine.
+
+Charristo fue Tholedo:
+“Quite right, your Majesty.”
+“As your humble subjects, we will do our utmost to enforce your decree, and as family, you can trust us more than the average riffraff Noble.”
+
+Robertz fue Tholedo:
+“I wouldn’t discount the Nobility.”
+“Though you’re right on one thing: we Tholedos will always look out for one another more than outsiders.”
+
+Charristo fue Tholedo:
+“Not ALL the Tholedos. Our distant cousins should be kept at arm’s length.”
+
+Sicill fue Tholedo:
+“Right… Because Grandma treating us like equals didn’t get her very far now did it, Charristo?”
+
+Narrator:
+Charristo ignored the comment. He seemed happy enough to have gained my tangential support.
+
+Dialog Choice #3.2
+“Indeed, Íñigo. As my subjects, we all have a relationship now which transcends familial bonds.”
+
+(Hidden)
+-1 Isine Relationship
+-2 Robertz Relationship
++3 Charristo Relationship
+-1 Maté Relationship
+-1 Cálitz Relationship
+-1 Sicill Relationship
+
+Narrator:
+I saw the sting of pain flash across everyone’s, particularly Robertz’s, face, apart from Charristo.
+He, on the other hand, bolstered his posture in approval.
+
+Charristo fue Tholedo:
+“Exactly as you dictate, your Majesty.”
+“As your humble subjects, we will do our utmost to enforce your decree.”
+
+Sicill fue Tholedo:
+“Yes… Because Grandma treating us like equals didn’t get her very far now did it, Charristo?”
+
+Narrator:
+Charristo ignored the comment. He seemed happy enough to have gained my support.
+
+Dialog Choice #3.3
+“Oh, come off the formality, Charristo. Nothing matters more than our family, even the Imperial throne.”
+
+(Hidden)
++1 Isine Relationship
++2 Robertz Relationship
+-2 Charristo Relationship
++1 Maté Relationship
++1 Cálitz Relationship
++1 Sicill Relationship
+
+Narrator:
+Shock and disapproval flashed in Charristo’s eyes, even his perfect posture faltered for but a brief second.
+Quickly, though, he returned to his normal professional self, and smiled at me as if I had agreed with him wholeheartedly.
+The rest of my family smiled widely to me, grateful for the kind words.
+Robertz nudged Charristo with his elbow, which Charristo took great annoyance to.
+
+Robertz fue Tholedo:
+“See, my lovely Brother…? Your uptight ways are no match for the Tholedo spirit.”
+
+Narrator:
+With a shove of his elbow back at Robertz, Charristo couldn’t hold back a grin as they began roughhousing subtly as possible. Eventually both of them were attacked from their flanks by my other siblings, the entire family now embroiled in a shoving match.
+My Mother held her hand up to make them stop, but herself was smiling at the whole ordeal.
+
+Isine fue Tholedo:
+“Enough, all of you.”
+“You’ll have plenty of time later to goof around.”
+
+Narrator:
+I questioned if that were true.
+
+Reconvene:
+Narrator:
+My Mother turned to me, once more with affection glowing in her expression.
+She opened her beak to say something, though struggled for a few moments to find the words she was looking for.
+
+Isine fue Tholedo:
+“Your Father- He would be so proud of you, Pherip.”
+
+Narrator:
+I didn’t know entirely how to feel. Thinking of how he’d never gotten to show the galaxy his own worth, it felt unfair to be where I was. 
+Yet also, I knew this was the only chance someone could honor his memory, and be the kind of monarch he’d have been. 
+This did make me wonder, though, where my living up to his dreams would fit with or against my own plans.
+
+Dialog Choice #1
+“I miss him, Mom… So much… I- I’ll do whatever I can to make the Empire one he would smile upon.”
+
+(Hidden)
++1 Isine Relationship
+
+Narrator:
+My Mother just smiled, holding back her tears with full effort. I struggled to do the same.
+
+Dialog Choice #2
+“Thank you, Mother. It truly means a lot to have you and Father’s spirit with me, God willing.
+
+(Hidden)
++1 Maté Relationship
+
+Narrator:
+My Mother just smiled, holding back her tears with full effort. 
+
+Dialog Choice #3
+“Father didn’t get his chance to show the Empire what he had to offer… I hope in some sense, I can honor his memory through my own reign, reminded of what he always taught me.”
+
+(Hidden)
++1 Isine Relationship
+
+Narrator:
+My Mother just smiled, holding back her tears with full effort. I struggled to do the same.
+
+Dialog Choice #4
+Nod solemnly, but say nothing.
+
+Narrator:
+My Mother was holding back tears with full effort. 
+
+Reconvene:
+Narrator:
+My siblings too began fighting back their own sorrow, some better than others. 
+In an effort to recompose herself, my Mother shook her head and began beckoning the others to leave with her.
+
+Isine fue Tholedo:
+“We’ll leave you to finish up here.”
+“To great new beginnings, my wonderful son.”
+
+Narrator:
+She bowed, and my other siblings followed suit as they turned to leave with her. 
+
+Charristo fue Tholedo:
+“Our everlasting golden era is all but assured under your guidance, my Emperor.”
+
+Sicill fue Tholedo:
+“You’ll be amazing!”
+
+Maté fue Tholedo:
+“Felicitations, Pherip, and God be with you.”
+
+Cálitz fue Tholedo:
+“We’re rooting for you, old man!”
+
+Robertz fue Tholedo:
+“Do try to enjoy being Emperor every now and then, Pherip.” 
+
+Narrator:
+I nodded my farewell to them.
+After many, many, many more visitors, I finally was permitted to stand from the throne and get myself some food and drink.
+If I had to have sat in that throne any longer, I would've lost a part of my sanity.
+Estates, foreign rulers, my family, keeping track of them I knew would prove a feat in its own right, let alone pleasing them all.
+Though perhaps it would be better to consolidate my efforts on a select few? It would draw the ire of those left out of my favor, indeed. Yet I am sovereign, such choices are mine to make.
+Or does even my absolute rule require the consent of others? This I pondered on.
+Scouring whatever was left at the banquet tables, I obtained a strong glass of wine, and tried to compile a meal of my favorite meats and pairings.
+All of it had long grown cold, but it was better than nothing.
