@@ -1,18 +1,18 @@
 # Character Images
 
-image quixote = "images/quixote_fue_ostamara.png"
-image furique = "images/furique_vallitu.png"
-image torrez = "images/torrez_fue_léon.png"
-image aurgenbia = "images/aurgenbia_panzarre.png"
-image gaucho = "images/gaucho_fue_léon.png"
-image cervanzian = "images/cervanzian_mulocco.png"
-image isine = "images/Isine_fue_Tholedo.png"
-image charristo = "images/Charristo_fue_Tholedo.png"
-image mate = "images/Maté_fue_Tholedo.png"
-image calitz = "images/Cálitz_fue_Tholedo.png"
-image sicill = "images/Sicill fue Tholedo.png"
-image robertz = "images/Robertz_fue_Tholedo.png"
-image solene = "images/Solène_Lapis.png"
+image quixote = Transform("images/quixote_fue_ostamara.png", yoffset=-5)
+image furique = Transform("images/furique_vallitu.png", yoffset=-5)
+image torrez = Transform("images/torrez_fue_léon.png", yoffset=-5)
+image aurgenbia = Transform("images/aurgenbia_panzarre.png", yoffset=-5)
+image gaucho = Transform("images/gaucho_fue_léon.png", yoffset=-5)
+image cervanzian = Transform("images/cervanzian_mulocco.png", yoffset=-5)
+image isine = Transform("images/Isine_fue_Tholedo.png", yoffset=-5)
+image charristo = Transform("images/Charristo_fue_Tholedo.png", yoffset=-5)
+image mate = Transform("images/Maté_fue_Tholedo.png", yoffset=-5)
+image calitz = Transform("images/Cálitz_fue_Tholedo.png", yoffset=-5)
+image sicill = Transform("images/Sicill fue Tholedo.png", yoffset=-5)
+image robertz = Transform("images/Robertz_fue_Tholedo.png", yoffset=-5)
+image solene = Transform("images/Solène_Lapis.png", yoffset=-5)
 
 # Narrator
 
