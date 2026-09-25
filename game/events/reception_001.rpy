@@ -137,8 +137,7 @@ label reception_001:
     $ carriage_choice = renpy.display_menu([
         (reception_choice_text(1), "slow"),
         (reception_choice_text(2), "footboard"),
-        (reception_choice_text(3), "encourage"),
-        (reception_choice_text(4), "fast"),
+        (reception_choice_text(3), "fast"),
     ])
     if carriage_choice == "slow":
         $ popularity += 1
@@ -149,85 +148,82 @@ label reception_001:
         $ popularity += 2
         $ imperial_majesty -= 1
         $ reception_say_choice(2)
-    elif carriage_choice == "encourage":
-        $ imperial_majesty += 1
-        $ reception_say_choice(3)
     else:
         $ imperial_majesty += 2
         $ popularity -= 1
-        $ reception_say_choice(4)
+        $ reception_say_choice(3)
     $ reception_say_reconvene(1)
 
     $ solene_choice = renpy.display_menu([
-        (reception_choice_text(5), "family"),
-        (reception_choice_text(9), "transaction"),
-        (reception_choice_text(10), "cordial"),
+        (reception_choice_text(4), "family"),
+        (reception_choice_text(8), "transaction"),
+        (reception_choice_text(9), "cordial"),
     ])
     if solene_choice == "family":
         $ solene_relationship += 1
-        $ reception_say_choice(5)
+        $ reception_say_choice(4)
         $ solene_family_choice = renpy.display_menu([
-            (reception_choice_text(6), "train"),
-            (reception_choice_text(7), "dance"),
-            (reception_choice_text(8), "nod"),
+            (reception_choice_text(5), "train"),
+            (reception_choice_text(6), "dance"),
+            (reception_choice_text(7), "nod"),
         ])
         if solene_family_choice == "train":
             $ solene_relationship += 1
-            $ reception_say_choice(6)
+            $ reception_say_choice(5)
         elif solene_family_choice == "dance":
-            $ reception_say_choice(7)
+            $ reception_say_choice(6)
         else:
-            $ reception_say_choice(8)
+            $ reception_say_choice(7)
     elif solene_choice == "transaction":
         $ solene_relationship -= 1
-        $ reception_say_choice(9)
+        $ reception_say_choice(8)
     else:
         $ solene_relationship += 1
-        $ reception_say_choice(10)
+        $ reception_say_choice(9)
         $ solene_marriage_choice = renpy.display_menu([
-            (reception_choice_text(11), "portrait"),
-            (reception_choice_text(12), "wait"),
+            (reception_choice_text(10), "portrait"),
+            (reception_choice_text(11), "wait"),
         ])
         if solene_marriage_choice == "portrait":
             $ solene_relationship += 1
-            $ reception_say_choice(11)
+            $ reception_say_choice(10)
         else:
-            $ reception_say_choice(12)
+            $ reception_say_choice(11)
     $ reception_say_reconvene(2)
 
     $ burgher_choice = renpy.display_menu([
-        (reception_choice_text(13), "reject"),
-        (reception_choice_text(14), "receive"),
+        (reception_choice_text(12), "reject"),
+        (reception_choice_text(13), "receive"),
     ])
     if burgher_choice == "reject":
         $ imperial_majesty += 2
-        $ reception_say_choice(13)
+        $ reception_say_choice(12)
     else:
         $ treasury += 1
         $ burgher_approval += 1
-        $ reception_say_choice(14)
+        $ reception_say_choice(13)
     $ reception_say_reconvene(3)
 
     $ family_choice = renpy.display_menu([
-        (reception_choice_text(15), "drink"),
-        (reception_choice_text(16), "throne"),
-        (reception_choice_text(17), "family"),
+        (reception_choice_text(14), "drink"),
+        (reception_choice_text(15), "throne"),
+        (reception_choice_text(16), "family"),
     ])
     if family_choice == "drink":
         $ robertz_relationship += 1
-        $ reception_say_choice(15)
+        $ reception_say_choice(14)
     elif family_choice == "throne":
-        $ reception_say_choice(16)
+        $ reception_say_choice(15)
     else:
-        $ reception_say_choice(17)
+        $ reception_say_choice(16)
         $ charristo_choice = renpy.display_menu([
-            (reception_choice_text(18), "balance"),
-            (reception_choice_text(19), "subjects"),
-            (reception_choice_text(20), "family"),
+            (reception_choice_text(17), "balance"),
+            (reception_choice_text(18), "subjects"),
+            (reception_choice_text(19), "family"),
         ])
         if charristo_choice == "balance":
             $ charristo_relationship += 1
-            $ reception_say_choice(18)
+            $ reception_say_choice(17)
         elif charristo_choice == "subjects":
             $ isine_relationship -= 1
             $ robertz_relationship -= 2
@@ -235,7 +231,7 @@ label reception_001:
             $ mate_relationship -= 1
             $ calitz_relationship -= 1
             $ sicill_relationship -= 1
-            $ reception_say_choice(19)
+            $ reception_say_choice(18)
         else:
             $ isine_relationship += 1
             $ robertz_relationship += 2
@@ -243,26 +239,26 @@ label reception_001:
             $ mate_relationship += 1
             $ calitz_relationship += 1
             $ sicill_relationship += 1
-            $ reception_say_choice(20)
+            $ reception_say_choice(19)
     $ reception_say_reconvene(4)
 
     $ mother_choice = renpy.display_menu([
-        (reception_choice_text(21), "miss"),
-        (reception_choice_text(22), "spirit"),
-        (reception_choice_text(23), "honor"),
-        (reception_choice_text(24), "silent"),
+        (reception_choice_text(20), "miss"),
+        (reception_choice_text(21), "spirit"),
+        (reception_choice_text(22), "honor"),
+        (reception_choice_text(23), "silent"),
     ])
     if mother_choice == "miss":
         $ isine_relationship += 1
-        $ reception_say_choice(21)
+        $ reception_say_choice(20)
     elif mother_choice == "spirit":
         $ mate_relationship += 1
-        $ reception_say_choice(22)
+        $ reception_say_choice(21)
     elif mother_choice == "honor":
         $ isine_relationship += 1
-        $ reception_say_choice(23)
+        $ reception_say_choice(22)
     else:
-        $ reception_say_choice(24)
+        $ reception_say_choice(23)
     $ reception_say_reconvene(5)
 
     hide portrait

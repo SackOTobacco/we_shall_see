@@ -4,10 +4,8 @@ reception_001
 Narrator:
 Cheers of elation, showers of flower pedals, and the thunder of marching soldiers. This is what engulfed my senses as I was driven by carriage to the royal palace.
 It truly was beyond the scale of even my Grandmother’s coronation, which despite having been only a child at the time, I remembered especially among a flood of other imperial celebrations.
-Being the heir to a now star spanning empire—in fact the largest in known galactic history—carried with it some necessity to eclipse any previous levels of grandeur. I knew my government had a field day concocting all manner of ways to spend our ever growing treasury in this regard. 
-My favorite thus far was the proposal to terraform our largest moon to resemble my visage, however nonsensical it was.
-Riding down the cobblestone streets of Isa Bellmaré, with Suzerain’s royal heraldry hung over every conceivable space, I thought more of my Grandmother. How I used to sit beside her and my parents in this very carriage, watching her wave at our subjects in the graceful manner befitting an Empress. 
-She seemed so perfect in those moments, so absolute, so beyond comparison. 
+Being the heir to a now star spanning empire—in fact the largest in known galactic history—carried with it some necessity to eclipse any previous levels of grandeur. I knew my government had a field day concocting all manner of ways to spend our ever growing treasury in this regard. My favorite thus far was the proposal to terraform our largest moon to resemble my visage, however nonsensical it was.
+Riding down the cobblestone streets of Isa Bellmaré, with Suzerain’s royal heraldry hung over every conceivable space, I thought more of my Grandmother. How I used to sit beside her and my parents in this very carriage, watching her wave at our subjects in the graceful manner befitting an Empress. She seemed so perfect in those moments, so absolute, so beyond comparison. 
 Yet just before I’d begin to think my Grandmother couldn’t possibly pay any mind to someone like me, someone mortal, she’d give a glance and warm smile, as if to say “My dear, none of this is more important than you”. 
 That’s the version of Sicill held fondly in my mind. Beside this aura of unassailability which most of Suzerain viewed her with, I recalled when she’d help lift me on the palace balcony to wave down at her gathered subjects, how we’d quietly throw crumbs of bread at one another during dinner with impish smiles.
 How we mourned my Father’s passing.
@@ -15,8 +13,7 @@ She’d tell me my Father would be so proud of the man I was shaping up to be, t
 I always hoped she was right. Yet I couldn't shake the thought of Sicill's shadow—how I'd spend my entire reign cast beneath it, measured against her. 
 I shook this concern out of mind. Today was one of new beginnings, of my turn to shape Suzerain, and now the galaxy.
 Making our final journey towards Catheljunta, the imperial palace and my home, a swarm of commoners tried to follow in pace, becoming quickly fatigued at the steep mountainous climb, but pushing through their weariness all the same. I saw the boiling and panting faces of many Suzerains as they jogged, parents even carrying their children, all in an effort to simply be as close to me as possible throughout this last stretch of public viewing.
-Beside my carriage ran a rather young boy, whose friends were leagues behind him, puffing his cheeks and exerting every effort to not fall behind me. He snuck glances in my direction every chance he got, though to avoid losing his focus and being overtaken by the surrounding crowd, he kept turning his head violently from side to front. 
-His rigid arms, serious expression, and stiff motions made him to me appear a soldier.
+Beside my carriage ran a rather young boy, whose friends were leagues behind him, puffing his cheeks and exerting every effort to not fall behind me. He snuck glances in my direction every chance he got, though to avoid losing his focus and being overtaken by the surrounding crowd, he kept turning his head violently from side to front. His rigid arms, serious expression, and stiff motions made him to me appear a soldier.
 Dialog Choice #1
 Pherip:
 I ordered my carriage to slow down, allowing the crowd a slower pace to keep up with me.
@@ -32,7 +29,7 @@ The young boy took a moment to regain his breath, grinning as he turned, waving 
 I heard cries of joy as the crowd immediately surrounding my carriage grew in size, all wishing me both success in my rule and thanks for my gesture.
 Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, with most of my subjects having reached the peak with me, though had no more energy to continue any further.
 It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
-The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerain Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
 They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
 
 Dialog Choice #2
@@ -45,29 +42,16 @@ Legitimacy -1
 
 Narrator:
 At first, the boy didn’t fathom I was addressing him, he turned his head to either side trying to see with whom I was gesturing to. Upon reiterating my offer, his eyes widened with bewilderment. 
-A guard made room for the child to enter, and he with no hesitation made a break for my carriage.
-At first, he continued his march beside me, awe stricken at being so close to his Emperor. He even saluted me with his short little arms.
-Whilst amusing, I again offered him a spot on the footboard, which he looked up to me questioningly, as if asking if he were worthy. With a nod, I assured him it was ok, and he reluctantly yet gleefully climbed aboard.
+A guard made room for the child to enter, to which he with no hesitation made a break for my carriage. At first, he continued his march beside me, awe stricken at being so close to his Emperor. He even saluted me with his short little arms.
+Whilst amusing, I again offered him a spot on the footboard, which he looked up to be questioningly, as if asking if he were worthy. With a nod, I assured him it was ok, and he reluctantly yet gleefully climbed aboard.
 I’d never seen such amazement in someone before. For him, this was a dream come true. 
 Along the journey, the boy waved at passers by, who laughed at his extreme luck. I even caught him in one instance boastfully waving to his friends that had fallen behind. They seemed so impressed one of their own pals was riding on the royal carriage at the Emperor’s personal invitation.
 I knew he’d brag about this for the rest of his life.
 Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, only the strongest physiqued or willed of my subjects made it the full way with me.
 It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
-The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
+The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerain Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
 They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
-The young boy who had become visibly lost in the other world he found himself in was swiftly guided by a servant off the footboard, and per my instructions, was to be permitted as a special guest for the festivities should he wished.
-
-Dialog Choice #3
-Pherip:
-I encouraged the young boy and crowd, waving and rallying them to keep up with me.
-(Hidden)
-Legitimacy +1
-
-Narrator:
-I motioned at the crowd, telling them they could keep up with just a bit more effort. 
-Most seemed to get an extra boost in their step at seeing this, and seeing my intervention was working, I proclaimed my subjects had it within them to stay by their Emperor, if only they wished.
-This really got them moving, and the crowd of people, that young boy included, huffed and puffed at my behest, hoping to show off their loyalty to me, and seemingly genuinely having a second wind.
-Our ascending and bumpy ride continued to the peak of Mount Esquoraine, just shy of piercing the clouds and heavens slightly above. The carriage eased off on the plateau, only the strongest physiqued or willed of my subjects made it the full way with me.
+The young boy who had become visibly lost in the other world he found himself in was swiftly guided by a servant off the footboard, and as I instructed, was to be permitted as a special guest for the festivities should he wished.
 It was the middle of spring, and so lush alpine flora littered fresh grass fields along the roadside, more plentiful than even the bouquets being thrown back in town. We turned to cross a thin, towering bridge which connected the natural cross country to the enclosed cliff side whereupon Catheljunta stood. Its domed marble roofs, elegant towers, and thick walls projected the sense of safety and majesty that I’d grown accustomed to living within all my life.
 The large entrance gates swung open dramatically, and music heralded my arrival as the newly coronated Emperor. Already a mass of attendees occupied the courtyard, made up predominantly of Suzerish Nobility, though I spotted the occasional smartly dressed Burgher, celebrity, and foreign dignitary.
 They cheered with elation as my carriage made a victory lap around the central fountain, and finally, we stopped before an emerald carpet leading into the main reception hall of the palace. 
