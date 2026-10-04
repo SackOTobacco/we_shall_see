@@ -17,6 +17,9 @@ default charristo_relationship = 0
 default mate_relationship = 0
 default calitz_relationship = 0
 default sicill_relationship = 0
+default aeteran_relations = 0
+default bourbon_relationship = 0
+default aeteran_independence_guaranteed = False
 
 # Political variables
 
@@ -38,6 +41,8 @@ default domestic_production = 0
 # Story flags
 
 default colony_preference = None
+default prologue_origin = None
+default prologue_befriended = False
 
 default current_turn = 1
 default max_turns = 12

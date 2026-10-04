@@ -263,6 +263,6 @@ label reception_001:
 
     hide portrait
 
-    $ current_event = "grand_council_001"
+    $ current_event = "reception_002"
     call screen galaxy_map
     return
