@@ -96,7 +96,7 @@ init python:
                     zorder=-100
                 )
 
-            renpy.say(n if speaker is None else speaker, line)
+            renpy.say(n if speaker is None else speaker, dialogue_codex_markup(line))
 
 
     def reception_say_choice(choice_number):

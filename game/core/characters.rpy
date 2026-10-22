@@ -70,29 +70,29 @@ define c = Character(
 # House Tholedo
 
 define isine = Character(
-    "Isine fue Tholedo"
+    "{a=codex_name:isine_tholedo}Isine fue Tholedo{/a}"
 )
 
 define charristo = Character(
-    "Charristo fue Tholedo"
+    "{a=codex_name:charristo_tholedo}Charristo fue Tholedo{/a}"
 )
 
 define mate = Character(
-    "Maté fue Tholedo"
+    "{a=codex_name:mate_tholedo}Maté fue Tholedo{/a}"
 )
 
 define calitz = Character(
-    "Cálitz fue Tholedo"
+    "{a=codex_name:calitz_tholedo}Cálitz fue Tholedo{/a}"
 )
 
 define sicill = Character(
-    "Sicill fue Tholedo"
+    "{a=codex_name:sicill_tholedo}Sicill fue Tholedo{/a}"
 )
 
 define robertz = Character(
-    "Robertz fue Tholedo"
+    "{a=codex_name:robertz_tholedo}Robertz fue Tholedo{/a}"
 )
 
 define solene = Character(
-    "Queen Solène Lapis"
+    "{a=codex_name:solene_lapis}Solène Lapis{/a}"
 )

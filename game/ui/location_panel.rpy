@@ -1,5 +1,9 @@
 screen location_panel(location, from_event=False):
 
+    # The map is modal at zorder 200, so location details must appear above it.
+    zorder 201
+    modal True
+
     frame:
 
         xalign 0.5
@@ -57,6 +61,10 @@ screen location_panel(location, from_event=False):
                 )
                 
 screen codex_screen(location):
+
+    # The codex is opened from a location panel while the modal map remains.
+    zorder 201
+    modal True
 
     frame:
 

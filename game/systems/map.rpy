@@ -110,9 +110,17 @@ init python:
 
 default map_x_adjustment = ui.adjustment()
 default map_y_adjustment = ui.adjustment()
+default map_suzerain_hovered = False
+default map_eternal_star_hovered = False
 
 
 screen galaxy_map(from_event=False):
+
+    # The map is a separate interaction from the event underneath it. Keep
+    # it above overlay controls and make it modal so pointer and keyboard
+    # input cannot fall through to dialogue or other screens.
+    zorder 200
+    modal True
 
     # ========================================================
     # MOUSE WHEEL = ZOOM
@@ -131,7 +139,6 @@ screen galaxy_map(from_event=False):
         map_x_adjustment,
         map_y_adjustment
     )
-
 
     # ========================================================
     # MAP SCALE
@@ -194,12 +201,94 @@ screen galaxy_map(from_event=False):
             # MAP
             # ====================================================
 
-            add "images/world_map.png":
+            if map_eternal_star_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "eternal_star"
+            ):
+
+                add "images/world_map_Eternal_Star_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_suzerain_hovered:
+
+                add "images/world_map_Suzerain_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            else:
+
+                add "images/world_map.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            # The images and hit mask share native map coordinates, so the
+            # viewport moves and scales all three together.
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_suzerain_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_suzerain_hovered", True)
+                unhovered SetVariable("map_suzerain_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_eternal_star_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_eternal_star_hovered", True)
+                unhovered SetVariable("map_eternal_star_hovered", False)
+
+            button:
 
                 xpos 0
                 ypos 0
 
-                zoom map_zoom
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_eternal_star_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "eternal_star")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
 
 
             # ====================================================

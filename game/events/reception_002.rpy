@@ -16,14 +16,26 @@ image almorthy_courtyard_background = Transform(
     ysize=config.screen_height
 )
 
+image almorthy_hunting_room_background = Transform(
+    "images/Almörthy_Hunting_Room.png",
+    xsize=config.screen_width,
+    ysize=config.screen_height
+)
+
 image royal_great_cabin_background = Transform(
     "images/Royal_Great_Cabin.png",
     xsize=config.screen_width,
     ysize=config.screen_height
 )
 
-define zichy = Character("Zichy Hoovitz")
-define joziff = Character("Józiff Ivanothy")
+image bourbon_hunting_lodge_background = Transform(
+    "images/Bourbon’s_Hunting_Lodge.png",
+    xsize=config.screen_width,
+    ysize=config.screen_height
+)
+
+define zichy = Character("{a=codex_name:zichy_hoovitz}Zichy Hoovitz{/a}")
+define joziff = Character("{a=codex_name:joziff_ivanothy}Józiff Ivanothy{/a}")
 define bourbon = Character("Bourbon Landstrouss")
 define zladisyormund = Character("Zladisyormund Kesfer")
 
@@ -43,6 +55,8 @@ init python:
         "I was escorted outside to a snow covered garden courtyard, the crunch of snow and pebbles beneath my feet were all my mind focused on between the murmurs of the Nobles and the organizing by Józiff to make room for us.",
         "Traversing through the halls I was just gleefully toured in by the same crowd now chasing shoving guards and shouting for Zichy’s release, it was baffling how quickly things had turned sour.",
         "My brothers continued to argue.",
+        "I never saw him again that night. Later I heard he’d been found asleep in the garden completely buried in snow.",
+        "Everyone continued to stuff themselves, and I finally nearly finished my plate, struggling to do so without my stomach bursting.",
         "Finally we made it to my shuttle. Józiff remained by my side until I stepped on the boarding ramp, after which he turned to the crowd.",
         "I boarded the shuttle and we made off, leaving my guards to help Józiff stave off what to me seemed a potential rebellion.",
         "Back on my flagship, we took a day in orbit to observe the situation.",
@@ -124,11 +138,22 @@ init python:
         nodes = {}
         order = []
         current = None
+        next_continues_dialog = False
         for line in lines:
+            if line.strip() == "(Continues Dialog)":
+                next_continues_dialog = True
+                continue
             header = reception_002_choice_header(line)
             if header:
                 current = header[0]
-                nodes[current] = {"id": current, "meta": header[1], "body": [], "children": []}
+                nodes[current] = {
+                    "id": current,
+                    "meta": header[1],
+                    "body": [],
+                    "children": [],
+                    "continues_dialog": next_continues_dialog,
+                }
+                next_continues_dialog = False
                 order.append(current)
             elif current is not None:
                 nodes[current]["body"].append(line)
@@ -263,6 +288,12 @@ init python:
                     tag="event_background",
                     zorder=-100
                 )
+            if line == "I made my way to Józiff, who introduced me to his entourage of prominent and like-minded Nobles, then we headed off to another wing of the palace. It was a hardy hunting room filled with pelts, trophies, and tapestries of past excursions.":
+                renpy.show(
+                    "almorthy_hunting_room_background",
+                    tag="event_background",
+                    zorder=-100
+                )
             if line == "I was escorted outside to a snow covered garden courtyard, the crunch of snow and pebbles beneath my feet were all my mind focused on between the murmurs of the Nobles and the organizing by Józiff to make room for us.":
                 renpy.show(
                     "almorthy_courtyard_background",
@@ -281,7 +312,31 @@ init python:
                     tag="event_background",
                     zorder=-100
                 )
-            renpy.say(speaker, line)
+
+            if "it was a charming little lodge" in line.lower():
+                renpy.show(
+                    "bourbon_hunting_lodge_background",
+                    tag="event_background",
+                    zorder=-100
+                )
+
+            # Bourbon is introduced at different points in the two prologue
+            # routes. Show his portrait on the specified first appearance for
+            # each route, then leave it active for his subsequent dialogue.
+            if (not prologue_befriended
+                    and line == "Bourbon Landstrouss, one of my cousins."):
+                renpy.show("bourbon_portrait", tag="portrait", zorder=0)
+
+            if (prologue_befriended
+                    and line == "“The crown already weighs heavily on you, Pherip.”"):
+                renpy.show("bourbon_portrait", tag="portrait", zorder=0)
+
+            # Ren'Py applies old-style %-formatting to dialogue strings. Escape
+            # literal percent signs from the source so values like "2%" stay text.
+            renpy.say(speaker, dialogue_codex_markup(line.replace("%", "%%")))
+
+            if line.startswith("“What was her name"):
+                renpy.hide("portrait")
 
     def reception_002_run_node(choice_id):
         if choice_id not in reception_002_all_nodes:
@@ -300,6 +355,8 @@ init python:
             reception_002_run_node(selected)
 
     def reception_002_run_menu(lines):
+        repeated = store.reception_002_repeat_pending
+        store.reception_002_repeat_pending = False
         first_choice = next((i for i, line in enumerate(lines) if reception_002_choice_header(line)), len(lines))
         prelude = lines[:first_choice]
         if prelude:
@@ -312,9 +369,23 @@ init python:
             roots = []
         if not roots:
             return
-        selected = renpy.display_menu([(reception_002_choice_text(node), node["id"]) for node in roots])
-        store.reception_002_chosen_choices.add(selected)
-        reception_002_run_node(selected)
+        if repeated:
+            remaining = list(roots)
+            while remaining and not store.reception_002_finished:
+                selected = renpy.display_menu([
+                    (reception_002_choice_text(node), node["id"])
+                    for node in remaining
+                ])
+                store.reception_002_chosen_choices.add(selected)
+                chosen_node = store.reception_002_all_nodes[selected]
+                reception_002_run_node(selected)
+                remaining = [node for node in remaining if node["id"] != selected]
+                if chosen_node["continues_dialog"]:
+                    break
+        else:
+            selected = renpy.display_menu([(reception_002_choice_text(node), node["id"]) for node in roots])
+            store.reception_002_chosen_choices.add(selected)
+            reception_002_run_node(selected)
 
     def reception_002_run_event():
         lines, events = reception_002_parse_source()
@@ -322,12 +393,15 @@ init python:
         store.reception_002_chosen_choices = set()
         store.reception_002_all_nodes = {}
         store.reception_002_route_condition = None
+        store.reception_002_repeat_pending = False
         for kind, content in events:
             if store.reception_002_finished:
                 break
             if kind == "menu":
                 reception_002_run_menu(content)
             else:
+                if any(line.strip() == "Repeated:" for line in content):
+                    store.reception_002_repeat_pending = True
                 has_route_marker = any(
                     "if player chose to befriend" in line.lower()
                     or "if player didn’t chose to befriend" in line.lower()

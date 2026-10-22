@@ -213,20 +213,31 @@ style input:
 screen choice(items):
     style_prefix "choice"
 
-    vbox:
-        for i in items:
-            textbutton i.caption action i.action
+    viewport:
+        xalign 0.5
+        yalign 0.5
+        xmaximum gui.choice_button_width + 30
+        ymaximum int(config.screen_height * 0.82)
+        scrollbars "vertical"
+        mousewheel True
+        draggable True
+        pagekeys True
+
+        vbox:
+            for i in items:
+                textbutton i.caption action i.action
 
 
 style choice_vbox is vbox
 style choice_button is button
 style choice_button_text is button_text
+style choice_vscrollbar is vscrollbar
+
+style choice_vscrollbar:
+    unscrollable gui.unscrollable
 
 style choice_vbox:
     xalign 0.5
-    ypos 540
-    yanchor 0.5
-
     spacing gui.choice_spacing
 
 style choice_button is default:
@@ -247,6 +258,13 @@ screen quick_menu():
     zorder 100
 
     if quick_menu:
+
+        if active_event and not renpy.get_screen("galaxy_map") and not renpy.get_screen("codex_popup") and not renpy.get_screen("codex_screen"):
+            # Mouse-wheel bindings normally roll dialogue backward/forward.
+            # During events, consume them so they cannot skip to an event's
+            # later map call or undo event choices.
+            key "mousedown_4" action NullAction()
+            key "mousedown_5" action NullAction()
 
         hbox:
             style_prefix "quick"

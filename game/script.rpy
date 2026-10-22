@@ -2,6 +2,8 @@
 
     "Empire of Suzerain"
 
+    call prologue_001
+
     call screen galaxy_map
 
     jump empire_overview

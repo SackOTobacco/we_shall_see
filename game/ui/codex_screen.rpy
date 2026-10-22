@@ -1,7 +1,9 @@
 default codex_current = None
 
 screen codex_popup():
+    default codex_scroll_target = None
 
+    zorder 300
     modal True
 
     frame:
@@ -21,10 +23,16 @@ screen codex_popup():
 
         null height 20
 
+        # The viewport's native wheel handling is disabled below to avoid it
+        # competing with these animated, accumulated wheel steps.
+        key "viewport_wheelup" action Function(codex_smooth_scroll, -1)
+        key "viewport_wheeldown" action Function(codex_smooth_scroll, 1)
+
         viewport:
+            id "codex_biography"
 
             draggable True
-            mousewheel True
+            mousewheel False
 
             ymaximum 650
 

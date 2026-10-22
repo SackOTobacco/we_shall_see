@@ -232,7 +232,7 @@ label grand_council_001:
 
             p "Seeing as how my Grandmother preferred Unifier over Conqueror, a martial title sounds appealing."
 
-            n "Furique gestured toward my Captain General, Gaucho fue Léon."
+            n "Furique gestured toward my Grand Martialissimo, Gaucho fue Léon."
 
             f "For that, the younger of the fue Léons would be a better consultant."
 
@@ -260,7 +260,7 @@ label grand_council_001:
             g "So long as those Fespians are still a relevant galactic player, our wars are far from complete."
 
             show expression "quixote" as portrait
-            q "Do wait your turn to consult His Majesty, Captain General."
+            q "Do wait your turn to consult His Majesty, Grand Martialissimo."
 
             show expression "gaucho" as portrait
             g "My apologies, Your Grace."
@@ -426,11 +426,11 @@ label grand_council_001:
 
                     menu:
 
-                        "Captain General, your position on my Council does not give you the right to insult and even threaten violence against a member of the royal family, scandal or not. You will apologize this instant.":
+                        "Grand Martialissimo, your position on my Council does not give you the right to insult and even threaten violence against a member of the royal family, scandal or not. You will apologize this instant.":
 
                             $ gaucho_relationship -= 1
 
-                            p "Captain General, your position on my Council does not give you the right to insult and even threaten violence against a member of the royal family, scandal or not. You will apologize this instant."
+                            p "Grand Martialissimo, your position on my Council does not give you the right to insult and even threaten violence against a member of the royal family, scandal or not. You will apologize this instant."
 
                             n "Gaucho narrowed his eyes."
 
@@ -491,9 +491,9 @@ label grand_council_001:
 
                                             jump aurgenbia_reconvene
 
-                                "We'll continue this discussion at a later date, Captain General...":
+                                "We'll continue this discussion at a later date, Grand Martialissimo...":
 
-                                    p "We'll continue this discussion at a later date, Captain General..."
+                                    p "We'll continue this discussion at a later date, Grand Martialissimo..."
 
                                     show expression "gaucho" as portrait
                                     g "Come, Your Majesty, don't back down so easily."
@@ -534,11 +534,11 @@ label grand_council_001:
 
                                     g "Either way my hopes are realized."
 
-                                "Do not push your luck, Captain General. I can and WILL make you the one with a set execution date.":
+                                "Do not push your luck, Grand Martialissimo. I can and WILL make you the one with a set execution date.":
 
                                     $ gaucho_relationship += 2
 
-                                    p "Do not push your luck, Captain General. I can and WILL make you the one with a set execution date."
+                                    p "Do not push your luck, Grand Martialissimo. I can and WILL make you the one with a set execution date."
 
                                     n "To my and everyone else's surprise, apart from Torrez, Gaucho smiled from ear to ear."
 
@@ -718,9 +718,9 @@ label aurgenbia_reconvene:
     show expression "torrez" as portrait
     t "Precisely."
 
-    t "On which topic, the Captain General should at last make his formal introductions."
+    t "On which topic, the Grand Martialissimo should at last make his formal introductions."
 
-    n "Torrez remained standing, and Gaucho, his younger brother and Captain General of War and Security, joined him."
+    n "Torrez remained standing, and Gaucho, his younger brother and Grand Martialissimo of War and Security, joined him."
 
     hide torrez
     show expression "quixote" as portrait
@@ -916,7 +916,7 @@ label aurgenbia_reconvene:
             g "Such a relic is to be safeguarded with honors, not spent."
 
             show expression "furique" as portrait
-            f "It's their theoretical coin, Captain General."
+            f "It's their theoretical coin, Grand Martialissimo."
 
             f "They may do with it as they wish."
 
