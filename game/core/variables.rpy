@@ -43,6 +43,7 @@ default domestic_production = 0
 default colony_preference = None
 default prologue_origin = None
 default prologue_befriended = False
+default first_decree = None
 
 default current_turn = 1
 default max_turns = 12

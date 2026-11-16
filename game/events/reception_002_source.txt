@@ -3,7 +3,7 @@ Narrator:
 Part of my inaugural duties was to take a tour of the Empire.
 Naturally, the territorial extent of that Empire changed drastically from our last coronation, and thus it was decided rather than simply visiting various regions on Isa Bellmaré, I’d journey through only the most vital provinces, then take my voyage to the capitals of our new subjects and colonies.
 Several Dominions, a junior Empire, Federation, and Principality later, I arrived at the Kingdom of Aeteran, once vassal to the Kammarian Empire, now both fly the Suzerish banner.
-Although a Kingdom, it never officially had a King since Kammaria first concocted the puppet state after the second bout in the 40 Years War.
+Although a Kingdom, it never officially had a King since Kammaria first concocted the puppet state after the second bout in the 30 Years War.
 A Prince-Regent, named Józiff Ivanothy, was proclaimed whilst the future King was to be decided on. That evidently has not yet come to pass.
 I was led by enthusiastic Aeteran Nobles through the royal palace, Almörthy. They showed me various turrets and towers which protruded from the main structure, great halls lined with tapestries of various hunts and battles the Nobles took part in, all interiorly designed in dark carved wood and arches that gave a serious character to the whole place.
 The wooden and rug-laden floors made an unusual sound I wasn’t used to, nothing like the slick marble we used in Suzerain.
@@ -3140,7 +3140,7 @@ Pherip:
 “Aeteran is the breadbasket of our Empire. I won’t let such a situation persist.”
 
 Zichy Hoovitz:
-“Admitedly, what my fellows and I are asking for will cost a pretty amount from the treasury, not to mention the time before any returns are seen, but trust me, you won’t regret it. Once we no longer rely on nations outside the Imperial Family, the golden age cannot help but be everlasting.”
+"Admittedly, what my fellows and I are asking for will cost a pretty amount from the treasury, not to mention the time before any returns are seen, but trust me, you won’t regret it. Once we no longer rely on nations outside the Imperial Family, the golden age cannot help but be everlasting.”
  “I’ll send the Castilles an outlined development plan for approval whenever you see fit. And don’t hesitate to contact me on the matter in future.”
 
 Narrator:
@@ -3471,7 +3471,7 @@ Pherip:
 Bourbon Landstrouss:
 “Very well, thanks for asking.”
 “Indeed, my memoirs were the last major publication I’ve made, but since then I have worked on various other longer projects, none of which are finished but each is inching closer and closer.”
-“I hope to complete a recounting of the 40 Years War and thesis on Monarchical merits within the year, and the passion project Duke Zichy and I are collaborating on is just entering its early chapters.”
+“I hope to complete a recounting of the 30 Years War and thesis on Monarchical merits within the year, and the passion project Duke Zichy and I are collaborating on is just entering its early chapters.”
 “As for my current books, galactic royalties have steadily increased in our prolonged peacetime. Plus the visits I’ve made to various other nations have helped spread awareness of my works. Technically such light advertising is my official reason for these trips, but really it's just a pretense so I can travel and see more of the galaxy.”
 “Definitely my moving here to Aeteran has spurred on a new flame to write. Amazing what a change of scenery can do for one’s motivation.”
 “If you can spare the time, I highly recommend taking the winters to settle down somewhere in the Empire and just enjoy your hobbies, you’ll understand the bliss and clarity it brings once you try, I promise.”
@@ -3775,6 +3775,24 @@ Bourbon Landstrouss:
 “You are just one person. You're allowed to be tired, Pherip. You're still you beneath all the ceremony.”
 “Remember to give yourself that excuse from time to time.”
 
+Dialog Choice #4
+Pherip:
+“No offense, Bourbon, but that’s my business.”
+
+(If the Bourbon “Answers to what?” Dialog Choice was chosen in reception_002)
+Bourbon Landstrouss:
+“Touche.”
+“Well, let me give you some unsolicited advice, then.”
+“Look after yourself as much as you do your people, and vice versa.”
+“You both may seem like completely separate entities, but now that you’ve become their ruler, you’re one in the same. They rely on you just as much as you do them, and thus it's in everyone’s best interests to keep a mutually beneficial relationship, lest things turn out like they did in Supreme Autocracy.”
+
+(If the Bourbon “Answers to what?” Dialog Choice was not chosen in reception_002)
+Bourbon Landstrouss:
+“That’s fair, I understand.”
+“Let me just give you some unsolicited advice, then.”
+“Look after yourself as much as you do your people, and vice versa.”
+“You both may seem like completely separate entities, but now that you’ve become their ruler, you’re one in the same. They rely on you just as much as you do them, and thus it's in everyone’s best interests to keep a mutually beneficial relationship, lest things turn out like they did in Supreme Autocracy.”
+
 Reconvene:
 Bourbon Landstrouss:
 “One last thing, though I haven’t been the most reliable cousin of late, I hope you’ll think of me as someone you can trust. If you ever need help or want to ask someone for advice, I’ll be here. Just say the word.”
@@ -4028,6 +4046,24 @@ Bourbon Landstrouss:
 “But there’s one thing I concluded between all that thinking, and it was I’m just one person, my Father was just one person, your Grandmother was just one person.”
 “You are just one person. You're allowed to be tired, Pherip. You're still you beneath all the ceremony.”
 “Remember to give yourself that excuse from time to time.”
+
+Dialog Choice #4
+Pherip:
+“No offense, Bourbon, but that’s my business.”
+
+(If the Bourbon “Answers to what?” Dialog Choice was chosen in reception_002)
+Bourbon Landstrouss:
+“Touche.”
+“Well, let me give you some unsolicited advice, then.”
+“Look after yourself as much as you do your people, and vice versa.”
+“You both may seem like completely separate entities, but now that you’ve become their ruler, you’re one in the same. They rely on you just as much as you do them, and thus it's in everyone’s best interests to keep a mutually beneficial relationship, lest things turn out like they did in Supreme Autocracy.”
+
+(If the Bourbon “Answers to what?” Dialog Choice was not chosen in reception_002)
+Bourbon Landstrouss:
+“That’s fair, I understand.”
+“Let me just give you some unsolicited advice, then.”
+“Look after yourself as much as you do your people, and vice versa.”
+“You both may seem like completely separate entities, but now that you’ve become their ruler, you’re one in the same. They rely on you just as much as you do them, and thus it's in everyone’s best interests to keep a mutually beneficial relationship, lest things turn out like they did in Supreme Autocracy.”
 
 Reconvene:
 Bourbon Landstrouss:

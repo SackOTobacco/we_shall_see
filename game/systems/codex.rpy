@@ -20,7 +20,7 @@ Political center of the Empire of Suzerain, home to the royal family.
             "title": "Major Developed Planet",
 
             "text": """
-Conquered from the Zereck Domain in the 2nd Bout of the 40 Years War. This tropical metropolitan is known for its comparatively lesser military capabilities from the other Zereck centers. It instead had relied on a center of trade and diplomatic exchange, what little of that the Zerecks partook in.
+Conquered from the Zereck Domain in the 2nd Bout of the 30 Years War. This tropical metropolitan is known for its comparatively lesser military capabilities from the other Zereck centers. It instead had relied on a center of trade and diplomatic exchange, what little of that the Zerecks partook in.
 """
         },
 
@@ -42,7 +42,7 @@ Conquered from the Ajour Assembly in the Suzerish War for Independence. A predom
             "title": "Major Developed Planet",
 
             "text": """
-Conquered from the Holy Empire of Caetzar in the 1st Bout of the 40 Years War. Churches and Cathedrals practicing Caetzar's religion still line the rich streets of this outer-core world, bringing in revenues to the state through Suzerain's non-Conformist Tax. Beyond this, the planet had a mostly untapped series of precious metal deposits, namely gold and coal, both of which were deemed unneeded in Caetzar's economy and so left undisturbed.
+Conquered from the Holy Empire of Caetzar in the 1st Bout of the 30 Years War. Churches and Cathedrals practicing Caetzar's religion still line the rich streets of this outer-core world, bringing in revenues to the state through Suzerain's non-Conformist Tax. Beyond this, the planet had a mostly untapped series of precious metal deposits, namely gold and coal, both of which were deemed unneeded in Caetzar's economy and so left undisturbed.
 """
         },
 
@@ -53,10 +53,102 @@ Conquered from the Holy Empire of Caetzar in the 1st Bout of the 40 Years War. C
             "title": "Major Developed Planet",
 
             "text": """
-Conquered from the Holy Empire of Caetzar in the 1st Bout of the 40 Years War. Mining towns make up the majority of this planet's development, each extracting bountiful loads of precious ores, namely calcite and silver. Caetzar always meant to further invest in the planet to bring it up to the degrees of splendor as its other planets, but kept delaying such initiatives until Suzerain now snatched it up. Due to the lack of strong religious institutions here compared to other Caetzan planets, Suzerish migrants found it easier to move in and form sizable communities of their own, making up nearly one-third of the planet's population.
+Conquered from the Holy Empire of Caetzar in the 1st Bout of the 30 Years War. Mining towns make up the majority of this planet's development, each extracting bountiful loads of precious ores, namely calcite and silver. Caetzar always meant to further invest in the planet to bring it up to the degrees of splendor as its other planets, but kept delaying such initiatives until Suzerain now snatched it up. Due to the lack of strong religious institutions here compared to other Caetzan planets, Suzerish migrants found it easier to move in and form sizable communities of their own, making up nearly one-third of the planet's population.
 """
         },
         
+        "kammaria": {
+
+            "name": "Kammarian Empire",
+
+            "title": "Enlightened Absolute Monarchy",
+
+            "text": """
+The Kammarian Empire originally stands as an Enlightened Absolute Monarchy, wherein the Emperor or Empress hold supreme authority, though it was expected they likewise possess the greatest degree of skill and ability to justify their position. The Kammarian Aristocracy assisted in administering the Empire, with its members holding especially prominent roles in military leadership. Having achieved space travel in Human Calendar 17, Kammaria fostered a conviction that it was destined to stand above its neighbors. This sense of superiority became a defining feature of Kammarian foreign policy, with the Empire frequently seeking to expand its territory, establish its overlordship over lesser powers, and challenge any nation which threatened its interests even remotely.
+
+Kammaria’s ambitions were demonstrated as early as 344, when the Empire declared war on the Ajour Assembly, beginning what became known as the “First War”, the first conventional war of its kind in recorded galactic history. Although the Ajour Assembly and Kingdom of the Eternal Star fought together, their combined forces were ultimately defeated by the vastly superior Kammarian fleet. The Empire continued to exert its influence over neighboring civilizations, with this expansionist outlook eventually bringing it into repeated conflicts with the Fespian Commonwealth and the Grand Regions of Wuaria, culminating after many individual conflicts in the Third Kammarian-Pershehn War. Concluded in 1020, the war ended in victory for Kammaria and its allies, which reclaimed lost territories and acquired further lands from Fespia and Wuaria. Kammaria also secured the total subjugation of the Cominbar Laborers’ State, restructuring it into the Archduchy of Zarsbourg and installing a Kammarian as its Archduke. These gains weakened the Partners Alliance and further cemented Kammaria’s position among the galaxy’s foremost powers.
+
+Despite its longstanding rivalry with nearly any nation which stood shoulder to shoulder with it, Kammaria eventually found a useful partner in the rising Empire of Suzerain. In 1571, the marriage between Emperor Alexius V and Empress Evoui formalized their alliance as the “Imperial League,” bringing the two empires together in pursuit of territorial expansion. The following year, Kammaria joined Suzerain’s invasion of the Holy Empire of Caetzar, securing western territories, trade planets, and reparations through the resulting peace settlement. Kammaria subsequently joined Suzerain’s campaign against the Zereck Domain, continuing its long-standing efforts to subdue the Zerecks and acquire their territories.
+
+Yet this partnership in the end proved disastrous. In 1579, Suzerain betrayed its ally and declared war on Kammaria, beginning the “War of the Two Empires.” Despite calling upon its allies, including the S.R.T.A. and the Great Quinn Empire, Kammaria struggled against Suzerain’s military strength and its network of dependent states. The conflict became particularly personal for Emperor Alexius V, whose wife, Empress Evoui, was the sister of Suzerain’s Empress Sicill. When Evoui was captured during the war, Alexius and his forces continued fighting in hopes of rescuing her and reclaiming the Kammarian capital.
+
+In 1588, Emperor Alexius V and Grand Admiral Rheinhall led a major counteroffensive, pushing Suzerain’s forces back toward the outskirts of the capital while resistance movements sabotaged the occupiers in Kammarian territories. Despite these advances, Kammaria failed to retake its capital, and the war ended in 1589 with a devastating peace settlement. The Empire surrendered all its northern territories, including its capital, transferred its subject states from the Zereck campaigns to Suzerain, paid massive reparations, demilitarized its border, and relinquished its alliances with the Kingdom of the Eternal Star and the S.R.T.A. Emperor Alexius V was also forced to abdicate, with Grand Admiral Avedo installed as Governor of Kammaria. Although the Empire was not formally incorporated into Suzerain, its new administration remained subordinate to Empress Sicill, leaving Kammaria effectively under Suzerish control.
+
+By 1601, the Kammarian Empire had fallen dramatically from its former position as one of the galaxy’s leading powers. Its territorial losses, economic burdens, military restrictions, and imposed change of government had stripped it of its place among the Grand Five and severely curtailed its independence. Nevertheless, the Empire’s long history of military achievement and its enduring sense of national superiority left a legacy that could not be easily extinguished. Its defeat under Suzerain’s expansionism marked a profound reversal of fortune for a civilization that had once considered itself the natural hegemon of the galaxy.
+
+The Empire is currently administered by Governor Grand Admiral Avedo.
+"""
+        },
+
+        "fespia": {
+
+            "name": "Fespian Commonwealth",
+
+            "title": "Direct-Military-Democracy",
+
+            "text": """
+The Fespian Commonwealth stands as a Direct-Military-Democracy, wherein a balance exists between the votes of the people which directly contribute to policy making, and heavy influence is placed in a military commissariat tasked with the protection of the “Pushcan” peoples’ individual freedoms and liberties. By the early 1600s, Fespia had positioned itself as the main defender of Democracy and anti-Imperialism within the galaxy, fighting both to turn other nations toward more Egalitarian methods of governance and dismantling overlordship between galactic states.
+
+Case in point, this reputation led the enserfed and exploited peoples from the Supreme Danarin Autocracy to plead Fespia for aid in liberation, which the Commonwealth certainly answered by declaring their “Crusade of Liberty”. The resulting Fellowship Liberation War saw Fespia invade the Autocracy quite successfully, freeing a plethora of small planet-states, micro nations, and more out of local species. Only the core territories still loyal to the Autocracy were spared this fate, and thus upon its conclusion, the war saw what became known as the Independent Territories formed under Fespian oversight. From here, the Commonwealth’s reputation and national role was solidified, that being a beacon of Democracy who would answer any call for liberation by the peoples of the galaxy.
+
+Yet, Fespia’s opposition to Imperialism did not prevent it from pursuing territorial expansion when doing so served its own interests. In 1275, the Commonwealth signed the Zereck Redrawing Treaty with the Kingdom of the Eternal Star, agreeing to invade the Zereck Domain and divide its territories between the two powers. Both nations also drafted a non-aggression pact to prevent their competing ambitions from turning against one another. The resulting Carving War, however, did not unfold as planned. The Zerecks inflicted significant losses upon both invaders. Fespia and the Eternal Star failed to secure any lasting territorial gains, and thus the treaty’s ambitions were frustrated, with the uncolonized lands in question instead becoming reserved for future Zereck colonization.
+
+The treaty nevertheless provides an important precedent for understanding Fespia’s later position during Suzerain’s wars of expansion. In the late 1570s, Suzerain and the Kammarian Empire launched a campaign against the Zereck Domain, ultimately partitioning vast amounts of its territory and creating dependent states to secure their new borders. Unlike its earlier attempt to carve up Zereck territory alongside the Eternal Star, Fespia did not participate, instead the destruction of Zereck power and Suzerain’s growing territorial reach demonstrated how dramatically the galactic balance had shifted. By 1578, Fespia remained the third-ranked power among the Grand Five and the last of the former leading powers yet to lose a war to Suzerain. In response, the Commonwealth strengthened its defenses and negotiated non-aggression pacts with both Suzerain and Kammaria. While intended to protect Fespia from the growing threat posed by the two Empires, these agreements also gave Suzerain greater confidence in pursuing its next course of action, that of Kammaria’s invasion.
+
+By 1601, the Fespian Commonwealth remains a major galactic power, acting as the 2nd strongest of the Grand Five in light of Suzerain’s rise, though refuses to challenge the Empire in any outright sense.
+
+The Commonwealth is currently led by President-General Malkyrie.
+"""
+        },
+
+        "veiden": {
+
+            "name": "Veiden Republic",
+
+            "title": "Democratic Senatorial Republic",
+
+            "text": """
+The Veiden Republic stands as a Democratic Senatorial Republic, wherein every citizen possesses an equal voice in electing the Chancellor and members of the Senate. Having achieved space travel in Human Calendar 25, the Republic was among the earliest civilizations to reach the stars, becoming one of the original five galactic powers whose early expansion established the tradition of the “Grand 5”. From the beginning, Veiden distinguished itself through its commitment to peace, with diplomacy and the preservation of independence serving as the central principles of its foreign policy, exemplified when it established a formal alliance with the Ajour Assembly known as the “First Friendship”.
+
+Throughout its history, the Republic sought to use its diplomatic influence to protect smaller nations from the territorial ambitions of more powerful neighbors. Veiden had long declared its commitment to universal asylum and open immigration regardless of species, as well as attempted on several occasions to overt expansionist powers from gobbling up their neighbors. One such example was in 342, where Veiden declared a Guarantee of Independence for the Rikivolgyen State after it was being threatened by both the Kammarian Empire and Grand Regions of Wuaria. This policy reflected the Republic’s broader belief that smaller civilizations deserved the same right to sovereignty as the established galactic powers.
+
+Historians state that the Republic would likely have been itself a target for easy annexation were it not for 2 factors. Firstly, its alliance with the Ajour Assembly, which provided a diplomatic counterweight to the ambitions of the Kammarian Empire and other major states. Secondly, its reputation in the galactic community as a mediator and trustworthy partner, which made it difficult for most nations to justify hostile actions against them.
+
+Despite its commitment to peace, Veiden was not entirely removed from the galaxy’s major conflicts. During the Great Holy Struggle against the Holy Empire of Caetzar, the Republic was called upon by the attacking powers to join their coalition in 1520. However, rather than commit its military forces to the invasion, Veiden agreed only to provide medical assistance. This decision reflected its longstanding reluctance to participate in wars of territorial conquest, even when pressured by its allies and other major galactic powers.
+
+Veiden's diplomatic reputation also became the foundation of its extraordinary economic influence. By 390, the Republic had long enjoyed privileges with other galactic nations, including foreign investment rights and exceptionally favorable trade agreements. These advantages helped fuel confidence in the stability of Veiden’s currency, the Svekron. Over time, it became the standard galactic currency for international trade, adopted by nearly every major galactic nation, with this importance being another integral source of its soft power.
+
+This position was briefly challenged in 550, when the Wealth Confederation began an ambitious effort to replace the Svekron with its own currency, the Leeridt. Through a series of promises and assurances to the galactic community, the Confederation gradually succeeded in making the Leeridt more valuable than the Svekron, though Veiden itself was relatively unconcerned by this development, despite the loss of its currency's position. However, the Leeridt's apparent success proved short-lived. In 576, the currency collapsed after the Confederation's previous promises and misleading assurances caused international confidence to evaporate. The resulting economic crisis affected much of the galaxy, forcing numerous nations to abandon the Leeridt and rapidly return to the Svekron, this resulting renewed confidence in the Svekron solidified its position as the standard galactic currency and strengthened Veiden's economic standing.
+
+Veiden continued to maintain its commitment to neutrality even as the galaxy entered another period of major conflict. During the War of the Two Empires, both Suzerain and Kammaria attempted to persuade the Republic to join their respective sides. Veiden instead tensely reaffirmed its neutrality, refusing to become involved in the struggle.
+
+By 1601, the Veiden Republic’s longstanding reputation as a peaceful and diplomatically influential power remained an important feature of its place in the galaxy. Although it had never sought to match the military ambitions of the other major civilizations, its commitment to sovereignty, neutrality, and the protection of smaller nations had earned it considerable respect. Its history demonstrated that a nation need not rely upon territorial conquest or military supremacy to exert influence over galactic affairs, given this unimpressive Republic has stood on multiple occasions as one of the Grand 5, based almost purely on economic and diplomatic weight alone.
+
+The Republic is currently led by Chancellor Holssen.
+"""
+        },
+
+        "caetzar": {
+
+            "name": "Holy Empire of Caetzar",
+
+            "title": "Theocratic Oligarchy",
+
+            "text": """
+The Holy Empire of Caetzar stands as a Theocratic Oligarchy, wherein a council composed of the highest ranked members from their State Church elect a head of the Church, with both bodies leading the country. The Holy Empire is one of the earliest and most powerful civilizations to achieve space travel, having done so in year 23 and thus reaching the stars before any other major galactic power.
+
+Its society is deeply religious, with the Caetzans believing the center of the galaxy serves as a gateway to the afterlife, though in what specific measures the Church has yet to agree upon. This belief drove their early expansion and efforts to secure the surrounding region, therefore controlling its access and subsequently some of the richest regions in the galaxy. With these exceptionally bountiful sources of natural resources, Caetzar rapidly developed its economy and military, maintaining its place as one of the Grand 5 throughout its entire history. To achieve its territorial aims, Caetzar purchased “Border Promises” from neighboring civilizations, exchanging resources for guarantees that they would not colonize regions claimed by the Empire near the galactic center. These agreements provided temporary security, but were increasingly disregarded as other powers rose to meet the Holy Empire’s strength.
+
+Despite its centuries of military tradition, Caetzar remained inexperienced in major warfare, a weakness that became apparent during the Mare Justinium, or “Great Holy Struggle,” beginning in 1519. In it, Kammaria, the Kingdom of the Eternal Star, the Fespian Commonwealth, and the Truest Covenant attacked the Caetzar to annex their wealthy planets and secure the galactic center for themselves. Initially caught unprepared, Caetzar was pushed back across several fronts. However, religious fervor and an extraordinary mobilization of its economy and military transformed the Empire into a formidable defensive power. Its forces halted much of the invasion, and thus Caetzar demonstrated that, despite its initial vulnerability, it could withstand the combined strength of several major galactic powers, a reputation it for the most part maintains in modern day.
+
+The one show of exception in this regard occurred when the Holy Empire faced a brutal war from the Empire of Suzerain to similarly conquer its wealthy territories, beginning the First Suzerish-Caetzan War. The Kammarian Empire joined Suzerain through the Imperial League, and their combined militaries forced Caetzar to accept peace talks, rather than risk full capitulation. The resulting treaty forced the Caetzans to surrender substantial western territories to Kammaria, northern territories to Suzerain, trade planets to both powers, and relinquish its sovereignty over the Divine Kingdom of Bulgand.
+
+By 1601, Caetzar remains an independent power, but its former position at the pinnacle of galactic power has been severely diminished. Its recent defeat exposed the nation’s limitations to defend its vast holdings against coordinated foes, while the inability of the Holy Empire to preside over its still fanatic religious flock within lost lands harms its legitimacy.
+
+The Holy Empire is currently led by Rocuria Deulis.
+"""
+        },
+
         "eternal_star": {
 
             "name": "Kingdom of the Eternal Star",
@@ -97,7 +189,7 @@ After emerging from her rural education, Solène was eventually crowned Queen, a
 
 Furthering her reign of controversy, the marriage between her eldest son, Prince Meraft, and the first daughter of Empress Sicill, Princess Saphron, founded and maintains the alliance between the Empire of Suzerain and the Kingdom of the Eternal Star, with good relations since rising in tandem. This marriage was the source of criticism by the Eternal Star Nobility, given they viewed this Suzerish Princess as not equal in status to the heir of the Kingdom’s throne, and thus Solène needed to exert much effort calming such dissatisfaction and easing the worries of Empress Sicill, who caught wind of the situation.
 
-After having assisted Suzerain in their hegemonic gambit that was the 40 Years War, Solène now wishes to see her own nation’s ambitions met with Suzerish backing. When Empress Sicill reigned, Solène had no doubts of this given the twos’ close friendship. Whether the new Emperor can equally be relied on, Solène awaits to see.
+After having assisted Suzerain in their hegemonic gambit that was the 30 Years War, Solène now wishes to see her own nation’s ambitions met with Suzerish backing. When Empress Sicill reigned, Solène had no doubts of this given the twos’ close friendship. Whether the new Emperor can equally be relied on, Solène awaits to see.
 """
         },
 
@@ -181,7 +273,7 @@ He still remains an affectionate member of the fue Tholedos, though perhaps the 
             "hover_description": "Íñigo of Suzerain",
 
             "text": """
-Jokingly, many refer to Maté as the second bout of the fue Tholedo children, in reference to the 40 Years War. Being twins, Maté and Cálitz were always close, especially given the age gap between them and Charristo. This led to their childhoods being a partnership of mischievous crimes, messing with and pranking the rest of the family and royal household.
+Jokingly, many refer to Maté as the second bout of the fue Tholedo children, in reference to the 30 Years War. Being twins, Maté and Cálitz were always close, especially given the age gap between them and Charristo. This led to their childhoods being a partnership of mischievous crimes, messing with and pranking the rest of the family and royal household.
 
 What Maté learned quite effectively was how to rub elbows with his Noble compatriots, becoming a popular invite to any banquets, balls, and hunts. His favorite of these gatherings were the opera and theater, particularly emblancos, formal dance performances, for which he became a patron. The once empty private theater at Catheljunta has since become a hub of new works by the most famous performers and writers across the Empire, all eager to get the young Íñigo’s first impressions. Likewise, his enjoyment of socializing with the upper crust of Suzerain meant many new Noble faces began frequenting the palace, unintentionally giving a wider range of aristocratic families the opportunity to actually have an audience with the royal family and improving relations with the wider Nobility.
 
@@ -286,9 +378,9 @@ Empress Sicill’s death struck the young girl especially hard, as she truly loo
     "text": """
 Former Empress of Suzerain, second longest-reigning monarch in Suzerish history, and Mother of the modern Empire.
 
-Sicill's reign heralded Suzerain's planetary unification, and shortly after its ascension into space. From there she carved out a considerable portion of the known galaxy for her fledgling Empire, overcoming the odds both diplomatically and militarily to dominate some of the oldest and most entrenched great powers. Kammaria, Caetzar, the Ajour Assembly, and the Zereck Domain each saw extreme territorial loss, or even the loss of sovereignty itself, through her swift and devastating campaigns during the 40 Years War. These wars were largely motivated by the Ajour Assembly's mishandling of Suzerain under their overlordship. Many historians believe the Assembly's attempt to subjugate Suzerain instilled in Sicill a lasting distrust of foreign powers, strengthening her resolve to expand Suzerain's borders and settle its people across the stars.
+Sicill's reign heralded Suzerain's planetary unification, and shortly after its ascension into space. From there she carved out a considerable portion of the known galaxy for her fledgling Empire, overcoming the odds both diplomatically and militarily to dominate some of the oldest and most entrenched great powers. Kammaria, Caetzar, the Ajour Assembly, and the Zereck Domain each saw extreme territorial loss, or even the loss of sovereignty itself, through her swift and devastating campaigns during the 30 Years War. These wars were largely motivated by the Ajour Assembly's mishandling of Suzerain under their overlordship. Many historians believe the Assembly's attempt to subjugate Suzerain instilled in Sicill a lasting distrust of foreign powers, strengthening her resolve to expand Suzerain's borders and settle its people across the stars.
 
-Following the conclusion of the 40 Years War, Sicill's modernization programs, economic oversight, and colonial expansion ushered in what became known as Suzerain's Golden Age. Under her leadership the Empire experienced unprecedented prosperity, stability, and influence, a trend that continued until her death.
+Following the conclusion of the 30 Years War, Sicill's modernization programs, economic oversight, and colonial expansion ushered in what became known as Suzerain's Golden Age. Under her leadership the Empire experienced unprecedented prosperity, stability, and influence, a trend that continued until her death.
 
 Throughout her reign, Sicill was renowned for balancing an uncompromising imperial authority with genuine warmth toward her subjects. This duality earned her the enduring titles of both Conqueror and Matriarch: the Empress who won the galaxy for Suzerain while remaining devoted to the prosperity of its Nobility, Clergy, Burghers, and common citizen alike. Physically resilient well into old age, she continued martial training until late in life and ultimately outlived her only son and designated heir, Crown Prince Senrique.
 
@@ -334,9 +426,9 @@ One among a minority of Commoners who throughout history held a position in the 
 
 While his parents survived their respective wars, it was not without his Father becoming peg legged and his Mother facially disfigured. As for his siblings, Furique lost 2 brothers, a sister, and furthermore needed to care for a shell shocked brother and blinded sister. With himself next in line to join the armed forces and 5 younger siblings behind him destined for the same fate, Furique chose a different path, that of taking advantage of Suzerain’s growing Mercantilist economy. Once of age, he joined the Transport Company of Newly Conquered Territories, an upstart convoy company founded to help transport the riches of Suzerain’s new subjects to the motherland.
 
-Upon spending enough time serving aboard and eventually organizing Treasure Fleets, Furique set off to found his own cash crop plantations, thus birthing the Vallitu Plantation Casscao. This venture being of incredible success, Furique was able to uplift his family to the upper echelons of Suzerish society, and grateful as they may be, his parents often lament the glories Furique passed up on by not joining the army or armada during the final bouts of the 40 Years War.
+Upon spending enough time serving aboard and eventually organizing Treasure Fleets, Furique set off to found his own cash crop plantations, thus birthing the Vallitu Plantation Casscao. This venture being of incredible success, Furique was able to uplift his family to the upper echelons of Suzerish society, and grateful as they may be, his parents often lament the glories Furique passed up on by not joining the army or armada during the final bouts of the 30 Years War.
 
-With his newfound societal influence and eye for economic management, it wasn’t long before Furique was elected to join the Council of Cash Crop Production, and from there hand picked by Empress Sicill to be her Haciende of the Treasury and Economy. Some of the less tolerant variety who view a commoner as not belonging in Suzerish politics have rumored Sicill only took a liking to Furique because she thought him humorous, or even because she wanted to placate the Burghers, but this is unsubstantiated.
+With his newfound societal influence and eye for economic management, it wasn’t long before Furique was elected to join the Council of Cash Crops, and from there hand picked by Empress Sicill to be her Haciende of the Treasury and Economy. Some of the less tolerant variety who view a commoner as not belonging in Suzerish politics have rumored Sicill only took a liking to Furique because she thought him humorous, or even because she wanted to placate the Burghers, but this is unsubstantiated.
 
 Given the economic golden age ushered in since Furique’s appointment, he was elected to retain his position in the Castilles following Empress Sicill’s passing.
 """
@@ -359,7 +451,7 @@ The reason for this scandal in the first place, was due to the remarriage of Cou
 
 Growing up as a young Count, not even of legal age to inherit, Torrez was forced to learn the intricacies of keeping peace between his extended family from early in his life. This, and the constant trouble he’d have to talk Gaucho out of, left Torrez with quite the experience in diplomacy by the point he came of age, making his appointment as an Imperial Diplomat not much of a surprise.
 
-What indeed came as a shock to even Torrez’s most ardent believers, was how unparalleled he proved to be in securing Suzerain’s advantageous positions throughout the 40 Years War. Unlike many of his contemporaries, he did not shy away from war, rather Torrez always strived to keep Suzerain’s enemies more focused on fighting one another, giving Empress Sicill the prime opportunity to pounce upon them once the opportune moment presented itself. Torrez’s magnum opus came when he orchestrated what historians would later call the Great Isolation. Through patient diplomacy, calculated concessions, deliberately timed wars, and carefully worded treaties, he ensured that none of Suzerain's rivals ever entered the 40 Years War as a united front. By convincing each power, the Ajour, Zerecks, Eternal Star, Kammaria, and Caetzar, that their greatest threat lay not in Suzerain, but in another member of the Grand 5, Torrez transformed what might have become a war of annihilation into a succession of regional conflicts, from which Suzerain emerged the sole beneficiary.
+What indeed came as a shock to even Torrez’s most ardent believers, was how unparalleled he proved to be in securing Suzerain’s advantageous positions throughout the 30 Years War. Unlike many of his contemporaries, he did not shy away from war, rather Torrez always strived to keep Suzerain’s enemies more focused on fighting one another, giving Empress Sicill the prime opportunity to pounce upon them once the opportune moment presented itself. Torrez’s magnum opus came when he orchestrated what historians would later call the Great Isolation. Through patient diplomacy, calculated concessions, deliberately timed wars, and carefully worded treaties, he ensured that none of Suzerain's rivals ever entered the 30 Years War as a united front. By convincing each power, the Ajour, Zerecks, Eternal Star, Kammaria, and Caetzar, that their greatest threat lay not in Suzerain, but in another member of the Grand 5, Torrez transformed what might have become a war of annihilation into a succession of regional conflicts, from which Suzerain emerged the sole beneficiary.
 
 For his services, Torrez was personally recommended by Empress Sicill as a candidate for First Envoy, after which he won the election and remains in such a position. This makes Torrez, along with his brother Gaucho, the youngest members of the Castilles, both in age and time serving upon it.
 """
@@ -378,7 +470,7 @@ For his services, Torrez was personally recommended by Empress Sicill as a candi
             "text": """
 The oldest serving member of the Castilles, Aurgenbia was a close friend to Empress Sicill in their youth, and thus was readily given the opportunity to be elected first as Lord Councillor, then eventually Indes of Suzerain. Her time as Lord Councillor was unremarkable, considering Aurgenbia largely was a bad match for organizing the Castilles and other councils of Suzerain. It was only upon her cooperation with the Council of the Archiyula, an old colonial region on Isa Bellmaré before Suzerain’s proper space ascension, that her aptitudes in such a field shined. After crushing a local revolt, developing the local colonial towns into proper urban centers, facilitating protected treasure fleets, and increasing local cash crop production tenfold, did her reputation as a colonial overlord earn Aurgenbia the election of Indes.
 
-No better time was there to rise into such a role, as this was shortly in Suzerain’s spread towards neighboring solar systems, and from there the rapid colonial expansion throughout the 40 Years War. The Indes was no longer in charge of a single planet’s colonial territories, it now managed the entire reaches of hundreds of planets, then furthermore the various new subjects and colonial states crafted to serve the Empire. Proverbally, Aurgenbia found herself before an Empire begging to be organized, and she gleefully rose to the task. Together with Sicill, the regions obtained by the Armada and Army were given structure, purpose, and efficiency to serve Suzerain. Not a single province has yet broken from the firm grasp of the Indes.
+No better time was there to rise into such a role, as this was shortly in Suzerain’s spread towards neighboring solar systems, and from there the rapid colonial expansion throughout the 30 Years War. The Indes was no longer in charge of a single planet’s colonial territories, it now managed the entire reaches of hundreds of planets, then furthermore the various new subjects and colonial states crafted to serve the Empire. Proverbally, Aurgenbia found herself before an Empire begging to be organized, and she gleefully rose to the task. Together with Sicill, the regions obtained by the Armada and Army were given structure, purpose, and efficiency to serve Suzerain. Not a single province has yet broken from the firm grasp of the Indes.
 
 Yet, as this same grip begins to loosen with age, first by Empress Sicill’s passing and with Aurgenbia too getting in her twilight years, the question on many minds is whether she has what it takes to serve Emperor Pherip.
 
@@ -401,7 +493,7 @@ Despite some persisting concerns, Aurgenbia was elected again as Indes of the Ca
             "text": """
 Labeled quietly as a bastard by some, despite the official avenue which his parents took, Gaucho has had to fight tooth and nail to reach where he is now. His Father, Count Reál, after the death of his first wife remarried to Gaucho’s Mother, Lydana, a commoner of scarce Noble lineage discovered only in retrospect after their union to add some semblance of justification. Being born from scandal, Gaucho became used to sticking up for himself and his sometimes excessive pride, as well as the privileges he considered a birthright which many of his relatives worked hard to pry away. Given the already disapproved marriage between Gaucho’s parents was straddled too with a new heir of mixed blood, who was set to inherit enough of Reál’s estates to put him leagues above most of the pure Noble fue Léons, Gaucho drew the ire of his various cousins, aunts, and uncles. Only by a mixture of Empress Sicill’s patronage along with Count Reál’s approval has Gaucho barely managed to emerge as a legitimized and powerful member of the fue Léon family.
 
-Chief among Gaucho’s supporters always stood Torrez, Gaucho’s half brother and, on paper, his main rival for Reál’s inheritance, but this matter paled in comparison to the true brotherly love which they shared. Even with all the baggage which came from associating with Gaucho, Torrez loved and accepted his brother without question, the two forming a bond that lasts even today as they serve within the Castilles together. However, this being under far different positions, as the diplomatic and cautious Torrez could never quite rein in the bold and confrontational Gaucho. At first chance, Gaucho enlisted in the Imperial Armada, rising eventually to the rank of Rear Admiral within the 8th Fleet, Empress Sicill’s personal fleet. Having seen extensive combat during the concluding conflicts of the 40 Years War, Gaucho obtained prestige and renown as a war hero, better solidifying his stance in the family, though rivals still persist.
+Chief among Gaucho’s supporters always stood Torrez, Gaucho’s half brother and, on paper, his main rival for Reál’s inheritance, but this matter paled in comparison to the true brotherly love which they shared. Even with all the baggage which came from associating with Gaucho, Torrez loved and accepted his brother without question, the two forming a bond that lasts even today as they serve within the Castilles together. However, this being under far different positions, as the diplomatic and cautious Torrez could never quite rein in the bold and confrontational Gaucho. At first chance, Gaucho enlisted in the Imperial Armada, rising eventually to the rank of Rear Admiral within the 8th Fleet, Empress Sicill’s personal fleet. Having seen extensive combat during the concluding conflicts of the 30 Years War, Gaucho obtained prestige and renown as a war hero, better solidifying his stance in the family, though rivals still persist.
 
 Following Empress Sicill’s passing, the 8th Fleet, though also known as the “Iron Falcera of her Majesty, Empress Sicill”, was transferred under Gaucho, whereupon he serves today as Admiral. He commands it with great pride, and it follows him nearly everywhere he goes across the Empire and beyond, acting as a massive shadow to cast in his political maneuvering. Contrary to past elections for Grand Martialissimo, Gaucho is neither Grand Admiral nor Grand General of Suzerain, thus keeping the positions in a checks and balances relationship that for the most part ensures the armed forces do not dominate the Empire.
 
@@ -416,6 +508,19 @@ Gaucho serves along with his brother Torrez as the youngest members of the Casti
     ALIASES = {
 
         "Kingdom of the Eternal Star": "eternal_star",
+        "Eternal Star": "eternal_star",
+
+        "Holy Empire of Caetzar": "caetzar",
+        "Caetzar": "caetzar",
+
+        "Veiden Republic": "veiden",
+        "Veiden": "veiden",
+
+        "Fespian Commonwealth": "fespia",
+        "Fespia": "fespia",
+
+        "Kammarian Empire": "kammaria",
+        "Kammaria": "kammaria",
 
         "Zichy Hoovitz": "zichy_hoovitz",
         "Zichy": "zichy_hoovitz",
@@ -470,21 +575,39 @@ Gaucho serves along with his brother Torrez as the youngest members of the Casti
 
     def codex_markup(text):
 
-        aliases = sorted(ALIASES.items(), key=lambda x: len(x[0]), reverse=True)
+        text = unicodedata.normalize("NFC", text)
+        aliases = sorted(ALIASES, key=len, reverse=True)
+        pattern = re.compile(
+            r'(?<!\w)(?:%s)(?!\w)' % "|".join(
+                re.escape(alias) for alias in aliases
+            )
+        )
 
-        for phrase, key in aliases:
+        # Do not nest a new link inside an existing codex link.
+        parts = DIALOGUE_LINK_SPLIT_PATTERN.split(text)
+        for i in range(0, len(parts), 2):
+            parts[i] = pattern.sub(
+                lambda match: "{a=codex:%s}%s{/a}" % (
+                    ALIASES[match.group(0)], match.group(0)
+                ),
+                parts[i],
+            )
 
-            pattern = r'(?<!\\w){}(?!\\w)'.format(re.escape(phrase))
-
-            replacement = "{a=codex:%s}%s{/a}" % (key, phrase)
-
-            text = re.sub(pattern, replacement, text)
-
-        return text
+        return "".join(parts)
 
     # These are deliberately separate from the broader ALIASES table: only
     # requested codex names are automatically linked in event dialogue.
     DIALOGUE_CODEX_ALIASES = {
+        "Kingdom of the Eternal Star": "eternal_star",
+        "Eternal Star": "eternal_star",
+        "Holy Empire of Caetzar": "caetzar",
+        "Caetzar": "caetzar",
+        "Veiden Republic": "veiden",
+        "Veiden": "veiden",
+        "Fespian Commonwealth": "fespia",
+        "Fespia": "fespia",
+        "Kammarian Empire": "kammaria",
+        "Kammaria": "kammaria",
         "Zichy Hoovitz": "zichy_hoovitz",
         "Zichy": "zichy_hoovitz",
         "Józiff Ivanothy": "joziff_ivanothy",
@@ -519,7 +642,10 @@ Gaucho serves along with his brother Torrez as the youngest members of the Casti
         "Gaucho": "gaucho",
     }
     DIALOGUE_CODEX_PATTERN = re.compile(
-        r'(?<!\w)(?:Zichy\ Hoovitz|Prince-Regent\ Józiff\ Ivanothy|Józiff\ Ivanothy|Queen\ Solène\ Lapis|Quixote\ fue\ Ostamara|Furique\ Vallitu|Torrez\ fue\ Léon|Aurgenbia\ Panzarre|Gaucho\ fue\ Léon|Robertz\ fue\ Tholedo|Charristo\ fue\ Tholedo|Maté\ fue\ Tholedo|Cálitz\ fue\ Tholedo|Isine\ fue\ Tholedo|Solène\ Lapis|Sicill\ fue\ Tholedo|Princess\ Sicill|Empress\ Sicill|Zichy|Józiff|Quixote|Furique|Torrez|Aurgenbia|Gaucho|Robertz|Charristo|Maté|Cálitz|Isine|Solène|Sicill)(?!\w)'
+        r'(?<!\w)(?:%s)(?!\w)' % "|".join(
+            re.escape(alias)
+            for alias in sorted(DIALOGUE_CODEX_ALIASES, key=len, reverse=True)
+        )
     )
     DIALOGUE_POSSESSIVE_PATTERN = re.compile(
         r"(?<!\w)(%s)\s+(['’]s)\b" % "|".join(

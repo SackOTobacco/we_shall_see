@@ -9,9 +9,41 @@ init python:
     MAP_MIN_ZOOM = 0.5
     MAP_MAX_ZOOM = 8.0
 
-    # Original starting position.
-    MAP_X_INITIAL = 0.49
-    MAP_Y_INITIAL = 0.26
+    # Initial viewport position as a fraction of the scrollable canvas.
+    # These match the viewport's original xinitial/yinitial values below.
+    MAP_X_INITIAL = 0.327
+    MAP_Y_INITIAL = 0.169
+
+
+    def reset_map_view(x_adjustment, y_adjustment):
+        """Recenter the map on its original map point whenever it is reopened."""
+        if x_adjustment.range is None or x_adjustment.page is None:
+            # On the first display, xinitial/yinitial set the position after
+            # the viewport has measured its content and page dimensions.
+            return
+
+        initial_x_offset = max(
+            MAP_IMAGE_WIDTH * MAP_MAX_ZOOM - x_adjustment.page,
+            0
+        ) * MAP_X_INITIAL
+        initial_y_offset = max(
+            MAP_IMAGE_HEIGHT * MAP_MAX_ZOOM - y_adjustment.page,
+            0
+        ) * MAP_Y_INITIAL
+
+        # Convert the original starting view to native map coordinates so
+        # reopening at a changed zoom still centers on the same place.
+        center_x = (initial_x_offset + x_adjustment.page / 2.0) / MAP_INITIAL_ZOOM
+        center_y = (initial_y_offset + y_adjustment.page / 2.0) / MAP_INITIAL_ZOOM
+
+        x_adjustment.value = max(
+            0,
+            min(x_adjustment.range, center_x * map_zoom - x_adjustment.page / 2.0)
+        )
+        y_adjustment.value = max(
+            0,
+            min(y_adjustment.range, center_y * map_zoom - y_adjustment.page / 2.0)
+        )
 
 
     def adjust_map_zoom(amount, x_adjustment, y_adjustment):
@@ -112,9 +144,19 @@ default map_x_adjustment = ui.adjustment()
 default map_y_adjustment = ui.adjustment()
 default map_suzerain_hovered = False
 default map_eternal_star_hovered = False
+default map_caetzar_hovered = False
+default map_veiden_hovered = False
+default map_fespia_hovered = False
+default map_kammaria_hovered = False
 
 
 screen galaxy_map(from_event=False):
+
+    on "show" action Function(
+        reset_map_view,
+        map_x_adjustment,
+        map_y_adjustment
+    )
 
     # The map is a separate interaction from the event underneath it. Keep
     # it above overlay controls and make it modal so pointer and keyboard
@@ -179,8 +221,8 @@ screen galaxy_map(from_event=False):
 
         # Original starting viewpoint.
 
-        xinitial 0.327
-        yinitial 0.169
+        xinitial MAP_X_INITIAL
+        yinitial MAP_Y_INITIAL
 
 
         fixed:
@@ -201,7 +243,55 @@ screen galaxy_map(from_event=False):
             # MAP
             # ====================================================
 
-            if map_eternal_star_hovered or (
+            if map_kammaria_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "kammaria"
+            ):
+
+                add "images/world_map_Kammaria_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_fespia_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "fespia"
+            ):
+
+                add "images/world_map_Fespia_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_veiden_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "veiden"
+            ):
+
+                add "images/world_map_Veiden_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_caetzar_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "caetzar"
+            ):
+
+                add "images/world_map_Caetzar_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_eternal_star_hovered or (
                 renpy.get_screen("codex_popup") is not None
                 and codex_current == "eternal_star"
             ):
@@ -266,6 +356,166 @@ screen galaxy_map(from_event=False):
 
                 hovered SetVariable("map_eternal_star_hovered", True)
                 unhovered SetVariable("map_eternal_star_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_caetzar_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_caetzar_hovered", True)
+                unhovered SetVariable("map_caetzar_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_veiden_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_veiden_hovered", True)
+                unhovered SetVariable("map_veiden_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_fespia_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_fespia_hovered", True)
+                unhovered SetVariable("map_fespia_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_kammaria_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_kammaria_hovered", True)
+                unhovered SetVariable("map_kammaria_hovered", False)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_kammaria_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "kammaria")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_fespia_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "fespia")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_veiden_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "veiden")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_caetzar_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "caetzar")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
 
             button:
 

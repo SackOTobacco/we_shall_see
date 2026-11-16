@@ -1,0 +1,1805 @@
+econ_001
+
+Narrator:
+Quixote informed me of Furique’s filed request to meet in private, so that we may go over the economic circumstances of the Empire and thus shed greater light on what should be done moving forward.
+I did wonder why it was protocol for my Pueblidorés to ask Quixote if they may meet with their sovereign rather than just coming to me directly, but I figured it was just a tradition held from a bygone era.
+Of course, I accepted.
+Claiming it would do neither of us any good to remain cooped up inside the palace walls, he requested we instead meet in the eastern gardens for some fresh air and a change of scenery.
+I obliged, given we’d spent in the last week more time within the Castilles Chamber than I had throughout my entire life, hearing minor reports and signing various transitory decrees.
+The patio granted us a beautiful setting and, importantly, privacy, thanks to its arcade walls which surrounded us on all sides. 
+In its center was a large fountain, whose gentle water flow created an ever more peaceful feeling. The fountain was adorned with a marble statue of De’sotor Aquíbar, a great Haciende of yore who introduced the first comprehensive system of imperial taxation and public finances. An apt guardian over our proceedings.
+After taking in our surroundings, Furique straightened himself and spoke.
+
+Furique Vallitu:
+“Thank you for taking the time to meet with me, Your Majesty.”
+“And furthermore for agreeing to set it anywhere but that stuffy meeting hall, for all its opulence I never enjoyed working there. A private study, drawing room, or garden is far more to my liking, and I hope yours as well.”
+
+Dialog Choice #1
+Pherip IV:
+“It certainly is. After reading your suggested meeting location in Quixote’s document, I signed it in an instant.”
+
+Furique Vallitu:
+“Wonderful to hear. We’ve plenty other gardens in the palace, so mayhaps we can continue to meet in each one until they’ve all had a use.”
+“I read once in Emperor Pollo III’s autobiography how there were certain areas in Catheljunta he’d never been to throughout his very long life, this garden being one of them. How insane is that?”
+
+Dialog Choice #2
+Pherip IV:
+“As you say. This was the meeting I most prioritized having, Furique. A nation is nothing without its wealth, nor is the will of its leader worth anything without the resources to back it up.”
+
+Furique Vallitu:
+“Succinctly put, my Emperor.”
+“And only one as strong willed as yourself can adequately steer so massive an economic force as Suzerain’s.”
+
+Dialog Choice #3
+Pherip IV:
+“Naturally. I can’t keep moving forth in my plans for the Empire without first knowing the state of its economy. Wouldn’t want to find out we're 6 quintillion in debt or some such.”
+
+Furique Vallitu:
+“Spoilers for later in my report: we’re thankfully not facing a debt crisis. We do have an outstanding loan, but our projected revenues remain sufficient to meet our obligations.”
+“Only a fool more concerned with expensive hedonic pursuits could run our finances so far into the ground without creating any returns.”
+“How good our royal family holds such a great sense of responsibility.”
+
+Dialog Choice #4
+Pherip IV:
+“I’m more partial to the comforts of our Castilles Chamber, though, but that’s neither here nor there.”
+
+Furique Vallitu:
+“Agree to disagree.”
+“I do appreciate you humoring my request, though. My spirit feels rejuvenated to give you such a loaded report.”
+
+(If “Mint Pherip Ascension Coin” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I wanted to inform you that the first Ascension Coins have been created within various crown land minting houses, with further production well underway.”
+“It took a bit of harsh management from the Viceroys and such to have the gold order fulfilled, not to mention our own extraction from the old Caetzan planets had to be tripled, but we seem to be on track.”
+“I understand the debut for the coin can be expected within the next few weeks, after which so too will the price for gold take a hit, though that was anticipated before you signed the decree.”
+“Happy to report your first ever act has gone so swimmingly. I hope you too are pleased with the results.”
+
+(If “Open the Imperial Palace” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I do hope the Grail Forests were to your liking. Íñigo Bezúcar was most hospitable in hosting the court on such short notice.”
+“On that matter, I wanted to inform you that last week’s opening of the palace for public viewing went off without a hitch.”
+“The Commoners, Clergy, and lower tier Nobles who have never walked these halls were enamored at seeing where their Emperor lives and rules.”
+“Expectedly, the throne room and your bedroom were particular favorites, with many individuals having tried to discreetly snatch photos of them, though security was able to intercept these visitors and confiscate such devices.”
+“None of the previously voiced fears of possible terrorism or disillusionment with the royal family’s supremacy came to pass. Guests left the experience feeling both grateful to you for allowing them such a glimpse, and especially the Commoners felt indebted like this act was done for them specifically.”
+“Disappointingly, my suggestion to host a gift shop fell on deaf ears, and thus we missed out on that possible revenue stream.”
+“Oh well.”
+“Still, I’m happy to report your first ever act has gone so swimmingly. I hope you too are pleased with the results.”
+
+(If “Establish the Grand Gardens” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I wanted to inform you that orders have gone out across the Empire for various regions to procure their selected specimens of plant and animal for display at the Grand Gardens.”
+“Already the 16 Planet Realm has sent a convoy with their donations, they were more than happy to contribute toward such a cause.”
+“Others have taken a bit longer to decide. There actually is an ongoing incident where the Aeteran capital region remains undecided on which plant species to send between several vegetation specimens,”
+“From what I could gather, several prominent Noble families have specific historical ties to each as their primary produce, and thus it has become a competition of who deserves the honor of having theirs stand in the garden.”
+“It was decided to just let them iron this out internally rather than get involved.”
+“Besides that, the ground has already been cleared in a very scenic location toward the western outskirts of Isa Bellmaré, where the garden shall stand.”
+“His Grace, First Envoy Torrez, is particularly well-spirited with the whole ordeal. He’s committed much of his time lately toward assisting in the design of the garden, particularly where certain species should be planted and in what fashion.”
+“From the foremen I spoke to, it seems construction will be finished within the month, presuming donations are adequately provided and survive the journey.”
+“I’m therefore happy to report your first ever act has gone so swimmingly. I hope you too are pleased with the results.”
+
+(If “Pass Act of Clemency” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I wanted to inform you that the act of clemency signed last week was carried out. A million prisoners with minor offenses were pardoned of their sentences, 85% of which were proper Suzerish, the rest originating from the Colonies or Dominions.”
+“As was hoped, this has aided your reputation as a compassionate and kind ruler, especially abroad, where many galactic nations were pleasantly surprised to see some of their own species be amongst those pardoned.”
+“Some hardliners have been critical of the move, especially those in the military who aren’t enthusiastic about allowing criminals off the hook, as they view it. However the common consensus is overwhelmingly in approval, given most of their offenses were nonviolent and low tier.”
+“The Colonies and Dominions specifically were pleased to see certain political activists, who were imprisoned in years past, have been set free.”
+“Thusly, I’m happy to report your first ever act has gone so swimmingly. I hope you too are pleased with the results.”
+
+(If “Declare a Week’s Long Holiday” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I wanted to inform you that the people, my own employees among them, were very grateful for your provided vacation time.”
+“It’s since ended a few days ago, and everyone has been returning to work with new travel memories for sharing, along with far better attitudes.”
+“Productivity has actually seen a small uptick these past couple of days, so perhaps the claims we’ve previously dismissed that working less can yield higher results is true?”
+“What odd phenomena.”
+“Of course, the actual time which was taken off saw much of our domestic production diminish, in some industries even completely halt. But it was nothing we can’t handle.”
+“There are a few portions of the workforce who remain on vacation, as it was agreed essential roles like emergency services would need to remain operational, thus half of those institutions’ employees were given this week off instead.”
+“Overall, a successful show of gratitude from you to the populace. And an interesting experiment for societal work habits.”
+“All in all, I’m happy to report your first ever act has gone so swimmingly. I hope you too are pleased with the results.”
+
+(If “Imperial Armada Salute” was chosen in grand_council_001)
+Reconvene:
+Furique Vallitu:
+“Also, I wanted to thank you for that spectacular show from the Armada. My whole family got together to watch it, and boy did it not disappoint."
+“I know His Grace, Grand Martialissimo fue Léon, was mostly to thank for the fleets remaining in tip-top shape. He personally oversaw the exercises for the event.”
+“I may not be a militarily inclined man myself, but seeing those ships maneuver like clockwork, the endless stream of officers and crewmen, then finishing off with that blast of thunder and steel! Oh, it got the patriotic fever in me stirring, I’ll tell you that!”
+“Same goes for military families and active servicemen. My siblings and parents loved it, seeing it as a mutually respectful nod between you and the armed forces.”
+“‘The twin powers who conquered the galaxy’, my Father said.”
+“First Envoy Torrez conducted a census in the Empire and abroad, where he found that practically every estate and class of people looked at the event approvingly, including those from the Colonies and Dominions, who were proud seeing their own local species amongst the ranks.”
+“Not to mention the wider galaxy got a healthy reminder of Suzerain’s power. A useful weight to hold in future negotiations.”
+“It was quite the good idea on your part, sire. I’m happy to report then that your first ever act has gone swimmingly. I hope you too are pleased with the results.”
+
+Reconvene:
+Furique Vallitu:
+“Now, with that said, we’ve much to go over, so I’ll just get right to it.”
+
+Narrator:
+Furique began taking out various papers from his pouch, and kept talking as he did so.
+
+Furique Vallitu:
+“For starters, I’d like to say how immensely delighted I was upon being voted to remain as your Haciende.”
+“I know some Nobles of the, let’s say, puffy variety did and still don’t approve of a ‘Commoner’ holding such an elevated position. But I can assure you, I’m actually a Baron, so I guess that solves that.”
+
+Narrator:
+I remembered when my Grandmother ennobled Furique in light of this scandal. Her meritocratic beliefs still couldn’t overcome the insular sentiments of the wider Nobility. Even with this act and Furique’s proven aptitude at running the nation’s economy, he still remained seen as being above his station by a vocal minority of Nobles.
+
+Furique Vallitu:
+“Serving you shall see the culmination of all my work for a truly eternal Suzerish Golden Age started under Empress Sicill, God rest her incredible soul.”
+“Though I don’t like to blow my own horn in front of the others, I’m confident in sharing my opinion to your ideally likeminded self that our economic endeavors are by far the most vital of all in the many councils.”
+“Without coin, armies and fleets can’t be built nor maintained, diplomatic missions could not be sent, Colonies not developed, churches not erected, welfare programs would shut down-”
+”You get the idea, I imagine.”
+
+Dialog Choice #1
+Pherip IV:
+“I do, which is why you may move on to the ACTUAL report.”
+
+Narrator:
+Furique grinned embarrassingly.
+
+Furique Vallitu:
+“My passions do get me blathering, don’t they?”
+“Yes. I’ll begin the concrete portion of today’s briefing.”
+
+Dialog Choice #2
+Pherip IV:
+“Without our treasury, the Empire would wither away. It matters not how powerful we stand now, it will all slip away once the resources used to continue plugging leaks are spent.”
+
+Furique Vallitu:
+“Exactly”
+“The military and diplomatic corps may have won Suzerain His place in the galaxy, but it's the economy which fueled their victories and maintains the Empire’s dominance. Without it, we’d have no means to upkeep such a sprawling domain.”
+“Given that, while you may be the first and foremost source of loyalty across our Empire, I certainly would argue the second strongest force keeping everything together is our obscene fortune and where it's put.”
+“Which sets the stage then for my concrete briefing.”
+
+Reconvene:
+Narrator:
+Opening a tome-like compendium, Furique navigated himself through its various contents whilst reading aloud.
+
+Furique Vallitu:
+“To get through a few obvious matters, Suzerain remains the strongest economic powerhouse of the galaxy, followed distantly by the Fespian Commonwealth, then Veiden Republic. Though that last case is due significantly to their Svekron still acting as the galaxy's principal reserve currency.”
+“Our own currency, the Marcúdo, has seen an uptick in inflation levels over the years. Resulted from ever increasing inflows of gold and silver within our economy that makes the commodity currency worth slightly less with every passing year.”
+“This rise has not yet reached alarming levels or scale, but is worth noting.” 
+“Currently our national income is running at a thin surplus, with a considerable number of strong revenue sources mirroring just as immense costs.”
+“Part of those costs consists of the interest payments to our outstanding loan with the Fespian Commonwealth.”
+“Based on current repayment plans, we’re set to satisfy it in the next decade. There are various areas which could be improved upon to fix such a narrow surplus margin, though which particularly ought to be prioritized is unclear.”
+“I’d nevertheless grade our economy as being healthy. It continues to gain momentum at a seemingly limitless extent.”
+“Growth metrics have slowed somewhat, but we hold the means to resolve this with some well placed investments. It is my personal assessment that Suzerain now needs more than ever steady guidance from the state to keep our economic prosperity running.”
+
+Repeated:
+Dialog Choice #1
+Pherip IV:
+“It’s reassuring to know the Suzerish Golden Age has not yet reached its end, I wouldn’t want to be who’s on the throne when that happens.”
+
+Furique Vallitu:
+“That unfortunate person wouldn’t be far away from losing their head, I imagine.”
+“Naturally, it remains my goal to set the necessary parts up that our Golden Age never ends, but just ensuring we never live to see it is fine enough, although still a shame.”
+“The fact everything didn’t all come crashing down after your Grandmother’s passing is proof enough we’re on the right track. I’ve bought us time enough to solidify your reign as a continuation of Empress Sicill’s, but now it all matters what we do with this time.”
+“Again, the economic boom is how our Empire continues to push on and expand its power base. It is Suzerain’s lifeblood. We cannot become complacent in handling it.”
+
+Dialog Choice #2
+Pherip IV:
+“You said Veiden’s Svekron endures as the international currency? How irksome. What keeps their tiny nation in such an advantageous position?”
+
+Narrator:
+Furique shook his head frustratingly and gazed down at his papers, evidently particularly upset by this matter.
+
+Furique Vallitu:
+“Try as we may, the Veiden Svekron remains the most trusted means of exchange between all states.”
+“All but the Legion, I must correct.”
+“They still cling stubbornly to that nonsense currency of theirs. I can’t even pronounce it it's so ridiculous.”
+“In any case, try as I have working with His Grace the First Envoy to persuade at least some neighboring nations to adopt our currency, all have thus far refused, citing the lack of longstanding history as compared to the Svekron with which to trust the Marcúdo. Coupled further with certain political agendas to not permit Suzerain’s dominance to further spread by new avenues like this.”
+“Only our Imperial subjects complied in switching to the Marcúdo. Though they also keep reserves of Svekrons, out of caution and perhaps even bias.”
+“Aeteran is the only exception, they’ve completely switched to the Marcúdo in use and reserves.”
+“Yet this has come with complaints how their Sovereign Economic Rating drastically decreased upon taking such an approach, with pleas reaching my desk by the Prince-Regent that their trust in our currency be met with efforts on our part to bring up its value.”
+“It remains a major mission of mine to finally dethrone the Svekron, however long it may take.”
+
+Repeated:
+Dialog Choice #2.1
+Pherip IV:
+“We’re the strongest, richest Empire to ever exist, untold resources lay at our fingertips, how can that miniscule Republic stand so firmly against us?”
+
+Furique Vallitu:
+“Time and inoffensiveness. That has been the Veiden advantage I cannot replicate.”
+“Their nation is over 1 and a half thousand years older than us, in that time they’ve garnered a steady and consistent history to prove their trustworthiness, and as we know, economists grade risk based on one’s past. If I weren’t so biased, I’d also easily say Veiden is the safest bet to stake my country’s monetary base on.” 
+“Next to this is the Veiden reputation as an excessively impartial, humble, kind, and passive people who wouldn’t ever dream to ambitiously seize the galaxy for themselves. It means no one need fear giving them so much economic power.”
+“For all the good our conquests and current hegemony has done us, Suzerain’s certainly become an uncompromising villain in the eyes of our enemies, and a great rival not to be further fed in the eyes of neutral powers and even our allies.”
+”They fear us, and for good reason. We’re primed to keep the proverbial snowball of success we’ve created going on and on if no one stops it.”
+“None fear the Veiden, thus they can be trusted. I cannot artificially manufacture such trust.”
+“Lest you feel like demoting yourself to King and disbanding the wider Empire?”
+“A joke, My Emperor.”
+
+Dialog Choice #2.2
+Pherip IV:
+“I see. And what suggestions do you have for me in rectifying this unsavory situation?”
+
+Narrator:
+Releasing a pensive sigh, Furique looked off into the flowing fountain waters to think before answering.
+With a crooked mouth, he gave what sounded like an unsure answer.
+
+Furique Vallitu:
+“Get our inflation trend reversed? Increase trade volume whilst utilizing the Marcúdo? Maybe set up an institutionalized currency exchange?”
+“Really, those are just the type of ideas I’ve been trying over the past years to no avail. What really would do wonders is getting a major player to take on reserves in Marcúdos, or hell, even adopt it entirely if we’re so lucky.”
+“The prime candidate for this has always been the Eternal Star. They’ve the galactic weight for it to mean something, and the already existing friendly relations to work off of.”
+“Quite rudely, I was laughed out of the room by their Keeper of Finance for even suggesting such proposals. They share our Suzerish sense of pride and self satisfaction, it seems.”
+“It’s not nearly as charming when they’re the ones acting that way.”
+
+(Continues Dialog)
+(Reconvenes at previous Repeated)
+Dialog Choice #2.3
+Pherip IV:
+“Understood. Back to other matters, however…”
+
+Dialog Choice #3
+Pherip IV:
+“Inflation has always been the death of any economic boom, Mr. Vallitu, yet you seem surprisingly dismissive of this trend.”
+
+Furique Vallitu:
+“Apologies that I do, sire. It was not at all my intention to undersell this matter.”
+“It’s just of all the pressing aspects related to our financial wellbeing, this I deemed to be the least inimical, so I seem to unconsciously pay it less weight.”
+“But you’re right, of course, that historically the depreciation of one’s currency is a rather surefire sign the good times are coming to their rapid end, either by slow death or sudden collapse. I just don’t think we’re at that threshold yet.”
+“Besides, the cause for this inflation in the first place is our recent overabundance of precious ores. Not what I’d call an unfortunate position to be in.”
+“We can’t realistically halt the inflow of colonial gold and silver, this would truly kill our economy. By comparison, the degradation of our currency is not yet extreme in the slightest. So whilst the source of our country’s inflation isn’t quite addressable, taking action to curb its effects is.”
+“I agree this is a trend we should aim to lessen or even reverse if possible, it would certainly help with the other matter of currency adoption in other nations, although I would advise we wait until certain other problems are solved first.”
+
+(Continues Dialog)
+Dialog Choice #4
+Pherip IV:
+“This slim fiscal margin warrants further explanation if I am to know what our capabilities are, particularly where our income originates from and what we are spending so much on.”
+
+Furique Vallitu:
+“Very astute thinking, Your Majesty.”
+“I’ll gladly shed further light on this.”
+
+Narrator:
+I watched him flip through pages in excitement, it rubbed off on me as I now felt a gleeful anticipation rise in my chest.
+
+Furique Vallitu:
+“Here we get to the fun part of our discussion; finding out how Suzerain remains so obscenely rich.”
+
+Narrator:
+Furique landed on a particularly dense page of information and visuals, running his finger across its contents which I could scarcely make out as words with how small the print was, but he seemed unstrained.
+
+Furique Vallitu:
+“As has radically changed since the Empire’s ascension into space, ours is an export focused economy, dependent on income garnered from import tariffs and export revenues.”
+“The only exception is imports from subjects and Colonies, which we need in order to keep local industries operational.”
+“Specifically, our primary exports remain in manufactured items, such as luxury and consumer goods. Most famously, our furniture, clothing, and any colonial consumables make up roughly 35% of all trade revenues. Merchant vessels and weapons account for a further 15% or so.”
+“Much of this production depends on raw resource imports from our Colonies, though we also export considerable quantities of those same materials possessed in surplus.”
+“Contrary to most neighboring nations, national income predominately stems from trade rather than domestic taxation.”
+“On the one hand, this benefits us by seeing wealth flow from outside to within our borders, yet on the opposite hand it means we are reliant on the whims of foreign nations to keep our revenues steady.”
+“Not to say that we currently face any radical threats such as embargo which could threaten the Empire, I know the First Envoy works tirelessly to keep our galactic image well enough to avoid that. In a different extent so does the Grand Martialissimo, ensuring gunboat diplomacy remains a viable tactic.”
+“Regardless, I’ve always felt a better balance of foreign cooperation and self sufficiency would be worth pursuing.”
+“Nothing as extreme as Autarky is necessary, in my opinion, yet at least partially moving away from our reliance on foreign trade could prove useful in the long term.”
+
+Repeated:
+Dialog Choice #1
+Pherip IV:
+“I see. And are taxes low in light of this heavy weight from trade?”
+
+Furique Vallitu:
+“Unfortunately not, and I say that as someone whose businesses pay a significant amount in tax.”
+“Many of the emergency taxes imposed during wartime were never lifted, given our situation developed where in doing so, our surplus would shift into deficit.”
+“I’d normally say this is a very bad sign, but it has less to do with the health of our economy and more to do with government spending.”
+“Possessing the galaxy’s largest Armada, maintaining wide reaching territories, funding all the new initiatives intended to expand our sphere of influence, upkeeping various assimilation and welfare programs, and so on cost a pretty sum.”
+“The Commoners and Burghers, who bear the major brunt of these taxes, thus far have accepted the burden put on them, given their belief such funds go toward the state’s continuous victories. My fear is should we reach a roadblock, that trust will shrivel.”
+
+Repeated:
+Dialog Choice #1.1
+Pherip IV:
+“Then the Nobility and Clergy don’t contribute, I take it?”
+
+Furique Vallitu:
+“The Nobility does pay tax, though such an insignificant amount it's hardly worth mentioning.”
+“This is because Nobles have little which legally can be taxed in the first place.”
+“Unlike the other estates, Nobles are exempt from paying taxes on luxury items, inheritance, and significantly less on land if it is housing Commoners to some degree.”
+“That’s on top of the deductions granted for ‘public services’ which realistically only the Nobility can reliably afford, add on top how these deductions tend to far outweigh their raw costs.”
+“Proportionally speaking, Commoners and Burghers pay an average of around 25% in total wealth to the Crown, while Nobles pay barely 4%.”
+“The Clergy, meanwhile, pays absolutely nothing. Not since 1000 years ago before the Concordat on Ecclesiastical Duty has the Church paid even a morsel in tax, including on commercial enterprises like the Monastery breweries.”
+“So it's only a slight correction on your question, the Nobility barely contribute, and the Clergy outright don’t contribute.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.1.1
+Pherip IV:
+“Outrageous. The wealthiest estates contribute scarcely enough to keep our economy afloat, while the people suffer under extreme burden from the state.”
+
+Furique Vallitu:
+“I wouldn’t say that’s completely accurate.”
+“True, the Nobility and Clergy spend more on perfume and silk undergarments than they do in tax, but to claim they hold no significance to the economy would be a grave miscalculation. Their estates, investments, and expenditures sustain entire industries and provide livelihoods for billions.”
+“The problem is not that they contribute nothing, but that the Crown collects far less from them than their wealth would reasonably warrant.”
+“The main argument levied against such a move has been that stripping away the financial freedoms of the Nobility would cause more economic harm than good. Without their capability to invest the vast sums of wealth the state would otherwise tax, we’d see a slow down in business growth, production, and employment.”
+“Not to mention a mob of uptightly furious Nobles on the palace doorstep.”
+“Similarly, the Clergy have always claimed their assets are for the glorification of God and the caretaking of His flock. If we renege on the ancient Concordat now, there’s no telling what unrest would follow from the faithful, Commoner believers included.”
+“I personally suggest taking a compromising approach. One where, for instance, the Nobility are made to pay a single Extraordinary Levy to give the Crown a financial influx, yet preserving their privileges. Then for the Clergy, introduce a tax on commercial assets which have no reasonable spiritual origin, and leave all other aspects as they are.”
+“Ideally, these additional funds would give an edge in creating a more secure state income, whilst keeping the estates content by not increasing the burden of the Commoners, maintaining the spiritual services of the Clergy, and respecting the privileges of the Nobility.”
+“That doesn’t mean you CAN’T just tax the upper estates to hell and back, they certainly can afford it, though don’t expect them to do you any favors without something in return.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.1.2
+Pherip IV:
+“I intend to make a more egalitarian society built on proportional contribution. Taxation is the most direct means to achieve this.”
+
+Furique Vallitu:
+“Want to bring the Nobles and Priests down a few pegs, huh? Can’t say you’re the only one.”
+“I must stress, though, that to claim they hold no significance to the economy would be a grave miscalculation. Their estates, investments, and expenditures sustain entire industries and provide livelihoods for billions.”
+“The problem is not that they contribute nothing, but that the Crown collects far less from them than their wealth would reasonably warrant.”
+“The main argument levied against such a move has been that stripping away the financial freedoms of the Nobility would cause more economic harm than good. Without their capability to invest the vast sums of wealth the state would otherwise tax, we’d see a slow down in business growth, production, and employment.”
+“Not to mention a mob of uptightly furious Nobles on the palace doorstep.”
+“Similarly, the Clergy have always claimed their assets are for the glorification of God and the caretaking of His flock. If we renege on the ancient Concordat now, there’s no telling what unrest would follow from the faithful, Commoner believers included.”
+“I personally suggest taking a compromising approach. One where, for instance, the Nobility are made to pay a single Extraordinary Levy to give the Crown a financial influx, yet preserving their privileges. Then for the Clergy, introduce a tax on commercial assets which have no reasonable spiritual origin, and leave all other aspects as they are.”
+“Ideally, these additional funds would give an edge in creating a more secure state income, whilst keeping the estates content by not increasing the burden of the Commoners, maintaining the spiritual services of the Clergy, and respecting the privileges of the Nobility.”
+“That doesn’t mean you CAN’T just tax the upper estates to hell and back, they certainly can afford it, though don’t expect them to do you any favors without something in return.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.1.3
+Pherip IV:
+“And how would you judge such an arrangement?”
+
+Furique Vallitu:
+“To be blunt, I’d say it's flawed and in need of reform.”
+“Nothing so radical as further taxing the Commoners and/or instating a wide range of permanent taxes on the Clergy and Nobility, I’m no Socialist despite what my critics shout. Though still a series of changes to refine what is in my eyes a gravely outdated system.”
+“But I must stress, though, that to claim the Nobility and Clergy hold no significance to the economy would be a grave miscalculation. Their estates, investments, and expenditures sustain entire industries and provide livelihoods for billions.”
+“The problem is not that they contribute nothing, but that the Crown collects far less from them than their wealth would reasonably warrant.”
+“The main argument levied against such a move has been that stripping away the financial freedoms of the Nobility would cause more economic harm than good. Without their capability to invest the vast sums of wealth the state would otherwise tax, we’d see a slow down in business growth, production, and employment.”
+“Not to mention a mob of uptightly furious Nobles on the palace doorstep.”
+“Similarly, the Clergy have always claimed their assets are for the glorification of God and the caretaking of His flock. If we renege on the ancient Concordat now, there’s no telling what unrest would follow from the faithful, Commoner believers included.”
+“I personally suggest taking a compromising approach. One where, for instance, the Nobility are made to pay a single Extraordinary Levy to give the Crown a financial influx, yet preserving their privileges. Then for the Clergy, introduce a tax on commercial assets which have no reasonable spiritual origin, and leave all other aspects as they are.”
+“Ideally, these additional funds would give an edge in creating a more secure state income, whilst keeping the estates content by not increasing the burden of the Commoners, maintaining the spiritual services of the Clergy, and respecting the privileges of the Nobility.”
+“That doesn’t mean you CAN’T just tax the upper estates to hell and back, they certainly can afford it, though don’t expect them to do you any favors without something in return.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.1.4
+Pherip IV:
+“Can’t we increase tax rates on the Burghers? I feel their immense riches are being swept under the rug here.”
+
+Narrator:
+Furique tugged on his neckerchief uncomfortably.
+
+Furique Vallitu:
+“To be sure, yet I fear that would be overlooking where the real sources of hoarded wealth lay.”
+“Not to mention how harmful for the economy it would be to siphon funds from those that fuel its expansion and have far less breathing room to work with.”
+“Yet to be fair, claiming the Nobility and Clergy hold no significance to the economy would be a grave miscalculation. Their estates, investments, and expenditures sustain entire industries and provide livelihoods for billions.”
+“The problem is not that they contribute nothing, but that the Crown collects far less from them than their wealth would reasonably warrant.”
+“The main argument levied against such a move has been that stripping away the financial freedoms of the Nobility would cause more economic harm than good. Without their capability to invest the vast sums of wealth the state would otherwise tax, we’d see a slow down in business growth, production, and employment.”
+“Not to mention a mob of uptightly furious Nobles on the palace doorstep.”
+“Similarly, the Clergy have always claimed their assets are for the glorification of God and the caretaking of His flock. If we renege on the ancient Concordat now, there’s no telling what unrest would follow from the faithful, Commoner believers included.”
+“I personally suggest taking a compromising approach. One where, for instance, the Nobility are made to pay a single Extraordinary Levy to give the Crown a financial influx, yet preserving their privileges. Then for the Clergy, introduce a tax on commercial assets which have no reasonable spiritual origin, and leave all other aspects as they are.”
+“Ideally, these additional funds would give an edge in creating a more secure state income, whilst keeping the estates content by not increasing the burden of the Commoners, maintaining the spiritual services of the Clergy, and respecting the privileges of the Nobility.”
+“That doesn’t mean you CAN’T just tax the upper estates to hell and back, they certainly can afford it, though don’t expect them to do you any favors without something in return.”
+
+Dialog Choice #1.2
+Pherip IV:
+“How would lowering these heavy taxes affect business growth and production?”
+
+Furique Vallitu:
+“In the short term, positively. In the long run, uncertain.”
+“That isn’t to say being rid of the old wartime taxes and decreasing overall rates wouldn’t be of long term benefit as well, only that I can’t accurately predict whether the opportunity cost for losing out in these state revenues would or wouldn’t exceed what the people may do with their additional reserves.”
+“They may use it more efficiently than the state would have, just as likely as they may hoard their money and spend it on nonsense. Who’s to say?”
+“I know that sounds rather uninformed coming from your Haciende, but it's the truth. No one can predict what the people will do, and economic booms rarely lead to smart spending from them.”
+“All I can tell you confidently, is that if you spend the Empire’s resources wisely, far more good will be done than anything the Burghers and Nobility can achieve individually. If such resources are spent improperly, then our citizenry will become immensely discontent and you’ll have nothing but more debt for the trouble.”
+“Of course I shall advise you to the best of my abilities, but the choice heavily weighs on how confident you are in your own economic knowhow.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.2.1
+Pherip IV:
+“Thus raising taxes, unpopular as that will be, would at least give us the assets required to greatly develop our industries.”
+
+Furique Vallitu:
+“So to speak, presuming said assets would actually be put toward development projects.”
+“I’m working towards several ideas that may give us a head start, but I’ll speak on that later.”
+“But the people’s wrath cannot be understated. Tangible results from any such projects would need to be both clear and astronomical for them to feel their sacrifice was warranted. Otherwise we risk widespread unrest even the Inquisition would struggle to resolve.”
+
+Narrator:
+I bowed in understanding, and gazed out at the garden scenery. 
+A thought came to me: how these meticulously tended flower beds surrounding us require a knowledgeable gardener to help them flourish and grow, and at the same time they would never truly bloom if their blossoms were plucked at every opportunity.
+Where the balance lay in this case, and with our taxes, I wasn’t sure yet.
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.2.2
+Pherip IV:
+“I can’t bring myself to take more from my subjects that have already given so much to the Crown. Their loyalty and sacrifice should be rewarded, not further taken advantage of.”
+
+Furique Vallitu:
+“Very honorable of you, sire. If even 1/5th of the Nobles thought like you do, then I’d not have to lift a finger for our Golden Age to be eternal.”
+“But therein lies the problem, even if you have the best of intentions, the rest of your subjects may not, and that we cannot work with. Only through your enlightened rule can these finances be directed toward selfless purposes.”
+“On that matter, I’m working towards several ideas that may give us a head start, but I’ll speak about this later.”
+“As you seem to understand, the people’s wrath cannot be understated. Tangible results from any such projects would need to be both clear and astronomical for them to feel their sacrifice was warranted. Otherwise we risk widespread unrest even the Inquisition would struggle to resolve.”
+
+Narrator:
+I bowed in understanding, and gazed out at the garden scenery. 
+A thought came to me: how these meticulously tended flower beds surrounding us require a knowledgeable gardener to help them flourish and grow, and at the same time they would never truly bloom if their blossoms were plucked at every opportunity.
+Where the balance lay in this case, and with our taxes, I wasn’t sure yet.
+
+Dialog Choice #1.3
+Pherip IV:
+“I understand the necessity for wartime taxes during actual war, but now they strictly must be removed or reformed. That powder keg of trust you mentioned is concerning and cannot be allowed to continue.”
+
+Furique Vallitu:
+“My thoughts exactly, Your Majesty.”
+“One caveat, however. Repealing them now would send us directly into an extreme deficit, like I said.”
+“Believe me, it's among my top goals to remove those remnants of the old war economy. However, now is not the time, as bitter a pill that is to swallow.”
+“Once we jumpstart the second phase of our economic growth and get a proper safe surplus running, then by all means, kick those taxes to the curb immediately.”
+“Be that as it may, it's not out of the question to at least alter the current taxes to make them less detrimental. I’ve a couple of ideas in mind for that.”
+
+Dialog Choice #1.3.1
+Pherip IV:
+“Please, go on.”
+
+Narrator:
+Turning through several more pages, Furique began running his fingers on a section with various loose papers pinned atop it.
+There were many edits made on these papers.
+
+Furique Vallitu:
+“Part of the wartime economy was based on emergency taxes for large corporations, especially those which turned the most profit from our conflicts. Their rates are set universally on profits of any kind which these companies make, whether for civilian or military goods and no matter how such profits are utilized."
+“Expectedly, firms feel de-incentivised to spend their earnings on expansion and innovation, as that means they’ll just get taxed for the pleasure, thus it’s just the same for them to waste their profits on inefficient production lines and hide whatever else they can by clever yet ultimately worthless accounting tricks.”
+“To remedy this, I’ve researched various alterations to the existing guidelines that should help keep enough revenue for the Empire and lessen this business encumbrance.”
+“Altering the classifications of what profit types are to be taxed and in what capacity, for instance.”
+“Instead of all profits being siphoned without context, we could instead introduce various tiers depending on how they’re used.”
+“For example, lower taxation on costs like wages, to encourage competitive pay and further employment, whereas higher taxation would be maintained on financial speculation and passive income.”
+“Even more specifically, profits distributed to shareholders as dividends or elsewise shall remain subject to the full additional tax, given they don't serve any productive purpose, and those reinvested into domestic operations such as industrial modernization, infrastructure, and research will receive a full tax exemption.”
+“And why stop there? Make a distinction between military and consumer goods so factories finally stop overproducing muskets and war vessels. Increase rates on empty dwellings and unused commercial or industrial buildings. Create an export retention allowance that’d finally allow our goods to reach foreign markets without profits being nearly completely taken by the government.”
+“I could go on and on, though I imagine you’d like me to quit while we’re still young.”
+“No doubt this would result in slightly less income from the wartime taxes themselves, but I predict confidently the offset of economic growth and additional revenues from peacetime taxes would mean a break even overall, while nevertheless stimulating industrial growth.”
+“The catch: it’s time consuming and administratively straining to change all our policies.”
+“It remains my strong recommendation that you pass these decrees sooner than later, however I understand if our bureaucracy must be utilized elsewhere for the time being.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.3.1.1
+Pherip IV:
+“Sadly, I remain unconvinced we can handle such a burden at this time. Perhaps sometime in the future, but I doubt within the timeline you were hoping for, Mr. Vallitu.”
+
+Narrator:
+With a heavy sigh, Furique gritted his teeth in disappointed comprehension.
+
+Furique Vallitu:
+“My belief remains that this matter is of great enough importance to perhaps set aside certain other projects, but it is not my call to make, nor do I have the full picture as you do, sire.”
+“Therefore I defer to your superior judgement, although please remember you may change your mind at any time. I’ll slip the decree across your desk in case the situation alters.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.3.1.2
+Pherip IV:
+“I absolutely wish to make all of these adjustments as you’ve outlined, Mr. Vallitu, yet as you also said, the Crown cannot at this time commit to such intense reforms. Perhaps soon once some other projects are completed, but likely not now, sorry to say.”
+
+Furique Vallitu:
+“Once more, I understand. The situation we find ourselves in demands patience, however frustrating that may be.”
+“All I ask is you look over the decree once I’ve finalized it, and pass it when the time is right.”
+“In the meantime, there are other approaches to take.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.3.1.3
+Pherip IV:
+“No, you are most correct, Haciende. This process must begin at once, for the betterment of our nation. Please send the necessary documents as soon as you can, I’ll press my seal to them immediately."
+
+Narrator:
+Furique could barely contain the approval in his expression. His chest puffed in pride and fists tightened in resolve.
+
+Furique Vallitu:
+“You can expect them within the week, Emperor!”
+“I’ve a great feeling for the times ahead of us, Your Majesty, they’ll be gilded in emerald and lined in gold.”
+“Which is a fancy way to say, I think we’re on the right track here.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.3.1.4
+Pherip IV:
+“Forgive me for this, Haciende, but I don’t wish to move forth with your proposals. We need the revenues these taxes bring, and if all that’s needed for them to function is keeping my people content, I can handle it.”
+
+Narrator:
+In that moment, Furique appeared a mix of bewildered and disappointed. He seemed simply incapable of understanding why I had said such a thing, but of course didn’t wish to say that to my face.
+
+Furique Vallitu:
+“But- Sire, surely you understand-”
+
+Narrator:
+He cleared his throat. 
+
+Furique Vallitu:
+“Rather… Your will shall be upheld, however much I may disagree with it.”
+“All I ask is you look over the decree once I’ve finalized it, and perhaps pass it should your mind change.”
+“For now, there are other ways we can try and improve the situation.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #1.3.2
+Pherip IV:
+“We’ve talked enough about these tiresome taxes, just hand me your proposals when they’re ready.”
+
+Narrator:
+Disappointment showed on my Haciende’s face, though he tried to conceal it.
+
+Furique Vallitu:
+“As you wish.”
+“They’ll be ready in due time.”
+
+(Continues Dialog)
+(Reconvenes at previous Repeated)
+Dialog Choice #1.4
+Pherip IV:
+“Now I grasp the picture on this matter. Shall we move on to other subjects?”
+
+Furique Vallitu:
+“Naturally, Your Majesty.”
+“What else may I shed light on?”
+
+Dialog Choice #2
+Pherip IV:
+“I’ve heard talk of how our workforce is less than healthy, elaborate on this, if you will.”
+
+Furique Vallitu:
+“‘Less than healthy’ depends on your point of view. Furthermore, whether you view our Colonies and subjects as one in the same to the Suzerish people.”
+
+Narrator:
+Furique grabbed a folder from across the table and pulled out a paper containing a pie chart upon it. He held the visual up for me to see.
+I already could see at a glance the slice representing Suzerish citizens was barely above half.
+
+Furique Vallitu:
+“As you can see, this year’s National Workforce Census reports native Suzerish peoples as being in or around 65% of our domestic labor force. The remaining 35% consists of a mixture from our various imperial territories, and some truly foreign immigrants.”
+“There aren’t yet any particular members of the Imperial Family who relevantly lead ahead of the others in this matter, you can see they each occupy roughly 4%, and the remaining 3% represents all other galactic species.”
+
+Narrator:
+He pursed his lips and placed a finger on his chin pensively.
+
+Furique Vallitu:
+“What’s peculiar is we’re currently facing both an uptick in unemployment AND in workers shortage. The latter of these being an issue faced mostly by Burgher Industrialists rather than the more rural Nobility. Apart from those Nobles who have realized the changing times and gone into Industry as well.”
+“The best explanation I can muster for this is our populace being at odds with the new characterization of foreign workers.”
+“Some think they are as Suzerish as the Suzerish themselves, and therefore hold no restraint in hiring members of the Imperial Family. Others argue they steal jobs from true Suzerish workers and furthermore do a lesser job, but can be trusted for menial tasks no self-respecting Suzerain should be doing anyway like hard labor positions in the plantations.”
+“A radical few even claim non-Suzerish workers ought to be barred from working at all in the Fatherland, and so refuse to hire foreigners for jobs that sometimes remain vacant for months on end.”
+“Thus we have a phenomenon where businesses operate understaffed, yet the Suzerish themselves remain unemployed, either because they stubbornly refuse to take up low tier jobs available to them, or they lack the qualifications for higher end positions and those businesses deny educated foreigners.”
+“Logically, having increased unemployment has put quite the strain on our welfare and decreased overall economic productivity.”
+
+Dialog Choice #2.1
+Pherip IV:
+“How was this situation even allowed to happen in the first place? The Imperial Family has only existed for 2 decades, and for half of that most of those subjects were barred from entering the Suzerish homeland without special permission.
+
+Furique Vallitu:
+“Exactly.”
+“This special permission was almost always for granting foreign workers entry to fuel the military-industrial complex, therefore freeing up more Suzerains toward conscription.”
+“Once the wars ended, these workers weren’t expelled out of concern it would disrupt the economy, as their labor was cheaper than the expectations of our veterans, and there were fewer returning from battle than had left.”
+“It was shortly after that Empress Sicill passed the Free Travel Act, allowing all members of the Imperial Family to without restrictions travel between one another’s borders and work in every state without special documentation.”
+“I remember well how the Burghers were up in arms about this. They hated the idea that foreigners would take up jobs meant for locals, and wanted to take upon themselves halting any attempts of such a thing happening.”
+“My own company feared being overflowed with new foreign workers. Upper management even demanded of me to forbid new applicants originating in non-Suzerish lands. Demands I rejected.”
+“Immigrants and workers flow between the Imperial states irrespective of your people’s thoughts on the matter. Technically speaking, only by action taken from the state can the situation change one way or another.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #2.1.1
+Pherip IV:
+“Ach! Foreigners are always trouble for us… Whether masters or subjects, they constantly try to take advantage of Suzerain and His merits.”
+
+Furique Vallitu:
+“I… I disagree.”
+“The Vallitu Plantation Casscao has seen great benefit from hiring members of our Colonies and subjects, in anything from low labor positions to upper operations.”
+“We’ve had a few bad cases, sure. Yet the same is true for Suzerish workers of ours.”
+“Something certainly accurate is that in terms of our welfare, the Suzerish are who draw from it 10 times more than any foreigner. And most of them are doing it willingly, living off unemployment benefits after refusing to do work meant for the same foreigners they accuse of stealing their jobs.”
+“My analysis is we need and can make great use of our foreign workforce, not punish them. The only issue needing intervention is ensuring our local workforce isn’t too harshly out-competed by cheaper immigrants.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #2.1.2
+Pherip IV:
+“You can vouch for their work ethic, then? Given your personal hiring experiences.”
+
+Furique Vallitu:
+“Absolutely. 8 of my plantations are stewarded by locals and our most recent treasure fleet was captained by a Kammarian. They’re some of my best employees.”
+“Keep in mind this isn’t me saying I predominantly hire foreigners, my workers are almost 2/3rds Suzerish, however as you heard some extremely high positions are filled by non-Suzerains.”
+“I only want to outline that this labor pool is extremely useful, and prove from my firsthand experience that most of the accusations against them are flat out false.”
+“Just something to keep in mind.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #2.1.3
+Pherip IV:
+“Freedom of transit within the Empire is only natural. But no restrictions on work? That might be a step too far.”
+
+Furique Vallitu:
+“An approach of compromise. I can respect it.”
+“Mind you, I was not at all suggesting to keep NO oversight on foreign labor, only that we try to rectify this resentment which has grown among the populace.”
+“Heartening as it is that you don’t wish to revoke the right to move held by your subjects, which is far more commercially integral than most Suzerains comprehend, I continue to advise in pushing for more reform in working rights.”
+“If this is the most you are intending to aim for, I at least can assure it won’t upset the Burghers and Nobles, which is a plus.”
+“The same can’t be said for foreign subjects if they can’t financially support themselves at home.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #2.1.4
+Pherip IV:
+“I applaud your company’s resolute defense of our non-Suzerish subjects. Subjecthood transcends nationality, and therefore all who fly the Suzerish banner are equal Suzerains.”
+
+Narrator:
+As if I gave him a compliment, Furique’s disposition improved drastically. He straightened his posture and smiled at me with energetic eyes.
+
+Furique Vallitu:
+“Here! Here! Enlightened thinking such as yours is what our nation desperately needs more of. Not that swill from the outdated Nobles and ladder pulling Burghers.”
+“What enemies you may make among their xenophobic ranks, I assure will be repaid a thousand fold by the rest of your subjects.”
+“This I experienced in my company. Sure, a couple of my bigoted employees resigned after I allowed one treasure fleet to be led by a Korinthian, yet it led the rest of my foreign workers to personally voice what a moral boost it was to see one of their own rise so far.”
+“I reached record profits that quarter.”
+
+Dialog Choice #2.2
+Pherip IV:
+“And why is this makeup viewed negatively in the first place?”
+
+Furique Vallitu:
+“Well, you know how it is. When a person has less than they did in past, they like to blame the easiest target for such misfortune.”
+“Not that the Suzerish are struggling by any sense of the imagination, it's just a lot of them had gotten used to the opulent lifestyle that came with being conquerors, and grew frustrated once all that opportunity and inflow of wealth slowed down after the wars.”
+“Expectedly, they turned attention to the new subjects which joined the Empire formally and thus couldn’t be as easily exploited, concocting ideas that it was they who caused the end of everyone’s easy times.”
+“These people are right about one thing, though. Times have gotten harder.”
+“Productivity has stagnated based on a plethora of causes, starting before wars’ end.”
+“Analysts can’t seem to pinpoint an exact cause for this. They’ve blamed consumer outlook, overzealous Protectionism, a natural slowdown from easing military consumption, aging production infrastructure, and plenty more.”
+“At risk of repeating myself, with less production of goods comes higher prices for them, and thus lower standards of living.”
+“A coinciding trend these ill-impacted Suzerains have latched onto, not helped from Burgher owned news outlets fueling the fire, is that our decrease in production has happened alongside increases in foreign laborers.”
+“They view such correlation as in reality being causation, that ‘lazy’, ‘inferior’, and ‘ill-educated’ non-Suzerish are to blame for dragging our productivity down.”
+“Ridiculous, I say.”
+“We haven’t currently any laws permitting press censorship, not since Empress Sicill repealed them a few months into peacetime. A double edged sword which although I’m thankful for, forbids us from stopping this blatant defamation.”
+
+Repeated:
+Dialog Choice #2.2.1
+Pherip IV:
+“Why did my Grandmother reestablish free speech? That’s a dangerous weapon to hand the Commoners, as we evidently can see.”
+
+Furique Vallitu:
+“There was pressure from the Liberals to see such reform.”
+“They saw how other civilizations were decades ahead of the Empire in certain social attributes, and also figured during wartime was a perfect opportunity to be a nuisance.”
+“During the apex of the wars, a large cohort of like-minded politicians, industrialists, generals, admirals, and Nobles signed an ultimatum for Her Majesty’s consideration, essentially promising to pull back their support in the war if their demands weren’t met.”
+“This movement wasn’t large enough to outright threaten the royal establishment, but given their combined weight in the war effort, Empress Sicill felt she couldn’t risk refusing them.”
+“She also didn’t wish to give up completely, specifically on their aims to instate a constitution limiting her royal authority, thus a meeting was held where she vowed to cooperate on only a few of their points, and at the end of the war.”
+“It took a lot of collateral to the Liberals for them to trust her, and they figured getting some of their policy changes were better than none. They agreed.”
+“Come conflict’s end, Her Majesty was in no position to incense her ‘allies’ by reneging on the agreement, thus she upheld her end of the bargain.”
+“Among them, free speech was reinstated, certain liberties were granted to the Commoners, the Burghers and their assets were enshrined in law as equally protected as Noble properties, and more.”
+“I see your point that giving the power of speech to scheming parties isn’t ideal, and especially having come from such unsavory origins, but it's still an overall good.”
+“Transfer of knowledge, a wider mutual understanding of the Empire’s situation, the freedom for new ideas, all have spurred an era of progress.”
+“To combat the regrettable side effects against our foreign subjects, might I suggest reestablishing the royal press alongside free news outlets?”
+“There were no outright demands it be shuttered, Her Majesty likely did so for other reasons, and now it could serve a purpose of getting the facts straight on matters like this.”
+
+Dialog Choice #2.2.2
+Pherip IV:
+“My people are sour the wealth Sicill so graciously gifted them is now slightly diminished? And worse, they’re at each others’ throats for it? Truly, when you give them a hand they want the whole arm.”
+
+Furique Vallitu:
+“Having to switch from a golden spoon to a silver one is hardly the worst tragedy to befall the Suzerish people, I concur.”
+“Standards of living are a fluctuating thing, we must keep in mind. What our forefathers believed to be a comfortable life changed incredibly since space ascension, and further more after the wars.”
+“The real upsetting thing is these same people are usually the ones to blame, yet they throw that guilt on your actually hard working subjects.”
+“I saw just a few days ago a patron of my bar establishment, who I know certainly hasn’t held a job in years and lives off imperial welfare, ranting about foreign immigrants destroying the economy and dragging all ‘real’ Suzerains down.”
+“While he wastes state funds on alcohol, these same foreigners are working our factories and farms.”
+“The only way to shut them up is raising standards of living, or encouraging them to make do with what opportunities exist.”
+“Which there are plenty of still, if I may clarify.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #2.2.3
+Pherip IV:
+“Well, I believe we've sufficiently exhausted that subject. There are a few other matters I'd like to discuss with you.”
+
+Furique Vallitu:
+“Certainly, Your Majesty. What would you like to know?”
+
+Dialog Choice #2.3
+Pherip IV:
+“Is serfdom on the table?”
+
+Furique Vallitu:
+“Serfdom…?”
+
+Narrator:
+Furique pretended to look through his papers, buying time to think.
+
+Furique Vallitu:
+“It… Is technically a legal option, Your Majesty.”
+“Serfdom was abolished in the Empire about 150 years ago, however there’s no restrictions on your authority to reinstate it.”
+“Emperor Juarez VIII, he who penned the emancipation act, from what I understand actually intended to leave the door open for serfdom to be brought back if deemed necessary, either by himself or his successors.”
+“He accomplished this by providing the serfs with financial restitution for what were termed their ‘services’, or rather reparations in all but name.”
+“Part of obtaining restitution came with the understanding that the former serfs' release from their obligations constituted a settlement of their outstanding services, rather than an irrevocable relinquishment of the Crown's right to impose them anew.”
+“Not that it would be easy to do so, the people have grown quite used to their freedoms there since, but with a comfortable level of popularity or force, I suppose they can be made to comply.”
+“As for its impacts, more research would need to be done on my part to give a full picture. I admittedly never even considered serfdom as a viable option.”
+“Just from my informal theorizing here, I suppose the right of movement for Commoners would be revoked almost en masse, apart from those who remain free. Likely rich Burghers.”
+
+Dialog Choice #2.3.1
+Pherip IV:
+“Better that way. Allows me to efficiently dictate how my subjects are used and where.”
+
+Furique Vallitu:
+“Planned economies rely on this kind of control, so we could genuinely consider restructuring Suzerain's entire economic composition to take advantage of such a change.”
+“Yet it comes with its own drawbacks.”
+“Any of the beneficial commercial exchange from free traveling peoples would become voided, not to mention the immense decline of industrial businesses from fewer workers.”
+“By that same token, labor shortages across the Empire would most likely be resolved over time, assuming the Nobility and Crown properly manage where serfs are sent to work efficiently.”
+“This would be the primary boon, control over the population that would allow greater state intervention and control in labor and economic matters.”
+“What do you have in mind for this theoretical legislature…?”
+
+Dialog Choice #2.3.1.1
+Pherip IV:
+“I’m not speaking with any current objectives in mind, only exploring whatever options are available to me for fixing our labor challenges. If that means recalling the serfs, then so be it.”
+
+Furique Vallitu:
+“Then I would advise against rushing into any particular arrangement, Your Majesty.”
+“Serfdom is a rather blunt instrument for addressing what are, in reality, several distinct labor problems.”
+“A shortage of agricultural workers is not necessarily the same as a shortage of industrial labor, nor can either be resolved simply by compelling people to work where we please.”
+“Before considering something so radical, I would much prefer we continue to gauge the situation and start with comparatively softer approaches.”
+“Admittedly though, I am glad to see you are so open minded, even with ideas I am against like is the case now. I concur nothing should be ruled out simply because of current societal biases or the vague fear of radicalism.”
+“Outcomes are what matter, not the conventions of our time.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.1.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.1.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.1.2
+Pherip IV:
+“I envision an Empire where, by right of victors, we transform non-Suzerish subjects into serfs as a condition of them living in the motherland. Suzerish residents and those living in the Dominions won’t be subject to this change, their rights would remain protected to keep progress moving forward. Yet those that wish to live in the most prosperous of all the Empire’s territories will be expected to pay their dues.”
+
+Furique Vallitu:
+“Certainly a new brand to take serfdom in.”
+“I can to an extent see the practicality behind this. It does give plenty of choice to your subjects, you’re not suggesting all foreign peoples be enserfed, only those that willingly choose to leave their home Dominions.” 
+“Whilst the core Suzerish are given privileges that will certainly smooth over the recent issues against immigrant workers, on surface level pleasing everyone.”
+“Except those foreign subjects who genuinely want to live in the core lands, either because of personal interest, financial incentives, or those who have assimilated to Suzerish customs and wish to live amongst their ‘peers’.”
+“That’s a good question to bring up, actually. Where do the assimilated foreigners fit into your tiers?”
+“Thinking further about it, I say you should speak to Lady Panzarre about this, she’s better suited than me.”
+“As for what I can speak on, I will warn that those who won’t accept such terms are bound to remain in their local homes, and therefore increase the workforce power of our subject-states over the mainland. These to-be-enserfed individuals may even decide to take their talents and capital elsewhere, and I doubt the treasury would appreciate the resulting loss of commercial activity.”
+“Not to mention potential diplomatic implications. Our Dominions may be less than enthusiastic about seeing their nationals subjected to obligations from which Suzerish citizens are expressly exempt.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.2.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.2.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.1.3
+Pherip IV:
+“Perhaps the old system need not be restored in its entirety, but I am fond of introducing some level of universal employment based on government oversight to avoid welfare leeches and unproductive workforce trends. This would apply only to those without meaningful occupation.”
+
+Furique Vallitu:
+“Now that is a considerably different proposition, Your Majesty.”
+“An employment programme administered by the state need not necessarily entail the restoration of serfdom. Provided this is implemented sensibly, we could direct unemployed yet stubborn workers toward industries and regions experiencing labor shortages. They receive reliable employment and our nation never sees imbalance.”
+“However, I would caution against treating every unemployed individual as an unwilling contributor. Sometimes the work simply isn't there, or the qualifications required are beyond what a person possesses.”
+“Enacted poorly, we risk creating an enormous administrative burden while forcing people into occupations for which they are neither suited nor needed. Increased state costs and no benefits to speak of.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.3.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.3.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.1.4
+Pherip IV:
+“A return to the past in its complete form. No longer would the Commoners roam free and do as they please, mishandling our great nation under their uneducated and unrefined control. They’d be put back to work as God intended, toiling with humility for their Lords.”
+
+Furique Vallitu:
+“Your Majesty, I must admit, that is a rather more eccentric undertaking than anything I had anticipated.”
+“Restoring the old feudal bonds in their entirety would fundamentally alter the relationship between the Crown, the Nobility, and the Commoners. It wouldn’t simply be a labor reform, but a reconstruction of the very foundations upon which our society operates.”
+“Of course, the Nobility would largely welcome this prospect of recovering authority and relevance.”
+“Commoners, like I identify as, would be completely heartbroken. The Empire was moving steadily toward a modernized and enlightened Monarchy, not one which clung to past institutions reliant on oppression.”
+“No threat intended at all from myself, but if I were still merely a Burgher who’d worked his whole life to claw what little amount of social influence I could manage, and the Emperor was to erase all of it and send me back into pseudo slavery?”
+“I’d either run like hell far, far away from Suzerain with all the capital I could carry, or spend everything I own to fund a revolt.”
+“Something to keep in mind, is all.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.4.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.1.4.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.2
+Pherip IV:
+“Thinking about it under an international lease, this would make the Eternal Star more predisposed to us.”
+
+Furique Vallitu:
+“And the Commonwealth would detest us.”
+“If you know already you’d like to sever ties with one and lean on the other, then that is a smart aspect to consider.”
+“Do not allow foreign perceptions to dominate your policy, I advise. Our nation is the one which bears the impacts of such legislature, not them.”
+“For instance, how any of the beneficial commercial exchange from free traveling peoples would become voided, not to mention the immense decline of industrial businesses from fewer workers.”
+“By that same token, labor shortages across the Empire would most likely be resolved over time, assuming the Nobility and Crown properly manage where serfs are sent to work efficiently.”
+“This would be the primary boon, control over the population that would allow greater state intervention and control in labor and economic matters.”
+“What do you have in mind for this theoretical legislature…?”
+
+Dialog Choice #2.3.2.1
+Pherip IV:
+“I’m not speaking with any current objectives in mind, only exploring whatever options are available to me for fixing our labor challenges. If that means recalling the serfs, then so be it.”
+
+Furique Vallitu:
+“Then I would advise against rushing into any particular arrangement, Your Majesty.”
+“Serfdom is a rather blunt instrument for addressing what are, in reality, several distinct labor problems.”
+“A shortage of agricultural workers is not necessarily the same as a shortage of industrial labor, nor can either be resolved simply by compelling people to work where we please.”
+“Before considering something so radical, I would much prefer we continue to gauge the situation and start with comparatively softer approaches.”
+“Admittedly though, I am glad to see you are so open minded, even with ideas I am against like is the case now. I concur nothing should be ruled out simply because of current societal biases or the vague fear of radicalism.”
+“Outcomes are what matter, not the conventions of our time.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.1.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.1.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.2.2
+Pherip IV:
+“I envision an Empire where, by right of victors, we transform non-Suzerish subjects into serfs as a condition of them living in the motherland. Suzerish residents and those living in the Dominions won’t be subject to this change, their rights would remain protected to keep progress moving forward. Yet those that wish to live in the most prosperous of all the Empire’s territories will be expected to pay their dues.”
+
+Furique Vallitu:
+“Certainly a new brand to take serfdom in.”
+“I can to an extent see the practicality behind this. It does give plenty of choice to your subjects, you’re not suggesting all foreign peoples be enserfed, only those that willingly choose to leave their home Dominions.” 
+“Whilst the core Suzerish are given privileges that will certainly smooth over the recent issues against immigrant workers, on surface level pleasing everyone.”
+“Except those foreign subjects who genuinely want to live in the core lands, either because of personal interest, financial incentives, or those who have assimilated to Suzerish customs and wish to live amongst their ‘peers’.”
+“That’s a good question to bring up, actually. Where do the assimilated foreigners fit into your tiers?”
+“Thinking further about it, I say you should speak to Lady Panzarre about this, she’s better suited than me.”
+“As for what I can speak on, I will warn that those who won’t accept such terms are bound to remain in their local homes, and therefore increase the workforce power of our subject-states over the mainland. These to-be-enserfed individuals may even decide to take their talents and capital elsewhere, and I doubt the treasury would appreciate the resulting loss of commercial activity.”
+“Not to mention potential diplomatic implications. Our Dominions may be less than enthusiastic about seeing their nationals subjected to obligations from which Suzerish citizens are expressly exempt.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.2.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.2.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.2.3
+Pherip IV:
+“Perhaps the old system need not be restored in its entirety, but I am fond of introducing some level of universal employment based on government oversight to avoid welfare leeches and unproductive workforce trends. This would apply only to those without meaningful occupation.”
+
+Furique Vallitu:
+“Now that is a considerably different proposition, Your Majesty.”
+“An employment programme administered by the state need not necessarily entail the restoration of serfdom. Provided this is implemented sensibly, we could direct unemployed yet stubborn workers toward industries and regions experiencing labor shortages. They receive reliable employment and our nation never sees imbalance.”
+“However, I would caution against treating every unemployed individual as an unwilling contributor. Sometimes the work simply isn't there, or the qualifications required are beyond what a person possesses.”
+“Enacted poorly, we risk creating an enormous administrative burden while forcing people into occupations for which they are neither suited nor needed. Increased state costs and no benefits to speak of.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.3.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.3.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.2.4
+Pherip IV:
+“A return to the past in its complete form. No longer would the Commoners roam free and do as they please, mishandling our great nation under their uneducated and unrefined control. They’d be put back to work as God intended, toiling with humility for their Lords.”
+
+Furique Vallitu:
+“Your Majesty, I must admit, that is a rather more eccentric undertaking than anything I had anticipated.”
+“Restoring the old feudal bonds in their entirety would fundamentally alter the relationship between the Crown, the Nobility, and the Commoners. It wouldn’t simply be a labor reform, but a reconstruction of the very foundations upon which our society operates.”
+“Of course, the Nobility would largely welcome this prospect of recovering authority and relevance.”
+“Commoners, like I identify as, would be completely heartbroken. The Empire was moving steadily toward a modernized and enlightened Monarchy, not one which clung to past institutions reliant on oppression.”
+“No threat intended at all from myself, but if I were still merely a Burgher who’d worked his whole life to claw what little amount of social influence I could manage, and the Emperor was to erase all of it and send me back into pseudo slavery?”
+“I’d either run like hell far, far away from Suzerain with all the capital I could carry, or spend everything I own to fund a revolt.”
+“Something to keep in mind, is all.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.4.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.2.4.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.3
+Pherip IV:
+“Is there no way to still allow serfs freedom to move whilst keeping their other obligations?”
+
+Furique Vallitu:
+“Not without some serious risk. Permitting Nobles to forcibly keep their laborers tied to the land is the backbone of serfdom, after all.”
+“Without it you bet on your people voluntarily giving up their freedoms and passing up opportunities to improve their financial standing.”
+“Very much against sentient nature, I’m sure you’ll agree.”
+“But even with submission to your decree, there would be impacts felt across the wider economy.”
+“For instance, any of the beneficial commercial exchange from free traveling peoples would become voided, not to mention the immense decline of industrial businesses from fewer workers.”
+“By that same token, labor shortages across the Empire would most likely be resolved over time, assuming the Nobility and Crown properly manage where serfs are sent to work efficiently.”
+“This would be the primary boon, control over the population that would allow greater state intervention and control in labor and economic matters.”
+“What do you have in mind for this theoretical legislature…?”
+
+Dialog Choice #2.3.3.1
+Pherip IV:
+“I’m not speaking with any current objectives in mind, only exploring whatever options are available to me for fixing our labor challenges. If that means recalling the serfs, then so be it.”
+
+Furique Vallitu:
+“Then I would advise against rushing into any particular arrangement, Your Majesty.”
+“Serfdom is a rather blunt instrument for addressing what are, in reality, several distinct labor problems.”
+“A shortage of agricultural workers is not necessarily the same as a shortage of industrial labor, nor can either be resolved simply by compelling people to work where we please.”
+“Before considering something so radical, I would much prefer we continue to gauge the situation and start with comparatively softer approaches.”
+“Admittedly though, I am glad to see you are so open minded, even with ideas I am against like is the case now. I concur nothing should be ruled out simply because of current societal biases or the vague fear of radicalism.”
+“Outcomes are what matter, not the conventions of our time.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.1.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.1.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.3.2
+Pherip IV:
+“I envision an Empire where, by right of victors, we transform non-Suzerish subjects into serfs as a condition of them living in the motherland. Suzerish residents and those living in the Dominions won’t be subject to this change, their rights would remain protected to keep progress moving forward. Yet those that wish to live in the most prosperous of all the Empire’s territories will be expected to pay their dues.”
+
+Furique Vallitu:
+“Certainly a new brand to take serfdom in.”
+“I can to an extent see the practicality behind this. It does give plenty of choice to your subjects, you’re not suggesting all foreign peoples be enserfed, only those that willingly choose to leave their home Dominions.” 
+“Whilst the core Suzerish are given privileges that will certainly smooth over the recent issues against immigrant workers, on surface level pleasing everyone.”
+“Except those foreign subjects who genuinely want to live in the core lands, either because of personal interest, financial incentives, or those who have assimilated to Suzerish customs and wish to live amongst their ‘peers’.”
+“That’s a good question to bring up, actually. Where do the assimilated foreigners fit into your tiers?”
+“Thinking further about it, I say you should speak to Lady Panzarre about this, she’s better suited than me.”
+“As for what I can speak on, I will warn that those who won’t accept such terms are bound to remain in their local homes, and therefore increase the workforce power of our subject-states over the mainland. These to-be-enserfed individuals may even decide to take their talents and capital elsewhere, and I doubt the treasury would appreciate the resulting loss of commercial activity.”
+“Not to mention potential diplomatic implications. Our Dominions may be less than enthusiastic about seeing their nationals subjected to obligations from which Suzerish citizens are expressly exempt.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.2.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.2.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.3.3
+Pherip IV:
+“Perhaps the old system need not be restored in its entirety, but I am fond of introducing some level of universal employment based on government oversight to avoid welfare leeches and unproductive workforce trends. This would apply only to those without meaningful occupation.”
+
+Furique Vallitu:
+“Now that is a considerably different proposition, Your Majesty.”
+“An employment programme administered by the state need not necessarily entail the restoration of serfdom. Provided this is implemented sensibly, we could direct unemployed yet stubborn workers toward industries and regions experiencing labor shortages. They receive reliable employment and our nation never sees imbalance.”
+“However, I would caution against treating every unemployed individual as an unwilling contributor. Sometimes the work simply isn't there, or the qualifications required are beyond what a person possesses.”
+“Enacted poorly, we risk creating an enormous administrative burden while forcing people into occupations for which they are neither suited nor needed. Increased state costs and no benefits to speak of.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.3.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.3.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #2.3.3.4
+Pherip IV:
+“A return to the past in its complete form. No longer would the Commoners roam free and do as they please, mishandling our great nation under their uneducated and unrefined control. They’d be put back to work as God intended, toiling with humility for their Lords.”
+
+Furique Vallitu:
+“Your Majesty, I must admit, that is a rather more eccentric undertaking than anything I had anticipated.”
+“Restoring the old feudal bonds in their entirety would fundamentally alter the relationship between the Crown, the Nobility, and the Commoners. It wouldn’t simply be a labor reform, but a reconstruction of the very foundations upon which our society operates.”
+“Of course, the Nobility would largely welcome this prospect of recovering authority and relevance.”
+“Commoners, like I identify as, would be completely heartbroken. The Empire was moving steadily toward a modernized and enlightened Monarchy, not one which clung to past institutions reliant on oppression.”
+“No threat intended at all from myself, but if I were still merely a Burgher who’d worked his whole life to claw what little amount of social influence I could manage, and the Emperor was to erase all of it and send me back into pseudo slavery?”
+“I’d either run like hell far, far away from Suzerain with all the capital I could carry, or spend everything I own to fund a revolt.”
+“Something to keep in mind, is all.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.4.1
+Pherip IV:
+“I’ll take your opinions in mind, but would like to already begin getting the ball rolling on this.”
+
+Furique Vallitu:
+“By your orders, Majesty.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #2.3.3.4.2
+Pherip IV:
+“Much to think on. This would hold untold ramifications for the Empire.”
+
+Furique Vallitu:
+“Untold indeed, and impacting all facets of the nation.”
+“I’ll see what practical reports I can craft for your consideration.”
+
+Dialog Choice #3
+Pherip IV:
+“You mentioned earlier a substantial outstanding loan which exists with Fespia. Tell me more of this.”
+
+Furique Vallitu:
+“Right away.”
+
+Narrator:
+He began reading through various financial records. I realized my Haciende wasn’t as caught up with the details of this matter like he was the others we yet spoke of.
+
+Furique Vallitu:
+“This all was before my time, you see. Empress Sicill and my predecessor were the ones who negotiated it.”
+“As a brief summary, this loan, taken in 1578 from the Fespian Commonwealth, amounted to an extremely significant quantity of combined credit, roughly 2/3rds monetary and 1/3rds material.”
+“It was negotiated under the premise of jumpstarting the Suzerish economy during a time when it had been struggling due to wartime strain. This was the middle of the 30 Years War, of course.”
+“Officially the loan’s contents were exclusively for civilian investment, though admittedly Empress Sicill circumvented this clause to support the war effort by developing infrastructure which aided military activities, founded industries which were technically civilian in nature but also depended on by the war economy, like steel or ship building, and more.”
+“Fespia can’t outright denounce this, thankfully, given everything was done by the book and no slip ups were made which I’m aware of.”
+“Maturity of the loan is soon approaching, it was set on a 30 year repayment period, therefore 1608, 7 more years to go.”
+“We’ve thus far only paid interest on the loan per year, the original sum is to be repaid in full at the maturity date.”
+“No talks have yet surfaced on either rolling over or closing the loan, nor even the regrettable possibility of extending it.”
+“And in case you’re wondering, we scarcely have any of the loan’s original credit left after the war, so we can’t expect to use it from here on out.”
+
+Repeated:
+Dialog Choice #3.1
+Pherip IV:
+“7 years, ey? Seems it’ll be my responsibility to take on my own predecessor’s unfinished business.”
+
+Furique Vallitu:
+“As is the responsibility of all Monarchs, for better or worse.”
+“You inherited an Empire of unimaginably greater power than Her Majesty did, and with that all the new problems which plague it.”
+“God willing, your successor shall likewise inherit a grander Suzerain than it stands now.”
+“In terms of the 7 years ahead, our main objective should be to put aside this demanded repayment by whatever means possible. Either through frugal spending or significantly increasing state revenues.”
+“It would be oh so awkward arriving empty handed to the Pushcans, for how rich we constantly brag about being.”
+
+Dialog Choice #3.2
+Pherip IV:
+“I’m rather confused why Fespia of all places would’ve agreed to aiding us. I understand they’re prone to forgoing personal morals for a quick profit, but surely our relations with them at the time were no better than now.”
+
+Furique Vallitu:
+“Evidently their national reputation even reaches the minds of Emperors. Indeed, the Commonwealth has been known to at times take certain actions which may look contrary to their state policies and beliefs, so long that enough gain is had, though this wasn’t the case here.”
+“Pragmatically, Fespia had reason to aid Suzerain and make a profit off doing so. We had just beaten the Zerecks resoundingly, forming much of the current Empire’s borders, and before that crushed Caetzar alongside the Ajour Assembly, which is to say nothing of our fresh alliance at the time with Kammaria. It was quite clear to anyone where the wind was blowing.”
+“They were the last of the Grand 5 Suzerain hadn’t either defeated or allied, and as historians recall, Fespia knew of their precarious situation.”
+“Thus, they had two choices: fight this current and likely be crushed for doing so, or pick the winning side. Clearly they went with the latter.”
+“Doing so opened the door for negotiation between our nations. The following year, a non-aggression pact was signed paired with trade agreements, all of this together gave Her Majesty confidence enough to invade Kammaria.”
+“From a certain point of view, this loan was ultimately what enabled the Empire to finish the 30 Years War as its complete victor.”
+“Fespia likewise got what it hoped for: Suzerain as a partner rather than an enemy. And indebted to them, no less.”
+
+Dialog Choice #3.3
+Pherip IV:
+“Are we currently on track to mustering the demanded funds before 1608?”
+
+Narrator:
+He consulted various records before answering.
+
+Furique Vallitu:
+“Hmmm…”
+“Presuming we don’t spend a single Marcúdo for the next 7 years, then we are exactly set.”
+
+Narrator:
+Furique laughed at his joke.
+
+Furique Vallitu:
+“No, but seriously, it's critical action be taken to raise state income or acquire the funds by some other means, because it's a tight timeline, to say the least.”
+
+(Repeated)
+Dialog Choice #3.3.1
+Pherip IV:
+“What’s stopping us from just, not paying back the loan…?”
+
+Narrator:
+A silence hung after I asked my question, only the chirping of birds and splash of water occupied that pause while we stared at one another.
+
+Furique Vallitu:
+“War, I imagine.”
+“Its definitely not my department to speak on matters of military or international diplomacy, but it's obvious to even me that refusing our obligation would erode all sense of trust we hold as a state, and likely lead to some conflict form of with the Commonwealth.”
+“If those consequences are deemed worth the saved costs in your eyes, then I suppose it's an option, but I highly discourage even entertaining this course of action.”
+“Suzerain would be viewed as a pariah for likely the entire rest of your reign. All the work your First Envoy’s done to repair the warmongering reputation we’ve previously held would have been for nothing, essentially.”
+“Though to act as Devil’s advocate for a moment, I guess having the galaxy’s largest Armada enables unthinkable options like this to be taken.”
+“Again, however, not at all something I advise doing.”
+
+Dialog Choice #3.3.2
+Pherip IV:
+“Is an extension for the payback period on the table?”
+
+Furique Vallitu:
+“It's possible, depending on how our relations with Fespia pan out over the next years.”
+“Right now, His Grace Torrez reported relations remain lukewarm at best. Neither the Empire nor Commonwealth have high opinions of the other, but they do acknowledge the benefit of working together” 
+“For now, at any rate.”
+“I can easily see us receiving additional time if we worked more closely with the Pushcans, yet I cannot say definitively what they will ask of us and if it aligns with your foreign policy plans.”
+“See where we stand in a few years, but probably don’t count on being given any leeway, just to be safe.”
+
+(Continues Dialog)
+(Reconvenes at previous Repeated)
+Dialog Choice #3.3.3
+Pherip IV:
+“Come payday, we’d better have a plan in place.”
+
+Furique Vallitu:
+“There’s still plenty of time to formulate such a plan, but quite true, it's best we settle on one after our economic situation develops further.”
+
+Dialog Choice #3.4
+Pherip IV:
+“Describe to me how impactful this interest per year remains in our expenditures.”
+
+Narrator:
+He grabbed and scanned a report pad, one with a fiscal statement format to it, chocked full of numbers.
+
+Furique Vallitu:
+“Its definitely a noticeable dent, much like the one on my trade vessel’s bow after I fancied myself a helmsman.”
+“Getting rid of these payments would singlehandedly put the state in a safer place finance-wise. Plus with the extra security we could more comfortably invest revenues into new industries, all without needing to cut welfare, military, and other spending.”
+“Assuming they remain at current metrics, of course.”
+“By no means does this imply we can’t continue to hold the interest expense, even long term.”
+“Nor that there isn’t the option of accelerating repayment to relieve us from then on, though that would require some negotiating with Fespia.”
+“This MAY require the treasury to go into temporary debt, but as long as the inflow is sufficient to get us out of the red, then it is acceptable.”
+“On that subject, I want to clear up that there is no harm in going into debt with some of your upcoming spending.”
+“Reasonably into debt, I should specify.”
+“I can find lenders for the state and at reasonable interest rates, higher than in the private investment market, but still decent.”
+“Caution is the key here. Going too far with debt spending could have disastrous and possibly even irreversible effects, and the snowball of ever increasing interest may be unstoppable should debt outpace income.”
+“At the same time, if you think that spending this money will give the state some form of return on investment, then it's worth the effort. Resources we sit on does no one any good, thus being misers won’t fix anything. Inaction may even be the worst approach of all.”
+
+Dialog Choice #3.5
+Pherip IV:
+“I know this would only be kicking this can down the road, yet are there any other nations willing to lend us money to use as repayment? It would give greater breathing room in terms of time, at least.”
+
+Furique Vallitu:
+“That’s actually not a bad idea. Yes, we’d still have a loan to repay, but theoretically you could negotiate better interest rates than those currently and, as you said, our time for true repayment would be delayed.”
+“The only question is who would this nation is and could better loan characteristics be ironed out?”
+“Ideologically we’re most aligned with the Eternal Star, yet I hear their own economy is being diverted toward mobilization, thus this isn’t the best time to ask.”
+“There’s always the Wealth Confederation, unpleasant as it is to do business with them. Their moral standards are, unlike Fespia, truly nonexistent when there is profit to be made, but that equally makes me suspicious we could craft an agreeable arrangement.”
+“Beyond them, no other galactic economy is likely large enough to shoulder a singular loan of that size on their own, we’d need to gather several regional powers to each partially take on our debts, which would grow messy.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #3.5.1
+Pherip IV:
+“On the matter of ideology, I don’t have a problem collaborating with those we’ve little in common with. I’d even consider speaking to the S.R.T.A. or Pure Order if it meant getting favorable rates.”
+
+Furique Vallitu:
+“A pragmatic stance to take. And in alignment with my own views, as it happens.”
+“Political disagreements, if coming in the way of mutual benefit, should take a backseat under all but the most extreme of cases.”
+“Gathering several smaller loans, if done right, would in fact be of preferable arrangement for us, since then no singular state would again hold such grand sway over the Empire, and we may tackle each individually should the future come to it.”
+“I’ll talk to His Grace Torrez on the matter, see what he thinks.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #3.5.2
+Pherip IV:
+“On second thought, perhaps we're better off settling our existing debts rather than burdening future generations with new ones.”
+
+Furique Vallitu:
+“I can’t make any promises this will be plausible, but shall work tirelessly toward it. The easy thing about this vow is it overlaps with my already existing goals to see an economic miracle, thus it's a two for one.”
+“Remember though that we need not strap ourselves to a single approach, if the situation changes in future, the plan can likewise change.”
+“We must ask ourselves at that point which is preferable? To exhaust ourselves settling every obligation, leaving our children nothing to inherit, or to pass on both our fortunes and our burdens, trusting them to make best use of both?”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #3.5.3
+Pherip IV:
+“Then let us investigate the possibility. Better to owe another nation for thirty years than bankrupt ourselves in seven.”
+
+Furique Vallitu:
+“I’ll talk to His Grace Torrez on the matter, see what he thinks.”
+“Taking this route could create the same vexing inheritance of debt for our successors as we now face. Unless we can get our finances in order by then, that is.”
+“Or in the worst case, an unyielding cycle of debt being repaid with debt.”
+
+Dialog Choice #3.6
+Pherip IV:
+“What are the chances of negotiating a partial repayment instead? Surely the Commonwealth would be willing to accept something rather than nothing.”
+
+Narrator:
+Furique threw his arms in a shrug and made a face to say “Who knows?”.
+
+Furique Vallitu:
+“Call it conspiratorial, but I fear the Commonwealth is actually hoping we don’t repay the loan at all, and therefore wouldn’t want to toss around ideas of ‘partial repayment’.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #3.6.1
+Pherip IV:
+“Why would you think that?”
+
+Furique Vallitu:
+“What better a casus belli to rally the galaxy behind than a warmongering nation who, worse of all, doesn't pay your money back?”
+“Countries as far south as the 3 Kingdoms, Doonisia, True Covenant, ones who now view us with apathy, could be rallied against Suzerain once they realize it's not territorially why they should fear us, but economically.”
+“Trade routes to these such nations would likely cease, any outstanding deals cut, maybe even embargoes put in place. Not to mention kissing goodbye to all chances of spreading our currency there.”
+“This is only if you believe my suspicions of the Commonwealth’s true intentions. Elsewise it is likely a deal could be struck under the right conditions.”
+“Having high relations with Fespia or trading favors for favors may allow us to lower the total repayment amount. Knowing them though it will be a rather great cost to convincingly display the Empire’s good intentions toward them.”
+
+(Reconvenes at previous Repeated)
+Pherip IV:
+Dialog Choice #3.6.2
+I simply nodded along, unamused by Furique’s theory crafting.
+
+(Continues Dialog)
+(Reconvenes at previous Repeated)
+Dialog Choice #3.7
+Pherip IV:
+“Loans… How we love to take them, but loathe to pay them back. I shall keep this looming threat in mind.”
+
+Furique Vallitu:
+“To help, you’ll be provided constant reports from myself on any developments.”
+“I won’t let you forget about our obligation, whether you want to or not.”
+
+Narrator:
+He chuckled to confirm it was a joke.
+Poor guy, I thought, always having to walk on eggshells with me when just trying to keep spirits high.
+
+Dialog Choice #4
+Pherip IV:
+“Seeing as you brought it up, I wish to ask why Autarky isn’t a path worth pursuing in your mind?”
+
+Furique Vallitu:
+“Alright, amendment, I don’t want to imply Autarky is either impossible or completely pointless. Only that it is not worth the effort compared to simply better balancing our local production to foreign imports.”
+“Some disagree with me on this, claiming total self sufficiency a noble goal. Which perhaps it is, I get the appeal.”
+“Coincidentally, the Nobles are who think it a noble goal, as they long for the time when their territories were the near sole source of production in Suzerain.”
+“Now they contend with cheap foreign imports, goods they can’t locally manufacture, and demand that outpaces their capacity.”
+“I do fully back an undertaking to diminish the Empire’s reliance on foreign imports. Treasury-wise it's quite the expenditure each year, and I don’t tolerate such a notable portion of our economy being dependent on neighboring powers.”
+“Some exception is permitted for our client-states. We are part of the same Empire in a pan-nationalist sense, so they can be viewed as member regions of our singular nation which we may remain somewhat reliant on.”
+“Albeit not to the extent it is now.”
+“That is to say, lesser, but not completely removed.”
+“Actually it's probably impossible to achieve Autarky in the first place without the client-states, so cutting off imports from them would be a moot point.”
+
+(Repeated)
+Dialog Choice #4.1
+Pherip IV:
+“Which goods are as of now irreplaceable in the Suzerish domestic market?”
+
+Furique Vallitu:
+“The truly irreplaceable ones aren’t too plentiful, fortunately.”
+“These include unique colonial raw resources like tobacco, sugar, cocoa, cotton, a few energy sources such as oil and coal.”
+“Saltpeter. That one’s vital.”
+“Tungsten likewise. Those two are irreplaceable in our modern arms industries for muskets and artillery respectively, yet amongst our many planets we barely hold any relevant deposits.”
+“There’s a few more, but definitely these are the most notable. Our populace enjoys the manufactured items which come from cash crops, and our military wouldn’t reign supreme today without continued access to advanced materials and technology.”
+“However, given we don’t have them locally in any meaningful amount and there are no known means to produce them synthetically, there’s nothing to do but import.”
+“For your theory of Autarky to be possible, the Empire would either need to discover such a means of production, conquer territories abundant in these resources, or simply give up any reliant industries.”
+“Try as the Clergy might, God has yet to make gold appear under the grounds of holy sites, and I doubt He’ll change His tune about any of our other necessities.”
+
+(Repeated)
+Dialog Choice #4.1.1
+Pherip IV:
+“A bitter truth… Where are we importing these resources from, anyway?”
+
+Furique Vallitu:
+“Tungsten we get from the Rosentine Junta, as they have deposits deep enough to shoot ceaselessly at their enemies for millennia, should they wish.”
+“Experts in artillery they are, it only makes sense they have the cheapest and largest sources.”
+“We pay a fair price, but that may change at the drop of a hat.”
+“Saltpeter is sourced from several nations, including the Great Quinn, Sirby, and Kammarian Occupation Zone, not each for the same reason.”
+“The Occupation Zone doesn’t have many large deposits, but it costs us practically nothing to use them given our present resource rights, thus we try to fill as much demand firstly from here.”
+“Anything withstanding is imported from the Great Quinn and Sirby, both of whom have impartial opinions toward our military might, and therefore are willing to share what extra stockpiles they possess with us.”
+“Oil isn’t a requirement for our industrial inputs, simply nice to have for the sake of energy diversity. It’s brought from the First Lunar Confederacy. Good thing they don’t bother with keeping natural reserves like the Eternal Star do.”
+“Coal, as you might have guessed, we get from the Soot Dominion, Kórinth.”
+“I had a talk just a month before your coronation with the Viceroy on this matter, in which he assured me the minor unrest in his provinces wouldn’t dampen his coal quotas.”
+“Let’s pray he delivers on that.”
+“Now in terms of our colonial resources, I’ll save it mostly for the Indes to fill you in on, but do note besides a select few regions to our north, there is practically nothing which we grow domestically.”
+
+Dialog Choice #4.1.2
+Pherip IV:
+“And what resources are within reach of self sufficiency?”
+
+Furique Vallitu:
+“Good question.”
+“Despite possessing considerable deposits of iron, jewels, precious metals, and other essential minerals, our domestic capacity remains insufficient to meet industrial demands.” 
+“From territories we annexed off Caetzar to our present southern border, we’ve tapped into the colossal mineral riches of the core planets.”
+“Silver is practically flowing like the Axelli River, Your Majesty. As are emeralds, diamonds, gold, and marble.”
+“We keep asking, and their old planets keep on giving. It's estimated over 300 years worth of materials are still under those crusts.”
+“The issue is Suzerish greed outpaces our extraction. Nobles have always wanted extravagant crafts and building materials, but now plenty of Commoners have risen to afford these luxuries too. Demand stems primarily from such an exponentially increasing consumer group.”
+“Our established iron mines have domestically begun to run dry, after having their contents endlessly poured into the war machine over past decades.”
+“There may still be additional sources on our outlying planets, but we’ve yet to conduct any surveys to know for sure.”
+“There are many other similarly placed items like timber, furs, alcohol, ceramics, and home goods which we do produce within the Empire itself, but just not yet to the scale that can meet our needs.”
+“Between those resources and products which we cannot at all create in house, and those which are within our capabilities, I’d recommend focusing on the latter. Better to aim for a waterfall than a rainbow, savy?”
+
+Dialog Choice #4.1.3
+Pherip IV:
+“Where does that leave the treasury’s spending on trade, then?”
+
+Narrator:
+After looking at the finance sheets again, Furique whistled.
+
+Furique Vallitu:
+“Rather allotted, if I do say.”
+“Compared to our other expenses, it is slightly larger than those for interest payments and lags considerably behind our welfare and military spending.”
+“Unlike those costs, our trade arrangements also produce profits, both from the goods these imports produce but also from certain gains made with tariffs."
+“As recently as last month, we were receiving noticeable revenues from them, import and export alike.”
+“But I wouldn’t bet on this always being the case. Changes in our policies, the Empire’s reputation abroad, general economic forecasts, all will play a role in what quantity of trade we possess, and in what matrix.”
+“Should domestic brewing of liquor and beer take off, elsewise they fall out of fashion amongst the people, then expect import tariff revenues from that good to decrease resultingly. Same goes if galactic demand for merchant vessels drops off.”
+“Trying to manually keep a balance between the nation’s needs and the profits made from tariffs borders on impossible. We can only hope that either one or the other is being fulfilled, but to chase a perfect arrangement compares to gambling.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.1.4
+Pherip IV:
+“Fascinating. I’d like to circle back, though, given there remain a few more questions concerning Autarky.”
+
+Furique Vallitu:
+“Ask away.”
+
+Dialog Choice #4.2
+Pherip IV:
+“So inversely, the Nobles would be rather miffed should I lean further on foreign trade?”
+
+Furique Vallitu:
+“As a general rule of thumb? Yes.”
+“But there are certain conditions where they may either tolerate or support it, usually in cases where they stand to benefit or the choice is simply that obvious.”
+“Take on more agricultural imports from Aeteran and the Eternal Star? They’ll lose on their farming profits. Expect a strongly worded petition thereafter.”
+“Import mechanized tools which resoundly increase the productivity of those same farms? They’ll praise you for increasing their territorial outputs.”
+“The problem is that it's not always so obvious, you may need to in the midst of making nation-steering economic decisions predict as best as possible what the Nobles’ reactions will be, however unsubstantiated.”
+“Jumping on glass panels, one could call it. You don’t know for sure whether it may shatter or hold your weight.”
+“Sadly, ignoring them would come with some very disastrous retaliation, the kind which could make a dent in our figures.”
+
+Dialog Choice #4.2.1
+Pherip IV:
+“Why am I not surprised…? There has to be a way to put the aristocracy in its place. I refuse to have my every diplomatic undertaking scrutinized by some Count or another who seems to think my decrees are their concern.”
+
+Furique Vallitu:
+“Right?!? Why must they so independently feel the need to weigh in on everything that goes on?”
+“Yet as painful it is to admit, their wealth and power are too significant to be made silent, at least now.”
+“Even so, I wouldn’t suggest paying much mind to the Nobles apart from what is absolutely minimum.”
+“Their concerns are more placed in local terms than the grand scale of the entire Empire.”
+“For every prodigy Duke or Baron, there are a thousand spoiled dilettantes who would unravel our hard fought for prosperity.”
+“Early in my career as a council minister I was placed under one such person: Young Marquis fue Ronel, the Municipal Treasurer of Presidio.”
+“What a nightmare he was…”
+“I worked diligently to make up for all his failings and absent calls to work, even when he was present, I’d catch him asleep at his desk, pretending to understand reports far past his intellectual capabilities, the man’s poor bookkeeping meant invoices were constantly being paid twice, to top it off he asked me once what the difference between revenue and available funds were!”
+“Nobles like this are who you might be heeding more often than not, if you give them the time of day.”
+“The logic that those granted such immense responsibility and the means to rise as cream of the crop would encompass them most adept at running the nation is reasonable on surface level. But to put it in harsh terms, that privilege has made them weak willed and lazy.”
+“And again, I can say that, for I’m a Baron.”
+“Be careful who you lend your ear, especially if they keep a silver spoon in their mouth.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.1.1
+Pherip IV:
+“Like you said, that goes for you too, Baron Vallitu.”
+
+Furique Vallitu:
+“I may personally reject being grouped into the Noble class, sire, but will regardless soothe your suspicions by my loyal service.”
+“Much like the Commoner I am, actions will define my character, not polished words.”
+
+Narrator:
+He dislikes being called part of the aristocracy, yet hides behind his title to freely insult them?
+Seems my Haciende is a bit of a hypocrite, I thought.
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.1.2
+Pherip IV:
+“Being a landless Baron doesn’t reserve you the right to place yourself amongst the great houses of the Empire. Step carefully, Mr. Vallitu.”
+
+Narrator:
+I heard Furique gulp.
+
+Furique Vallitu:
+“As you say, My Emperor.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.1.3
+Pherip IV:
+“With talented self-made men like you by my side, I’ll have no need to ask any Noble for their unwanted opinions.”
+
+Narrator:
+Furique touched a hand to his cheek coyly.
+
+Furique Vallitu:
+“Quite the flatterer you are, my liege.”
+“Worry not, I’ll keep all those that bleed gold at arm's length from you. Just call me your bodyguard against ill-informed opinions.”
+
+Dialog Choice #4.2.2
+Pherip IV:
+“Whether I appreciate their interference or not, the Nobility remains an indispensable pillar of the Empire. I see little reason to antagonize them unnecessarily, especially over matters they may have a valid stake in.”
+
+Furique Vallitu:
+“I wholeheartedly agree. Never turn the Nobility against you, it will cause untold troubles which are almost never worth it.”
+“What you say is true, don’t antagonize them, but also keep them in line where possible.”
+“The concerns of the Nobility are more placed in local terms than the grand scale of the entire Empire.”
+“For every prodigy Duke or Baron, there are a thousand spoiled dilettantes who would unravel our hard fought for prosperity.”
+“Early in my career as a council minister I was placed under one such person: Young Marquis fue Ronel, the Municipal Treasurer of Presidio.”
+“What a nightmare he was…”
+“I worked diligently to make up for all his failings and absent calls to work, even when he was present, I’d catch him asleep at his desk, pretending to understand reports far past his intellectual capabilities, the man’s poor bookkeeping meant invoices were constantly being paid twice, to top it off he asked me once what the difference between revenue and available funds were!”
+“Nobles like this are who you might be heeding more often than not, if you give them the time of day.”
+“Your logic that those granted such immense responsibility and the means to rise as cream of the crop would encompass them most adept at running the nation is reasonable on surface level. But to put it in harsh terms, that privilege has made them weak willed and lazy.”
+“And again, I can say that, for I’m a Baron.”
+“Be careful who you lend your ear, especially if they keep a silver spoon in their mouth.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.2.1
+Pherip IV:
+“Like you said, that goes for you too, Baron Vallitu.”
+
+Furique Vallitu:
+“I may personally reject being grouped into the Noble class, sire, but will regardless soothe your suspicions by my loyal service.”
+“Much like the Commoner I am, actions will define my character, not polished words.”
+
+Narrator:
+He dislikes being called part of the aristocracy, yet hides behind his title to freely insult them?
+Seems my Haciende is a bit of a hypocrite, I thought.
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.2.2
+Pherip IV:
+“Being a landless Baron doesn’t reserve you the right to place yourself amongst the great houses of the Empire. Step carefully, Mr. Vallitu.”
+
+Narrator:
+I heard Furique gulp.
+
+Furique Vallitu:
+“As you say, My Emperor.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.2.3
+Pherip IV:
+“With talented self-made men like you by my side, I’ll have no need to ask any Noble for their unwanted opinions.”
+
+Narrator:
+Furique touched a hand to his cheek coyly.
+
+Furique Vallitu:
+“Quite the flatterer you are, my liege.”
+“Worry not, I’ll keep all those that bleed gold at arm’s length from you. Just call me your bodyguard against ill-informed opinions.”
+
+Dialog Choice #4.2.3
+Pherip IV:
+“Owning and administering vast swaths of land comes with it certain specialized insight and experience. Drawing on that may prove useful.”
+
+Furique Vallitu:
+“Call me biased, but I wouldn’t suggest paying too much mind to the Nobles apart from what is absolutely minimum.”
+“Their concerns are more placed in local terms than the grand scale of the entire Empire.”
+“For every prodigy Duke or Baron, there are a thousand spoiled dilettantes who would unravel our hard fought for prosperity.”
+“Early in my career as a council minister I was placed under one such person: Young Marquis fue Ronel, the Municipal Treasurer of Presidio.”
+“What a nightmare he was…”
+“I worked diligently to make up for all his failings and absent calls to work, even when he was present, I’d catch him asleep at his desk, pretending to understand reports far past his intellectual capabilities, the man’s poor bookkeeping meant invoices were constantly being paid twice, to top it off he asked me once what the difference between revenue and available funds were!”
+“Nobles like this are who you might be heeding more often than not, if you give them the time of day.”
+“Your logic that those granted such immense responsibility and the means to rise as cream of the crop would encompass them most adept at running the nation is reasonable on surface level. But to put it in harsh terms, that privilege has made them weak willed and lazy.”
+“And again, I can say that, for I’m a Baron.”
+“Be careful who you lend your ear, especially if they keep a silver spoon in their mouth.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.3.1
+Pherip IV:
+“Like you said, that goes for you too, Baron Vallitu.”
+
+Furique Vallitu:
+“I may personally reject being grouped into the Noble class, sire, but will regardless soothe your suspicions by my loyal service.”
+“Much like the Commoner I am, actions will define my character, not polished words.”
+
+Narrator:
+He dislikes being called part of the aristocracy, yet hides behind his title to freely insult them?
+Seems my Haciende is a bit of a hypocrite, I thought.
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.3.2
+Pherip IV:
+“Being a landless Baron doesn’t reserve you the right to place yourself amongst the great houses of the Empire. Step carefully, Mr. Vallitu.”
+
+Narrator:
+I heard Furique gulp.
+
+Furique Vallitu:
+“As you say, My Emperor.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.3.3
+Pherip IV:
+“With talented self-made men like you by my side, I’ll have no need to ask any Noble for their unwanted opinions.”
+
+Narrator:
+Furique touched a hand to his cheek coyly.
+
+Furique Vallitu:
+“Quite the flatterer you are, my liege.”
+“Worry not, I’ll keep all those that bleed gold at arm’s length from you. Just call me your bodyguard against ill-informed opinions.”
+
+Dialog Choice #4.2.4
+Pherip IV:
+“I wouldn’t brush aside the Nobility anyway. Their counsel has guided the Empire for generations, and their experience in such an art is second to none. Hearing what they have to say on my decrees could prove more insightful than any Commoner economist’s.”
+
+Narrator:
+Furique looked away from me toward a flower bed.
+
+Furique Vallitu:
+“This once Commoner economist does not take any offense, Your Majesty.”
+“Call me biased, but I wouldn’t suggest paying too much mind to the Nobles apart from what is absolutely minimum.”
+“Their concerns are more placed in local terms than the grand scale of the entire Empire.”
+“For every prodigy Duke or Baron, there are a thousand spoiled dilettantes who would unravel our hard fought for prosperity.”
+“Early in my career as a council minister I was placed under one such person: Young Marquis fue Ronel, the Municipal Treasurer of Presidio.”
+“What a nightmare he was…”
+“I worked diligently to make up for all his failings and absent calls to work, even when he was present, I’d catch him asleep at his desk, pretending to understand reports far past his intellectual capabilities, the man’s poor bookkeeping meant invoices were constantly being paid twice, to top it off he asked me once what the difference between revenue and available funds were!”
+“Nobles like this are who you might be heeding more often than not, if you give them the time of day.”
+“Your logic that those granted such immense responsibility and the means to rise as cream of the crop would encompass them most adept at running the nation is reasonable on surface level. But to put it in harsh terms, that privilege has made them weak willed and lazy.”
+“And again, I can say that, for I’m a Baron.”
+“Be careful who you lend your ear, especially if they keep a silver spoon in their mouth.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.4.1
+Pherip IV:
+“Like you said, that goes for you too, Baron Vallitu.”
+
+Furique Vallitu:
+“I may personally reject being grouped into the Noble class, sire, but will regardless soothe your suspicions by my loyal service.”
+“Much like the Commoner I am, actions will define my character, not polished words.”
+
+Narrator:
+He dislikes being called part of the aristocracy, yet hides behind his title to freely insult them?
+Seems my Haciende is a bit of a hypocrite, I thought.
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.4.2
+Pherip IV:
+“Being a landless Baron doesn’t reserve you the right to place yourself amongst the great houses of the Empire. Step carefully, Mr. Vallitu.”
+
+Narrator:
+I heard Furique gulp.
+
+Furique Vallitu:
+“As you say, My Emperor.”
+
+(Reconvenes at previous Repeated)
+Dialog Choice #4.2.4.3
+Pherip IV:
+“With talented self-made men like you by my side, I’ll have no need to ask any Noble for their unwanted opinions.”
+
+Narrator:
+Furique touched a hand to his cheek coyly.
+
+Furique Vallitu:
+“Quite the flatterer you are, my liege.”
+“Worry not, I’ll keep all those that bleed gold at arm’s length from you. Just call me your bodyguard against ill-informed opinions.”
+
+Dialog Choice #4.3
+Pherip IV:
+“What would it take to reach this state of Autarky? Or if not that, then at least the greater self-reliance you’ve mentioned?”
+
+Furique Vallitu:
+“Hard to say at present, but for the sake of answering, Autarky would take a considerable upfront investment.”
+“Indispensable resources would need to be completely fulfilled in house, expendable yet commonly used goods impossible for Suzerain to replicate must be forgone or at least heavily diminished, an inseparable leash would need to be tied around the Colonies and Dominions, raw resource extraction would need to increase, I want to say, ten times over.”
+“Kiss goodbye to any international trade, that would almost completely need to be thrown out the window.”
+“It would be… An uphill battle.”
+“A more moderate transition to semi-independence economically on the other hand would be far more within scope.”
+“Expensive and with its own sacrifices, but a relatively achievable objective.”
+“That does also mean the rewards for it are not as noteworthy. A feat to be sure, but not the economic miracle that legends would be written about.”
+“If it were me on the throne, I’d first and foremost look to settling the outstanding debt with Fespia, then once that foreign obligation is concluded, transition to spending the freed up state revenues on domestic industrial expansion for underproduced items.”
+“This way risk is minimized from overspending at this early point in time to where the loan cannot be repaid later. I doubt from then Autarky can be attained within our lifetimes, though greater self-sufficiency is not so far off.”
+“That’s merely one of many courses to set, naturally. You still steer this ship, oh Captain.”
+
+
+Dialog Choice #4.4
+Pherip IV:
+“Subtleties seem to permeate our economic policy, and countless competing interests pull us in different directions. I see now it is worth considering just how far we ought to take this pursuit of economic independence, one direction or the other.”
+
+Furique Vallitu:
+“Quite right. Only… I didn’t mention this earlier as it to me is an ill-advised idea.”
+“You don’t NEED to conform strictly to any one economic plan. That’s the handy part of an Autocracy.”
+“Feel free to dip your fingers in any one of the approaches we talked about, I see no harm in deviating from time to time. The sole warning I’ll give is to avoid not committing at some point in the future.”
+“A predictable economic theme is how foreign investors are attracted and trust in the economy is fostered for our people.”
+“Autarky, moderate self-reliance, lenience on foreign powers, total dependency on the galactic economy, all of these can be used in their best suited contexts.”
+“It’s all a matter of what you, my Emperor, want.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #4.4.1
+Pherip IV:
+“I suppose there is little virtue in spending a fortune producing something domestically when it could be acquired abroad for considerably less.”
+
+Furique Vallitu:
+“Valid stance to take.”
+“Absolute advantage remains prevalent across all nations, so why compete only to pay more for goods we can simply buy?”
+“For this, I’ll look into shoring up our own leverage so our trade partners can’t pull the wool over us without at the same time harming themselves. Mutually assured destruction and all that.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #4.4.2
+Pherip IV:
+“Perhaps the question is not whether we ought to pursue greater independence, but how much we ought to be willing to sacrifice for it.”
+
+Furique Vallitu:
+“Valid stance to take.”
+“If cost outpaces returns, then there’s no point in bothering. That’s economics 101.”
+“For this, I’ll look into exactly where our break even lies, that way we can’t be caught off guard from whatever position we decide to strike.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #4.4.3
+Pherip IV:
+“Still, I find myself somewhat uneasy with the prospect of our prosperity being so closely tied to the goodwill of foreign merchants and governments. Our independence is nonnegotiable, and therefore we’ll need to lean less on other countries.”
+
+Furique Vallitu:
+“Valid stance to take.”
+“In light of what Suzerain did to the galaxy not but a couple of years ago, and also what the Assembly tried to pull on us matter of fact, I fathom why trust isn’t something you’d expect from the galactic market.”
+“For this, I’ll look into investments that’ll shore up our domestic product diversity. Then we won’t need to so overtly bank on outside countries to satisfy our orders.”
+
+(Reconvene at prime Repeated)
+Dialog Choice #4.4.4
+Pherip IV:
+“I don't per se have a quarrel with foreign trade, but would like to craft a primarily autonomous position. My thoughts go toward the idea of being selective in who we rely on. The Kingdom of the Eternal Star would be a more than trustworthy partner, for example.”
+
+Furique Vallitu:
+“Valid stance to take.”
+“Nations at odds will inevitably fall out, no matter how profitable their economic relationship is. Just ask the old Ajour Assembly and the Skjolverd Clans once the food stores ran empty. It makes sense to shake hands with countries we like outside of negotiations.”
+“For this, I’ll look into sending a delegation toward like-minded nations. Either those with similar political systems or economic stances as our own. That’ll help break the ice.”
+
+(Continues Dialog)
+Dialog Choice #5
+Pherip IV:
+“Well! I’d say that was one hell of a breakdown, if you’ll excuse my language.”
+
+Furique Vallitu:
+“You said it! Hooph! What a long meeting!”
+“And here I thought there’d be time enough to invite you for happy hour.”
+“Eh, bet we can still make it happen. I’ve some strings I can pull. Afterall, I’m the barkeep’s landlord.”
+
+Dialog Choice #1
+Pherip IV:
+“That won't be necessary, we can share a drink here in the palace. My wine cellars are more stocked than I know what to do with. But thank you for the offer.”
+
+Furique Vallitu:
+“Come on! You gotta get out more! These palace walls may be long, but they’re the same walls at the end of the day.”
+
+Dialog Choice #1.1
+Pherip IV:
+“Alright, you convinced me. Let me get my coat.”
+
+(Hidden)
++1 Furique Relationship
+-1 Legitimacy
+
+Furique Vallitu:
+“Wow, that was easy.”
+“Just needed a little push to take a night on the town, eh? This’ll be grand.”
+
+Dialog Choice #1.2
+Pherip IV:
+“Sorry, Your Excellency, but my answer remains the same. You may join me here or we shall part ways to our respective evenings.”
+
+Furique Vallitu:
+“Very well, I’ll not push you more than I have.”
+“I’ll take my leave, then. The city still calls me, and if you remember, these palace halls are not where I feel at home.”
+“I hope you enjoy the rest of your evening, sire.”
+
+Dialog Choice #2
+Pherip IV:
+“You read my mind, let’s get going before the crowd hits.”
+
+(Hidden)
++1 Furique Relationship
+-1 Legitimacy
+
+Furique Vallitu:
+“That’s the spirit!”
+“You have to try some of their specialty cocktails, they’re to die for.”
+“My personal favorite is the Dusty Candle, it's got rum, cinnamon, I think like this tea infused liquor?”
+“It’s really good, but they got other options.”
+“Let me just pack up here and we’ll get going.”
+
+Dialog Choice #3
+Pherip IV:
+“Not sure why an Emperor and his top economic councillor who collectively control the entire imperial treasury need to take happy hour into account, but I’m with you nonetheless.”
+
+(Hidden)
++1 Furique Relationship
+-1 Legitimacy
+
+Furique Vallitu:
+“It’s about the atmosphere more than the discount, you know?”
+“A magical moment when the after-work lot come to kick back and decompress, whilst socialites join to make pleasant conversation over a couple of rounds.”
+“Everyone’s either just finished a hard day, or in high spirits for having avoided that fate.”
+“Let’s get that well earned rest, shall we?”
+
+Dialog Choice #4
+Pherip IV:
+“Truthfully, I think I’d rather retire for the evening, I can feel my mind ready to burst. But perhaps another time.”
+
+Furique Vallitu:
+“I absolutely get what you mean. Was like that for me when I was first given the breakdown of Presidio’s fiscal breakdown.”
+“My apologies then for perhaps overdoing it this meeting, I simply wanted to ensure no stone was left unturned.”
+“A shame I didn’t hold back enough for you to join me tonight, but alas, there is always next time.”
+“I hope you enjoy the rest of your evening, sire.”
+
+Reconvene:
+Narrator:
+As Furique and I stood up and began to pack our things, he suddenly stopped folding away a chart into his bag.
+
+Furique Vallitu:
+“Ah! I can’t believe I almost forgot to mention!”
+“With your first decree having been a resounding success, I began workshopping several more for your consideration. This time having to do mostly with investment opportunities around the Empire that the treasury would be well put towards.”
+“I think it would be beneficial to start a major project early to reap its payout sooner than later, and for now the imperial reserves can be safely committed to one such long term endeavor."
+“It shall be a bit longer before they’re ready, but I wanted to inform you so you act in future with this in mind. Maybe give me a few more weeks or so to scout every prospect I can find.”
+
+Dialog Choice #1
+Pherip IV:
+“Excellent to hear, Haciende. Schedule another meeting when the time is right.”
+
+Furique Vallitu:
+“As you wish.”
+“Now, that’s the end of that. Let’s be gone from this garden before I end up disliking it too.”
+
+(If Dialog Choice #1.1: “Alright, you convinced me. Let me get my coat.”, or Dialog Choice #2: “You read my mind, let’s get going before the crowd hits.”, or Dialog Choice #3: “Not sure why an Emperor and his top economic councillor who collectively control the entire imperial treasury need to take happy hour into account, but I’m with you nonetheless.” Chosen in econ_001)
+
+Narrator:
+Our guards and servants escorted us away from the patio, giving me a brief opportunity to change into more appropriate attire. Once ready, we were driven down to the main city.
+Rarely had I ever traversed my own capital’s streets during the night, and even then never simply wandering to a local establishment. I saw Commoners we passed do doubletakes, completely baffled their Emperor was taking a night on the town where they frequented.
+The rare Noble I spotted riding down the road similarly appeared confused, though more in a disapproving and decidedly haughty manner. I tried not to give them the satisfaction of seeing me take notice.
+We reached an ordinary apartment building with tasteful yet casual façades, and Furique happily held the door open for me to enter.
+Climbing some stories up, we reached the door of an apartment which was starkly different from the rest, a deeper wooden tone with engravings of flowing alcohol on it.
+Giving it a knock and a quick explanation to the woman who answered, we were led inside.
+I realized this floor of apartments had been transformed into a unified space and now hosted a bar, probably a decision by Furique to increase his revenues from the building.
+The servants and attendees predictably placed all attention on us as we strutted through, though seeing as how Furique was a regular, it was probably me who was causing a scene.
+Murmurs of ‘The Emperor being so close!’ and ‘What is His Majesty doing in a place like this?!?’ I heard from every side until we reached our seats.
+Something of interest to me, was these individuals were not just upper tier Burghers, but some were simple Commoners as well.
+The fact they could afford to visit such a pristine location either said much about Furique’s pricing generosity, or the new affluence our economy was providing even the lower estate. Perhaps both?
+A servant placed us in dual seats next to a window. The high tier leather and beautiful wooden cocktail table felt out of place in a setting occupied by Commoners, but I wasn’t complaining.
+Our view was spectacular. Barely above the peaks of neighboring buildings, I could see the skyline of Isa Bellmaré as the sun was just setting, shining rays of orange light through the reflecting copper rooftops.
+We ordered our drinks, and tried to ignore the murmurs from other patrons as we discussed informal matters, and at times circled back to economic subjects.
+Seeing Furique so relaxed and at home in this space, I reasoned this wouldn’t be the last time I’d be asked to pay a visit. Which if that night was any indicator, I hadn’t any objections to.
+(Event Ends Here)
+
+(If Dialog Choice #1.2: “Sorry, Your Excellency, but my answer remains the same. You may join me here or we shall part ways to our respective evenings.” or Dialog Choice #4: “Truthfully, I think I’d rather retire for the evening, I can feel my mind ready to burst. But perhaps another time.” Chosen in econ_001)
+
+Narrator:
+On that note, Furique finished packing up his things. 
+A servant offered to take them off his hands, but he held up a hand in refusal, insisting to carry his own luggage.
+Giving me a bow, he walked backwards several steps before turning around and leaving the patio.
+It was only then that I realized I had a throbbing headache.
+I was left in the silence of the now sunset-lit scene, watching birds fly their way to homely nests, the changing of the guard between day insects to nightly ones, and still the fountain flowed as before.
+Twisting my head, I could from one angle see the golden rays of light shine through its streams, yet from another it was darkened by shadows cast upon it.
+So much changed in this garden since Furique and I had started our meeting, creatures came and went, plants altered their positions, but that fountain remained flowing, uncaring, consistent.
+I snapped out of this trance and stood up to leave as well. With no more duties for that day, I had a quiet dinner with my family and retired to my bedroom, resting with a nice book and radio broadcast throughout the evening.
+Coincidentally or subconsciously, the book I had absentmindedly grabbed was a treatise on various economic philosophies across the galaxy and history, a pretty interesting read.
+Paradoxically, reading more on economics had put my overflowing mind at ease, the headache seemed to vanish with every page and I felt less overwhelmed with, oddly, more information.
+(Event Ends Here)

@@ -1080,6 +1080,8 @@ label final_decree_choice:
 
         "Mint the Pherip Ascension Coin (-4 Budget)":
 
+            $ first_decree = "coin"
+
             $ treasury -= 4
 
             # Hidden
@@ -1090,6 +1092,8 @@ label final_decree_choice:
             n "I stared at the document before me; my first Imperial Decree."
 
         "Open the Imperial Palace (-1 Budget, -1 Imperial Majesty)":
+
+            $ first_decree = "palace"
 
             $ treasury -= 1
             $ imperial_majesty -= 1
@@ -1103,6 +1107,8 @@ label final_decree_choice:
 
         "Establish the Grand Gardens (-5 Budget)":
 
+            $ first_decree = "gardens"
+
             $ treasury -= 5
 
             # Hidden
@@ -1114,6 +1120,8 @@ label final_decree_choice:
             n "I stared at the document before me; my first Imperial Decree."
 
         "Pass the Act of Clemency (-2 Imperial Majesty)":
+
+            $ first_decree = "clemency"
 
             $ imperial_majesty -= 2
 
@@ -1127,6 +1135,8 @@ label final_decree_choice:
 
         "Declare a Week-Long Holiday (-1 Budget)":
 
+            $ first_decree = "holiday"
+
             $ treasury -= 1
 
             # Hidden
@@ -1136,6 +1146,8 @@ label final_decree_choice:
             n "I stared at the document before me; my first Imperial Decree."
 
         "Imperial Armada Salute (-3 Budget)":
+
+            $ first_decree = "armada"
 
             $ treasury -= 3
 
@@ -1223,7 +1235,7 @@ label final_decree_choice:
 
     n "It was truly time to get to work."
 
-$ current_event = "investment_opportunity_001"
+$ current_event = "econ_001"
 
 $ active_event = True
 

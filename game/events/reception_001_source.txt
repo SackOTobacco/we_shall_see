@@ -12,7 +12,7 @@ How we mourned my Father’s passing.
 She’d tell me my Father would be so proud of the man I was shaping up to be, that I’d soon become the greatest Emperor in all of Suzerain’s history.
 I always hoped she was right. Yet I couldn't shake the thought of Sicill's shadow—how I'd spend my entire reign cast beneath it, measured against her. 
 I shook this concern out of mind. Today was one of new beginnings, of my turn to shape Suzerain, and now the galaxy.
-Making our final journey towards Catheljunta, the imperial palace and my home, a swarm of commoners tried to follow in pace, becoming quickly fatigued at the steep mountainous climb, but pushing through their weariness all the same. I saw the boiling and panting faces of many Suzerains as they jogged, parents even carrying their children, all in an effort to simply be as close to me as possible throughout this last stretch of public viewing.
+Making our final journey towards Catheljunta, the imperial palace and my home, a swarm of Commoners tried to follow in pace, becoming quickly fatigued at the steep mountainous climb, but pushing through their weariness all the same. I saw the boiling and panting faces of many Suzerains as they jogged, parents even carrying their children, all in an effort to simply be as close to me as possible throughout this last stretch of public viewing.
 Beside my carriage ran a rather young boy, whose friends were leagues behind him, puffing his cheeks and exerting every effort to not fall behind me. He snuck glances in my direction every chance he got, though to avoid losing his focus and being overtaken by the surrounding crowd, he kept turning his head violently from side to front. His rigid arms, serious expression, and stiff motions made him to me appear a soldier.
 Dialog Choice #1
 Pherip:
@@ -115,7 +115,7 @@ Drinks and food were served, eventually dances took up between guests, however m
 Meanwhile, I sat upon my throne, observing all the mingling and activities, though for this celebration confined from joining them. I was meant to just behave like the August Emperor I now embodied, above even the upper echelons of our society, and apathetically judging their every move.
 I couldn’t wait until the next gathering, when I could truly act like a person again.
 Yet there was one matter which I was expected to actively participate in; the receiving of any important persons who would wish me well in my new position. The first among these were rather uninteresting, middling Nobles, the occasional especially famous celebrity, some prominent Industrialists and Merchants. 
-As the evening went on so did the magnitude of my well-wishers increase, starting with my future Councillors who made short introductions but each promising to speak more at our upcoming first meeting. Then came the foreign dignitaries, most gave rehearsed congratulations I had heard similarly be given to my Grandmother after the end of the 40 Years War, but some stood out.
+As the evening went on so did the magnitude of my well-wishers increase, starting with my future Councillors who made short introductions but each promising to speak more at our upcoming first meeting. Then came the foreign dignitaries, most gave rehearsed congratulations I had heard similarly be given to my Grandmother after the end of the 30 Years War, but some stood out.
 Strutting forth straight after an eye-catching dance with a Suzeraish Countess came the Queen of the Kingdom of the Eternal Star, Queen Solène Lapis. Her vibrant and regal orange fur complimented well with the sea of Suzerish colors, and though strange to our culture for a woman to have, she wore her mustache-styled snout fur well.
 She nodded her head with respect, her beautiful features enhanced by the smile she wore.
 
@@ -183,7 +183,7 @@ Pherip:
 “Your kind words touch me. I know you and my Grandmother shared a special connection, she spoke of you often. I hope to further sustain the cordial relations our nations have likewise held.”
 
 Solène Lapis:
-“Princess Saphron and my Son contribute much to that respect. I’ve another unmarried daughter, should you wish to further bind our countries together.”
+“Princess Saphron and my son contribute much to that respect. I’ve another unmarried daughter, should you wish to further bind our countries together.”
 
 Dialog Choice #3.1
 “Send her portrait my way, I’ll seriously consider it.”
@@ -219,24 +219,24 @@ Following these Nobles, came representatives of the Clergy, chief among them the
 With their retinue of various other Obisotes and Priests, I was given a series of prayers and blessings for my pious era, and another spiel of soft appeals. This time for more funds to be allocated in the conversion programs across the new borders, and support in creating additional churches and missions.
 They too had brought offerings, this time befitting the sanctity of their office. Documents displaying the transfer of a significant portion in that month’s tithe to the treasury, a bountiful boost indeed (+2 Treasury).
 With a gesture of blessing, they left me to mull over the nation’s new stimulus.
-I had a longer break between guests to think and rest my voice. Inevitably, however, I was informed several prominent commoners wished to approach me.
+I had a longer break between guests to think and rest my voice. Inevitably, however, I was informed several prominent Commoners wished to approach me.
  
 Dialog Choice #1
-I haven’t the time nor will to entertain commoners, no matter how prominent. I reject their request.
+I haven’t the time nor will to entertain Commoners, no matter how prominent. I reject their request.
 Imperial Majesty +2
 
 Dialog Choice #2
 Let even the low-born gaze on their new leader.
 
 Narrator:
-My guards led the commoners to me, though to label them the same as the general populace would be hardly accurate. These were some of the more prominent Burghers, being traders, industrialists, mine operators, and plantation owners from across the Empire. 
-Countless commoners seized the opportunities afforded them by the 40 Years War and its aftermath, carving a profitable slice for themselves to live akin to Nobles, some even more affluent. 
+My guards led the Commoners to me, though to label them the same as the general populace would be hardly accurate. These were some of the more prominent Burghers, being traders, industrialists, mine operators, and plantation owners from across the Empire. 
+Countless Commoners seized the opportunities afforded them by the 30 Years War and its aftermath, carving a profitable slice for themselves to live akin to Nobles, some even more affluent. 
 I knew only some within this crowd by reputation, the rest blended into a stream of tacky clothes trying to replicate the elegance of an aristocrat’s garb.
 The exception was one Furique Vallitu, owner of the Vallitu Plantation Casscao and elected member of my Council of Councils.
 We all made simple introductions. The Burghers clearly were tense to be in my presence, unlike the previous two estates, given their lack of familiarity in seeing, let alone speaking to, the Monarch.
-It wasn’t long ago the most a commoner could boast was seeing their local Noble at a distance, now they were being given frequent audiences by the royal household itself.
+It wasn’t long ago the most a Commoner could boast was seeing their local Noble at a distance, now they were being given frequent audiences by the royal household itself.
 Such were the changing times my Grandmother charted.
-After some careful allusions to being grateful should I in future be willing to expand the rights of commoners to finish what Empress Sicill started, the tradition of gift giving was upheld, as expensive and colonially sprawling goods and jewels were donated to me for use at my pleasure (+1 Treasury).
+After some careful allusions to being grateful should I in future be willing to expand the rights of Commoners to finish what Empress Sicill started, the tradition of gift giving was upheld, as expensive and colonially sprawling goods and jewels were donated to me for use at my pleasure (+1 Treasury).
 The collective wealth of these Burghers was nothing to scoff at, I’d have to truly keep in mind their economic influence moving forward.
 
 Reconvene:

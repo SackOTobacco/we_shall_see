@@ -36,7 +36,7 @@ screen codex_popup():
 
             ymaximum 650
 
-            text CODEX[codex_current]["text"]
+            text codex_markup(CODEX[codex_current]["text"])
 
         textbutton "Close":
             action Hide("codex_popup")

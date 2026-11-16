@@ -185,6 +185,10 @@ init python:
         if "if player didn’t chose to befriend" in lower or "if player didn't chose to befriend" in lower:
             store.reception_002_route_condition = False
             return not prologue_befriended
+        if "if the bourbon “answers to what?” dialog choice was not chosen in reception_002" in lower:
+            return not store.reception_002_bourbon_answers_to_what_chosen
+        if "if the bourbon “answers to what?” dialog choice was chosen in reception_002" in lower:
+            return store.reception_002_bourbon_answers_to_what_chosen
         if "if dialog choice" in lower and "chosen in reception_002" in lower:
             referenced = re.findall(r"dialog choice #(\d+(?:\.\d+)*)", lower)
             return any(item in reception_002_chosen_choices for item in referenced)
@@ -342,6 +346,8 @@ init python:
         if choice_id not in reception_002_all_nodes:
             return
         node = reception_002_all_nodes[choice_id]
+        if any(line.strip() == "“Answers to what?”" for line in node["body"]):
+            store.reception_002_bourbon_answers_to_what_chosen = True
         reception_002_say(node["body"])
         if any(line.strip() == "(Event Ends Here)" for line in node["body"]):
             store.reception_002_finished = True
@@ -394,6 +400,7 @@ init python:
         store.reception_002_all_nodes = {}
         store.reception_002_route_condition = None
         store.reception_002_repeat_pending = False
+        store.reception_002_bourbon_answers_to_what_chosen = False
         for kind, content in events:
             if store.reception_002_finished:
                 break
