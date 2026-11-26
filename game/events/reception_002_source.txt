@@ -3986,8 +3986,9 @@ I didn’t understand what it was that shook him so much, I only wished the ques
 
 Bourbon Landstrouss:
 “They’re… Good. No complaints.”
-“My Father and Mother are still living in Relka, as your secret service I imagine keeps track of. They’re happy as can be expected, made a home of what we were given. My siblings meanwhile have for the most part moved to other parts of the galaxy in search of their own destinies.”
-“So, yes, we’re all fine.”
+“My Father is still living in Relka, as your secret service I imagine keeps track of. My Mother remains in Isa Bellmaré, though I know of her wishes to reunite with my Father.”
+“They’re happy as can be expected, made a home of what we were given. My siblings meanwhile have for the most part moved to other parts of the galaxy in search of their own destinies.”
+“So, yes, we’re fine.”
 
 Dialog Choice #2
 Pherip:

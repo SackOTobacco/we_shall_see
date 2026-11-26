@@ -148,6 +148,9 @@ default map_caetzar_hovered = False
 default map_veiden_hovered = False
 default map_fespia_hovered = False
 default map_kammaria_hovered = False
+default map_zereck_hovered = False
+default map_srta_hovered = False
+default map_grand_derubian_hovered = False
 
 
 screen galaxy_map(from_event=False):
@@ -243,7 +246,43 @@ screen galaxy_map(from_event=False):
             # MAP
             # ====================================================
 
-            if map_kammaria_hovered or (
+            if map_grand_derubian_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "grand_derubian"
+            ):
+
+                add "images/world_map_Derubian_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_srta_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "srta"
+            ):
+
+                add "images/world_map_S.R.T.A._Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_zereck_hovered or (
+                renpy.get_screen("codex_popup") is not None
+                and codex_current == "zereck"
+            ):
+
+                add "images/world_map_Zereck_Glow.png":
+
+                    xpos 0
+                    ypos 0
+
+                    zoom map_zoom
+
+            elif map_kammaria_hovered or (
                 renpy.get_screen("codex_popup") is not None
                 and codex_current == "kammaria"
             ):
@@ -424,6 +463,126 @@ screen galaxy_map(from_event=False):
 
                 hovered SetVariable("map_kammaria_hovered", True)
                 unhovered SetVariable("map_kammaria_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_zereck_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_zereck_hovered", True)
+                unhovered SetVariable("map_zereck_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_srta_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_srta_hovered", True)
+                unhovered SetVariable("map_srta_hovered", False)
+
+            mousearea:
+
+                area (
+                    0,
+                    0,
+                    int(MAP_IMAGE_WIDTH * map_zoom),
+                    int(MAP_IMAGE_HEIGHT * map_zoom)
+                )
+
+                focus_mask Transform(
+                    "images/world_map_grand_derubian_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                hovered SetVariable("map_grand_derubian_hovered", True)
+                unhovered SetVariable("map_grand_derubian_hovered", False)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_grand_derubian_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "grand_derubian")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_srta_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "srta")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+            button:
+
+                xpos 0
+                ypos 0
+
+                xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                ysize int(MAP_IMAGE_HEIGHT * map_zoom)
+
+                padding (0, 0)
+                background None
+                hover_background None
+
+                focus_mask Transform(
+                    "images/world_map_zereck_hitmask.png",
+                    zoom=map_zoom
+                )
+
+                action Function(codex_link, "zereck")
+
+                null:
+                    xsize int(MAP_IMAGE_WIDTH * map_zoom)
+                    ysize int(MAP_IMAGE_HEIGHT * map_zoom)
 
             button:
 

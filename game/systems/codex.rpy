@@ -57,6 +57,83 @@ Conquered from the Holy Empire of Caetzar in the 1st Bout of the 30 Years War. M
 """
         },
         
+        "zereck": {
+
+            "name": "Zereck Domain",
+
+            "title": "Multi-Tribal Cutthroat Autocracy",
+
+            "text": """
+The Zereck Domain stands as a Multi-Tribal Cutthroat Autocracy, formed in the aftermath of the Zereck Rise in 752. All positions within the Domain are not appointed nor voted on, but rather won through the killing of he who currently holds the office. Any Zereck can challenge individuals as high as the Adhipati, Warlords, and even the Unktzar Adhipati, Warmaster, himself.
+
+How the Zerecks first encountered the wider galaxy shaped much of their later interactions with it. Kammarian colonization efforts reached their home planet roughly in 751, and the Kammarians, regarding the Zerecks as an undeveloped and brutish species, attempted to subjugate its tribes. To stand against this, the previously various warring Zereck tribes united against these foreign settlers, beginning what became known as the “Zereck Rise”. Drawing upon their formidable physical strength and deeply ingrained warrior culture, the Zerecks successfully resisted the Kammarian forces, an incredible feat considering the disproportionate technological advancement and Kammaria being itself a particularly dominant power. The conflict ended in 752 when the Kammarians withdrew, deeming the planet “Uncolonizable”.
+
+This withdrawal inadvertently allowed the Zerecks to establish the foundations of their future galactic power, as they held on their homeland, RAKA, abandoned technologies from the Kammarians that they were able to study and reverse engineer. Thus, the Zerecks were able to progress scientifically at an astronomical rate, enabling them to ascend into space shortly thereafter. From there, the tribes established a common government with the objective of waging war against galactic foreigners, for the aims of protecting their independence until eventually returning to their internal conflicts. What became known as the Zereck Domain was therefore birthed.
+
+Despite its rapid development, the Zereck Domain soon encountered resistance from other established galactic powers, who recognized the military and expansionist threat it posed. In 1275, the Fespian Commonwealth and Kingdom of the Eternal Star signed the “Zereck Redrawing Treaty”, agreeing to invade the Domain and divide its territories between themselves. Both nations expected the Zerecks to capitulate quickly, believing their military strength to be inferior in terms of technology and conventional warfare. However, this assumption proved mistaken, as the Domain developed into a formidable military power through drawing on its previous tribal warrior culture, and a modernization program by study of neighboring galactic nations. Although the initial invasion achieved minor territorial gains, the Zerecks inflicted substantial losses upon both invaders and eventually forced them into retreat. The conflict, known as the “Carving War”, ended in 1277 with a Zereck victory. Neither Fespia nor the Eternal Star surrendered any existing territories, but both agreed to leave certain uncolonized regions between their borders and the Domain available for future Zereck colonization. The outcome demonstrated that the Zerecks were no longer a primitive civilization, but a significant military power capable of resisting even two of the galaxy's leading nations.
+
+The Domain's position and cascading growth was eventually hammered down by the ambitions of Suzerain. In 1574, following its initial victory against the Holy Empire of Caetzar, Suzerain declared war upon the Zereck Domain with the casus belli of territorial conquest, beginning the second bout of the 30 Years War. The Kammarian Empire joined Suzerain through the Imperial League, creating a formidable coalition against the Zerecks. Although the Domain achieved several victories and initially managed to organize a defensive line, the combined strength of such massive opponents gradually forced its fleets and armies backward. The flanking offensive performed through subjugated Ajour by the Imperial League further exacerbated their pushback.
+
+Upon RAKA’s capture, the Zereck government splintered into two camps: those advocating surrender and those determined to continue fighting. The peace faction ultimately negotiated an agreement with Suzerain and Kammaria, ending the conflict despite the resistance of the war faction. Under the resulting settlement, the Domain surrendered extensive territories, including those that became the Kingdom of Aeteran, Dominion of Kórinth, Dominion of Orysseus, 16 Planet Realm, and Principality of Balterland. Suzerain and Kammaria also annexed substantial portions of Zereck territory directly. The resulting territorial losses provoked an internal struggle between its peace and war factions, which escalated into the “Zereck Bloodbath”. The conflict devastated the Domain's political and military leadership, leaving it considerably weaker than before the war.
+
+The Domain's weakened position did not prevent Suzerain from pursuing its eventual destruction. In 1597, Empress Sicill arranged a dynastic alliance between Suzerain and the Kingdom of the Eternal Star through the marriage of Princess Saphron to Prince Meraft. Both nations shared an interest in eliminating the remaining Zereck threat, and the Kingdom of the Eternal Star consequently joined the Imperial League. The two powers agreed to partition the remaining Zereck territories between themselves, beginning the fourth bout of the 30 Years War. Their combined forces swiftly seized most of the remaining Domain, still governed by the peace faction that had emerged victorious from the Zereck Bloodbath, and who once again attempted to surrender early rather than risk the destruction of their remaining military forces. Although this decision provoked another uprising among the more militaristic Zerecks, the resistance was suppressed before it could develop into another full-scale civil war.
+
+In the peace treaty, the Kingdom of the Eternal Star annexed most of the Domain's eastern territories, while Suzerain seized the remainder, effectively ending the Zereck Domain as an independent nation. However, the early surrender orchestrated by the peace faction came with a deceit, wherein during negotiations Zereck leadership had discreetly transferred almost the entirety of its remaining military and government leadership to the Empire of Caetzar. Caetzar granted them asylum, allowing the Zereck Armada and government in exile to establish themselves within a remote space fort.
+
+Since then, the Zerecks have transformed this installation into a formidable shipyard, preparing their remaining forces for a dreamed reconquest of their former homeland.
+
+By 1601, the Zereck Domain no longer exists as a sovereign state, its former territories having been divided between Suzerain and the Kingdom of the Eternal Star. Nevertheless, the survival of its government in exile and much of its military under Caetzan protection means that the Zereck cause has not been entirely extinguished. The Domain's history, from its unification following foreign colonization to its eventual defeat by the galaxy's leading empires, demonstrates both the extraordinary military potential of the Zerecks and the dangers which come from that same potential when confronted by a stronger coalition.
+
+The Domain’s government in exile is currently led by Admiral Souzos, whilst the core Zereck territories are administered by Unktzar Adhipati Gordzakis.
+"""
+        },
+
+        "grand_derubian": {
+
+            "name": "Grand Derubian Empire",
+
+            "title": "Absolute Monarchy",
+
+            "text": """
+The Grand Derubian Empire stands as an Absolute Monarchy, though for most of its existence before Suzerish intervention was a Decentralized Elective Monarchy, wherein a collection of highly autonomous and deeply divided states were governed by their respective Nobility, all of whom swore allegiance to an Emperor elected from among the aristocracy. Achieving space travel in 1380, the Empire entered the galactic community considerably later than most established powers. From its inception, Derube was burdened by a longstanding struggle between the Emperor, who sought to modernize the Empire into a centralized state under his direct authority, and the Nobility, who wished to preserve the ancient traditions and considerable autonomy of the aristocracy. This division severely hindered the Empire's ability to expand its territories, establish a unified military, and develop into a major galactic power, leaving it in a prolonged state of political stagnation.
+
+This longstanding power struggle eventually provided an opportunity for the rising Empire of Suzerain. In 1592, following its successful intimidation of the Tradfedan Machine Union into handing over northern territory, Suzerain shifted its attention towards Derube, recognizing the divisions between its Emperor and Nobility as an opportunity to bring the entire Empire under its influence. Empress Sicill offered the Derubian Emperor military assistance in consolidating his authority over the Nobility, in exchange for his swearing fealty to Suzerain. The Emperor accepted, and an operation followed involving Suzerain deploying its military throughout Derubian territory to intimidate the Nobility into submission and eliminate those who resisted.
+
+The arrangement proved successful in its immediate objective, as the Emperor managed to establish himself as an Absolutist ruler, with the Nobility stripped of its political authority and permitted to remain only as ceremonial leaders within their respective provinces. The Grand Derubian Empire was consequently formalized as a subject of Suzerain and joined the Imperial League.
+
+Although the Emperor had finally achieved the centralization of authority which his predecessors had long sought, the manner in which it was accomplished came at considerable political cost. The Nobility, having been deprived of the autonomy they spent centuries defending, grew immensely resentful of both the Emperor and the Monarchy itself, which they increasingly regarded as having betrayed Derubian traditions in exchange for Suzerish protection. Rather than resolving these longstanding internal divisions, Suzerain's intervention radicalized the struggle between the Monarchy and an increasingly disillusioned Aristocracy, with the latter now viewing the Emperor as little more than a foreign puppet.
+
+The Empire is currently led by Emperor Lux Valdermann.
+"""
+        },
+
+        "srta": {
+
+            "name": "Stalosif Republic of Technological Advancements (S.R.T.A.)",
+
+            "title": "Communal-Egalitarian-Technocracy",
+
+            "text": """
+The Stalosif Republic of Technological Advancements, S.R.T.A., stands as a Communal-Egalitarian-Technocracy, wherein every individual is considered equal, with local communes serving as the primary means through which the populace expresses its collective will across the state. The Republic maintains no traditional division between rich and poor, and all avenues of self-actualization are permitted to its citizens. Its government is guided by a council composed of individuals considered the most intellectually capable within Stalosif society, though even the authority of these Head Scientists remains considerably limited in comparison to that of the local communes. Having done away with spiritual beliefs following its unification, the Stalosif instead directs its collective efforts towards scientific advancement and the application of technology for the benefit of its people and, ideally, the wider galaxy.
+
+The S.R.T.A. achieved space travel in Human Calendar 507, entering an already established galactic community and immediately distinguishing itself through its radically different social organization. Ideological differences with the Fespian Commonwealth, alongside their competing economic policies and overlapping spheres of influence, quickly established a rivalry between the two nations. Both sought to demonstrate the superiority of their respective societies, competing through scientific achievements, technological races, economic development, and efforts to establish greater popularity and influence among other galactic civilizations. This contention became one of the defining features of the S.R.T.A.'s early history, with it spurring the Republic into rapid development while also periodically diverting its resources towards the pursuit of prestige, a matter it otherwise was disinterested in.
+
+By the late seventh century, this competition had become closely tied to the Grand Five, whose membership reflected the relative standing of the galaxy's foremost powers. In 699, the Fespian Commonwealth rose to become the fifth-ranked power, displacing the Kingdom of the Eternal Star, in part through the economic and military benefits gained from its earlier conflict with the Supreme Danarin Autocracy. The S.R.T.A., already engaged in an increasingly intense rivalry with Fespia, responded by further increasing its efforts to surpass the Commonwealth. A series of technological revolutions provided the Republic with sufficient economic and military advantages to overtake Fespia and claim the fifth position among the Grand Five. The Commonwealth responded by intensifying its own development, leading to a period in which the two nations repeatedly exchanged the lowest position.
+
+This rivalry eventually prompted a reconsideration of the Republic's priorities, where in 726, the newly appointed Head Scientist, Adri Germensk, publicly argued that the S.R.T.A.'s purpose should not be to defeat the Fespian Commonwealth in what he considered a misguided competition, but rather to dedicate itself to unlocking the secrets of the universe. His message proved exceptionally popular among the Stalosif population and fellow Head Scientists. Consequently, the Republic withdrew nearly all funding previously diverted towards outperforming Fespia, redirecting these towards research programs across a broader range of disciplines rather than projects primarily intended to generate prestige. Although this decision effectively conceded the immediate competition for the fifth position among the Grand Five to Fespia, it reaffirmed the Republic's original scientific ambitions and established a clearer distinction between its own objectives and those of its principal rival.
+
+The S.R.T.A.'s commitment to scientific advancement has resulted in it performing impressively in wartime, in spite of not having much military tradition to draw from. In 950, Warlord Longyan of the Great Quinn Empire independently declared war upon the Republic, beginning the conflict known as the “Warlord's War”. This declaration had not been authorized by the Imperial government or Emperor Daozhu of Great Quinn, as Longyan believed himself powerful enough to pursue his own ambitions without regard for the authority of the Emperor or the other Warlords.
+
+Longyan's forces invaded S.R.T.A. territory and laid siege to the border planet of Peterzba, leaving the Republic with little choice but to mobilize its fleets. The remaining Warlords and the Emperor were subsequently compelled to join the conflict, despite having been caught entirely unprepared by Longyan's decision. Initially, the Great Quinn Empire held the advantage, with Longyan's considerable military aptitude and the combined strength of the Warlords allowing its forces to push against the Republic's western border. However, the S.R.T.A. managed to hold its defensive lines and recognized that a prolonged conflict would be economically unsustainable. Although Longyan managed to conduct a successful offensive deeper into S.R.T.A. territory, the resulting economic deterioration and diplomatic isolation of the Great Quinn Empire eventually made the continuation of the war untenable, and thus he sued for peace.
+
+In 970, the Grand Regions of Wuaria and Fespia formed the Partners Alliance, an arrangement intended to counter the growing influence of the Kammarian Empire and its expansionist ambitions. Concerned by this development, Kammaria sought to establish a competing alliance and, in 973, secured the support of both the S.R.T.A. and the Kingdom of the Eternal Star to form the “Traiconcordeur Powers”. Although the three nations remained geographically separated, they committed themselves to defending one another militarily, creating a powerful counterweight to the Partners Alliance and contributing to a substantial increase in galactic tensions. Such an alliance would draw the S.R.T.A. into many wars and enable it to fight ones of its own, including with the Cominbar Laborers' State, Grand Regions of Wuaria, Fespian Commonwealth, and Yoddha Kingdom.
+
+The S.R.T.A.'s participation in the 30 Years War, specifically in the War of the Two Empires, ultimately ended in upon the capture of the Kammarian capital by Suzerish forces. Recognizing that the conflict could no longer be pursued without further considerable expenditure, the Republic accepted a white peace alongside the Great Quinn Empire. Although the Republic had avoided the territorial and political consequences of keeping itself tied to the Kammarians, the dissolution of the Traiconcordeur removed an important strategic arrangement that had shaped its foreign policy for centuries.
+
+The Republic is currently led by Head Scientist Tolkashevski Rostov.
+"""
+        },
+
         "kammaria": {
 
             "name": "Kammarian Empire",
@@ -76,7 +153,7 @@ In 1588, Emperor Alexius V and Grand Admiral Rheinhall led a major counteroffens
 
 By 1601, the Kammarian Empire had fallen dramatically from its former position as one of the galaxy’s leading powers. Its territorial losses, economic burdens, military restrictions, and imposed change of government had stripped it of its place among the Grand Five and severely curtailed its independence. Nevertheless, the Empire’s long history of military achievement and its enduring sense of national superiority left a legacy that could not be easily extinguished. Its defeat under Suzerain’s expansionism marked a profound reversal of fortune for a civilization that had once considered itself the natural hegemon of the galaxy.
 
-The Empire is currently administered by Governor Grand Admiral Avedo.
+The Empire is currently administered by Governor Grand Admiral Avedo fue Anizotti.
 """
         },
 
@@ -97,7 +174,7 @@ The treaty nevertheless provides an important precedent for understanding Fespia
 
 By 1601, the Fespian Commonwealth remains a major galactic power, acting as the 2nd strongest of the Grand Five in light of Suzerain’s rise, though refuses to challenge the Empire in any outright sense.
 
-The Commonwealth is currently led by President-General Malkyrie.
+The Commonwealth is currently led by President-General Malkyrie Hugh-Feller.
 """
         },
 
@@ -124,7 +201,7 @@ Veiden continued to maintain its commitment to neutrality even as the galaxy ent
 
 By 1601, the Veiden Republic’s longstanding reputation as a peaceful and diplomatically influential power remained an important feature of its place in the galaxy. Although it had never sought to match the military ambitions of the other major civilizations, its commitment to sovereignty, neutrality, and the protection of smaller nations had earned it considerable respect. Its history demonstrated that a nation need not rely upon territorial conquest or military supremacy to exert influence over galactic affairs, given this unimpressive Republic has stood on multiple occasions as one of the Grand 5, based almost purely on economic and diplomatic weight alone.
 
-The Republic is currently led by Chancellor Holssen.
+The Republic is currently led by Chancellor Holssen Myhth.
 """
         },
 
@@ -167,6 +244,110 @@ The Kingdom's history would eventually be defined by the Ecliptic Civil War, a c
 By 1601, the Kingdom of the Eternal Star remained a significant galactic power, strengthened by its territorial acquisitions and alliance with Suzerain, yet still burdened by the enduring tensions between the Crown and its aristocracy. Its history of expansion, diplomatic maneuvering, and internal political struggles demonstrated the opportunities and dangers of maintaining a feudal monarchy in an increasingly competitive galaxy.
 
 The Kingdom is currently led by Queen Solène Lapis.
+"""
+        },
+
+        "evoui_landstrouss": {
+
+            "name": "Evoui Landstrouss",
+
+            "title": "Once Empress of the Kammrian Empire, Íñigante of Suzerain, Grand Aunt to Pherip IV.",
+
+            "hover_title": "Empress Evoui",
+
+            "hover_description": "Once Empress of the Kammrian Empire",
+
+            "text": """
+Having to live in Empress Sicill’s shadow left Evoui feeling like the supporting beam to a grand world wonder, unremarkable and unappreciated herself, yet silently integral in keeping up the structure. She worked diligently throughout her childhood to help Sicill, herself a child Empress, in whatever ways possible. As both came of age, Evoui stood by Sicill as her most trusted and important allies, having been granted positions such as Lord Councillor, Duchess of Bejár Gemba, and Guardian Keeper of the Privy Seal. For many years, they ruled side by side, though Evoui kept herself out of the public eye so as to not detract from Sicill’s authority.
+
+Where Evoui held a renowned public reputation was in cards, she was a masterful player at practically any game. Expert players from across the Empire would beg for the chance to combat her, and be thrilled every time they lost. She won several imperial tournaments, and even one held galactically, making her quite the famous player. 
+
+As part of Empress Sicill’s plans for galactic domination, it was arranged that Evoui be matched with Emperor Alexius V Landstrouss of Kammaria, so as to join their nations in marital alliance. Evoui didn’t have a choice in the matter, performing her duty with dignity. What she wasn’t anticipating, was the mutual true love which fostered between her and Alexius, not immediately, though with time into their union. They shared a more progressive and humanitarian philosophy for rule, a passion for the countryside, and overall simply got along. Their marriage quickly bore Evoui with child, Princess Annerval, then Princess Mittenbrough, and finally Crown Prince Bourbon.
+
+Being a living link between the fue Tholedos and Landstrousses, Evoui became something of a mediator, helping to make introductions, resolve disputes, and set up other arrangements between Kammaria and Suzerain. Sicill throughout this time of alliance always intended for Envoui to remain aligned primarily with Suzerain, and thus asked her to sway any deals between the two empires in her favor. At first Evoui obliged, though with her growing feelings toward Alexius she became more and more hesitant to sell out what was becoming her new family and home.
+
+All came to a head upon the War of the Two Empires, as Evoui was forced to choose between the home she had come from, and the one she had built. With grief, Evoui stood with Kammaria as its Empress, and resolved to fight her sister and home country until the bitter end. 
+
+In spite of her sworn allegiance, Evoui faced scrutiny from the Kammarian Nobility for her foreign origins, and was accused of being an agent of Suzerain. She did not publicly retort these claims, and instead through action attempted to sway the Kammarians to trust her. Evoui learned Kammarian, began dressing in their style, taking on their cultural rituals, stopped eating Suzerish food, went to Kammarian wartime fundraisers, visited wounded soldier hospitals, and plenty more. Months went by, and her efforts became irrefutable for even radical anti-Suzerish believers. The enemy Empress had won the hearts of her people, and from then on they trusted her fully. 
+
+A pivotal role she played came after the Battle of Merkartz, a Suzerish victory which opened the possibility for a full breakthrough into Kammaria straight towards the capital. Grand Admiral Rheinhall performed incredible maneuvers to best limit the ramifications of this breakthrough, but regardless the loss of the Kammarian capital seemed all but certain. Emperor Alexius V grew terrified Suzerish forces may manage to kidnap him and thus turn a moderate defeat in the war into a complete capitulation. Thus, Empress Evoui came forth with the idea to delay the Suzerish fleet by personally traveling to meet Grand Admiral Avedo, and demand an audience and temporary ceasefire. Given Evoui’s position, it was expected the fleets would abide, irrespective of the Grand Admiral knowing she in truth was only trying to stall for time. Alexius V at first adamantly dismissed the idea, knowing it would mean the guaranteed capture of his wife, but without his knowledge and the secret approval of the Kammarian high command, she boarded a ship to enact her plan. Upon reaching the Suzerish fleets and declaring her identity and wishes, word reached Grand Admiral Avedo. Though he saw right through this trick, the Grand Admiral also knew he could not risk the sister of the Queen’s harm by continuing to fight with her now in the middle of the frontlines, and thus agreed to a ceasefire and meeting, though mostly with the intent of apprehending and moving her far from harm’s way to Suzerain.
+
+The meeting commenced, Suzerish ships halted, and though Emperor Alexius V was distraught at Evoui going through with her plan, he was urged to not let her sacrifice be in vain and evacuate, to which he did. All of the Kammarian government and its most important resources were evacuated from the capital to the south of Kammarian territory, thus saving the Empire from total capitulation. After it was clear Evoui had no tangible reason to meet with Grand Admiral Avedo, he ordered her to be taken to Suzerain’s capital and continued with his assault. 
+
+The Queen’s Gambit made Evoui a legendary figure amongst the Kammarians, calls formulated for her immediate rescue, though none would be successful for the remainder of the war. It was also in her capture that Evoui for the first time since the war’s beginning saw and spoke to her sister, with Sicill feeling extremely betrayed that Evoui conspired against both Suzerain and herself. Evoui only responded that none of it was personal, and that it wouldn’t have happened had Sicill kept the peace between Suzerain and Kammaria her marriage was meant to form.
+
+After this, both scarcely spoke up until Sicill’s death, with Evoui remaining under house arrest in Isa Bellmaré, under close watch by the Inquisition. She awaits what her fate is to be under the new royal administration.
+"""
+        },
+
+        "bourbon_landstrouss": {
+
+            "name": "Bourbon Landstrouss",
+
+            "title": "Once Crown Prince of the Kammarian Empire.",
+
+            "hover_title": "Crown Prince Bourbon",
+
+            "hover_description": "Once Crown Prince of the Kammarian Empire",
+
+            "text": """
+From his birth, Bourbon was promised the Kammarian throne, his destiny and place in the galaxy. He grew up expecting and preparing for nothing else than this, anticipating that he’d get to steer one of the mightiest Empires as he wished. Thus, he became enamored at the dream of setting his mark as an enlightened Emperor historians would praise for centuries to come. Alas, this did not play out as expected.
+
+During Bourbon’s childhood, he was used to intermingling with the Empire of Suzerain and its royal family, as the fue Tholedos and Landstrousses joined through marital union between Bourbon’s parents. His mother, Empress Evoui Landstrouss, once Íñigante Evoui fue Tholedo, had been arranged to wed Bourbon’s father, Emperor Alexius V Landstrouss, to secure an alliance between Kammaria and Suzerain. As such, Bourbon often interacted with many Suzerish high officials and members of the royal family, such as the then Íñigo Pherip, at the numerous gatherings, ceremonies, and so on shared between both families.
+
+In preparation for his eventual rule, Bourbon was sent to the most prestigious university within the Kammarian Empire, Brieston University, wherein he studied all manner of subjects with proficiency. One he took particular fondness to was literature, especially in the writing electives that taught on the science and techniques for it, despite his family’s insistence that he focus on more politically practical matters. Nevertheless, Bourbon garnered the reputation as an intellectual ruler, perhaps not so proficient in hands on knowledge, but certainly adept in book smarts even in his young age. His studies took a major interruption during the outbreak of the War of the Two Empires.
+
+Once Suzerain declared war against Kammaria, Bourbon was recalled to the palace in order to assure his safety. Although the early accusations of Empress Evoui’s persisting allegiances to Suzerain harmed the image of Bourbon as a mixed blooded Kammarian, these were relatively quickly dispelled after Evoui was understood to be first and foremost the Kammarian Empress, and a Suzerish Íñigante second. As it was too risky to send both the heir apparent and current ruler to lead on the battlefront simultaneously, Bourbon was kept behind in the capital whilst Emperor Alexius fought alongside Grand Admiral Rheinhall. Throughout these days, the young Crown Prince was used as a public relations figure, featuring in enlistment posters, holding daily televised war briefings for the Empire’s populace, and overall acting as a representative of the royal family to the people. 
+
+In the end, Kammaria was defeated by Suzerain, and therefore the Landstrouss family fled to the then Grand Duchy, Relka, wherein they remain to this day in exile. Bourbon, unlike Emperor Alexius and Empress Evoui, was not explicitly forbidden from returning to Kammaria, and therefore was free to travel to it at his whim, yet decided himself to avoid doing so for several years. Bourbon felt completely lost in purpose during this period, having seen the future he always was told awaited him and which he spent his whole life envisioning vanish before his eyes. For a short stint, he wallowed in depression, hating to see his parents relegated to such humiliation as forced abdication, being alienated from his home country, and seeing his people subjugated by a foreign nation. In time, Bourbon began fully pursuing his passion of writing, publishing several books on topics ranging from the sciences, to history, politics, and fiction. This at first started as just a way to keep him busy, but his books gained galactic renown, and thus he viewed it as a new avenue to leave his mark.
+
+Bourbon after spending a few years in Relka decided to take a tour of the galaxy which he yet hadn’t seen much of, in the process using these travels as an opportunity to market his books. He can brag, that which few can, to have seen every single nation in the galaxy. Royal lineage is what largely afforded Bourbon the ability to enter these nations, however he always made a point to disguise his identity when amongst the common populace, not wanting to risk his ability to see these peoples in their prime reality. It was also in this period that Bourbon cut off communication with his family and past acquaintances, for as of yet unclear reasons.
+
+What few who keep track of the young Crown Prince have noted his recent migration to the Kingdom of Aeteran, wherein he was welcomed with open arms by the local Nobility, and uses it now as a base of operations for his writing career.
+"""
+        },
+
+        "javiedo_tholedo": {
+
+            "name": "Javiedo fue Tholedo",
+
+            "title": "Íñigo of Suzerain, once heir to the Empire, former Admiral of the 17th Fleet, and Father of Pherip IV.",
+
+            "hover_title": "Javiedo fue Tholedo",
+
+            "hover_description": "Once heir to the Empire; former Admiral of the 17th Fleet",
+
+            "text": """
+The first heir of the Suzerish royal family lined up to inherit a newly galactic scale Suzerain, Javiedo had a radically different upbringing than all Íñigos before him. The focus of his studies shifted considerably, from understanding the political relationships between a single planet’s nation-states to navigating the complexities of a galaxy-spanning environment. The transition was abrupt, and the Suzerish had few means of adequately preparing him for such a monumental undertaking. Even Sicill herself was venturing into an unfamiliar frontier, with little precedent to draw upon and an entirely new political landscape to comprehend. The young Íñigo, nevertheless, was expected to match these new expectations for his education, even with the time constraint and lack of well versed teachers.
+
+To that end, various species were brought to the palace at Sicill’s request to teach Javiedo of the galaxy, given their knowledge outshined any Suzerains at the time. From this, he not only learned of the relationships, required skills, and norms of the galactic community, but of new outlooks on how nations rule their peoples. He listened to the Anarchist adjacent Fespians, Corporatized Wealth Confederates, Guildocratic Doonisians, Democratic Veidens, Technocratic-Monarchist Unnat, and plenty more.
+
+As his breadth of knowledge and insight to these various peoples grew, so did his outlook toward Suzerain change. No longer did Javiedo wish to rule as an Absolute Monarch, like his mother and ancestors of yore, he now believed there was so much which could be adopted from the examples of the galactic community for the betterment of his people. At first, the adolescent heir was far more radical than in his later years, at one point believing the abolishment of the Monarchy, Aristocracy, and pulling back of the Empire’s military advances were best for the nation. Having gotten wind of his personal beliefs, Sicill made an effort to try and show her son the errors of his ways, at least as she believed. His current retinue of galactic tutors were not sent away, but rather she now hosted her own lectures with him on Suzerain itself, historically and at present. Through this, she attempted to discourage Javiedo from his radical ideologies, and return to a more traditionalist Suzerish position. Empress Sicill herself was very progressive, by comparison to past Suzerish Monarchs, and thus didn’t outright disagree with every more radical opinion Javiedo held, particularly those on advancing the social equalities of her people.
+
+Yet she did above all attempt to dissuade him from his anti-Monarchist stance, and wanted him to realize that her military expansion was actually a positive endeavor, both by the assured protection of the Suzerish people, and the opportunities she, and later he, would have to uplift the foreign peoples conquered, who otherwise would toil under the oppressive rule of nations like the Zereck Domain. Eventually as Javiedo grew into a more matured adult, his radical sentiments calmed, and he came around to his Mother’s perspective that the Monarchy was an overall good institution, but still disagreed on in what form. He settled on being a Constitutional Monarchist, wishing to see a new assembly made up of Commoners and Nobles formed early into his eventual rule, and thus democratize many of the functions in the current Suzerish state. From there, his ambitions were to further the welfare state his Mother founded, and eventually create what many would call a Socialist state led by the limited authority of the Emperor.
+
+Tragically, Javiedo never was able to see his vision through, nor even get his chance to lead the Empire, for he was killed in action during the War of the Two Empires, serving as the Admiral of the 17th Fleet. He left behind a nation that became enthralled with his vision for the future, a family that could not bear his loss, and a Mother who emotionally collapsed after losing her child. For all the challenges faced by the fue Tholedos, none were as impactful as Javiedo’s death. It shook them to their very core, and even threatened to tear Suzerain apart during its most vital struggle. Were it not for Javiedo’s wife, Duchess Isine, stepping up in his memory, it is likely he truly would have been the last heir to the Empire.
+
+In Suzerish collective memory, the “Unbloomed Emperor” is regarded as a figure of unfulfilled potential. Though not all would necessarily have endorsed the more radical future he might have sought to bring about, there remains a widespread sense that, had he ascended to the throne, he would have become a remarkable and consequential ruler. His legacy is therefore one of speculation and quiet solemnity: a leader whose reign never came to pass, but whose potential left an enduring impression on the Empire.
+"""
+        },
+
+        "zladisyormund_kesfer": {
+
+            "name": "Zladisyormund Kesfer",
+
+            "title": "Viscount of Kesfirbyoh and Diplomat for the Kingdom of Aeteran.",
+
+            "hover_title": "Viscount Zladisyormund",
+
+            "hover_description": "Diplomat for the Kingdom of Aeteran",
+
+            "text": """
+A well tempered and politically inoffensive Noble, Zladisyormund has been used often in diplomatic and ceremonial positions for various Aeteran activities. He attended representative gatherings for the broader Empire, and was the one sent to discuss trade arrangements with the Confederacy, which never materialized.
+
+Being aligned more moderately with the current Prince-Regent, Józiff Ivanothy, Zladisyormund has therefore avoided making enemies of practically the entire aristocracy, positioning himself as an inoffensive supporter of the status quo. Resulting from this has been a sense of trust which most in Aeteran have for him, not someone that will likely achieve great things in his life, but who can be relied on for support in another’s ambitions. Some have tried before to sway him more overtly to one cause or another, though none have yet succeeded.
+
+One way Zladisyormund has made some personal name through has been his composing, being an avid music enthusiast. He hasn’t created many compositions, though of those he did they are considered above average or even quite good. It is expected that when there is a local concert occurring, he will be there, usually in a private viewing seat for maximum exposure.
 """
         },
 
@@ -522,6 +703,39 @@ Gaucho serves along with his brother Torrez as the youngest members of the Casti
         "Kammarian Empire": "kammaria",
         "Kammaria": "kammaria",
 
+        "Zereck Domain": "zereck",
+        "Zereck": "zereck",
+
+        "Stalosif Republic of Technological Advancements": "srta",
+        "Stalosif Republic": "srta",
+        "Stalosif": "srta",
+        "S.R.T.A.": "srta",
+
+        "Grand Derubian Empire": "grand_derubian",
+        "Grand Derubian": "grand_derubian",
+        "Derubian": "grand_derubian",
+
+        "Evoui Landstrouss": "evoui_landstrouss",
+        "Empress Evoui Landstrouss": "evoui_landstrouss",
+        "Empress Evoui": "evoui_landstrouss",
+        "Evoui": "evoui_landstrouss",
+
+        "Bourbon Landstrouss": "bourbon_landstrouss",
+        "Crown Prince Bourbon Landstrouss": "bourbon_landstrouss",
+        "Crown Prince Bourbon": "bourbon_landstrouss",
+        "Bourbon": "bourbon_landstrouss",
+
+        "Íñigo Javiedo fue Tholedo": "javiedo_tholedo",
+        "Javiedo fue Tholedo": "javiedo_tholedo",
+        "Íñigo Javiedo": "javiedo_tholedo",
+        "Javiedo": "javiedo_tholedo",
+
+        "Viscount Zladisyormund Kesfer": "zladisyormund_kesfer",
+        "Zladisyormund Kesfer": "zladisyormund_kesfer",
+        "Viscount Zladisyormund": "zladisyormund_kesfer",
+        "Viscount Kesfer": "zladisyormund_kesfer",
+        "Zladisyormund": "zladisyormund_kesfer",
+
         "Zichy Hoovitz": "zichy_hoovitz",
         "Zichy": "zichy_hoovitz",
 
@@ -608,6 +822,32 @@ Gaucho serves along with his brother Torrez as the youngest members of the Casti
         "Fespia": "fespia",
         "Kammarian Empire": "kammaria",
         "Kammaria": "kammaria",
+        "Zereck Domain": "zereck",
+        "Zereck": "zereck",
+        "Stalosif Republic of Technological Advancements": "srta",
+        "Stalosif Republic": "srta",
+        "Stalosif": "srta",
+        "S.R.T.A.": "srta",
+        "Grand Derubian Empire": "grand_derubian",
+        "Grand Derubian": "grand_derubian",
+        "Derubian": "grand_derubian",
+        "Evoui Landstrouss": "evoui_landstrouss",
+        "Empress Evoui Landstrouss": "evoui_landstrouss",
+        "Empress Evoui": "evoui_landstrouss",
+        "Evoui": "evoui_landstrouss",
+        "Bourbon Landstrouss": "bourbon_landstrouss",
+        "Crown Prince Bourbon Landstrouss": "bourbon_landstrouss",
+        "Crown Prince Bourbon": "bourbon_landstrouss",
+        "Bourbon": "bourbon_landstrouss",
+        "Íñigo Javiedo fue Tholedo": "javiedo_tholedo",
+        "Javiedo fue Tholedo": "javiedo_tholedo",
+        "Íñigo Javiedo": "javiedo_tholedo",
+        "Javiedo": "javiedo_tholedo",
+        "Viscount Zladisyormund Kesfer": "zladisyormund_kesfer",
+        "Zladisyormund Kesfer": "zladisyormund_kesfer",
+        "Viscount Zladisyormund": "zladisyormund_kesfer",
+        "Viscount Kesfer": "zladisyormund_kesfer",
+        "Zladisyormund": "zladisyormund_kesfer",
         "Zichy Hoovitz": "zichy_hoovitz",
         "Zichy": "zichy_hoovitz",
         "Józiff Ivanothy": "joziff_ivanothy",

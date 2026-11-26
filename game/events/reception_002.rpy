@@ -36,8 +36,8 @@ image bourbon_hunting_lodge_background = Transform(
 
 define zichy = Character("{a=codex_name:zichy_hoovitz}Zichy Hoovitz{/a}")
 define joziff = Character("{a=codex_name:joziff_ivanothy}Józiff Ivanothy{/a}")
-define bourbon = Character("Bourbon Landstrouss")
-define zladisyormund = Character("Zladisyormund Kesfer")
+define bourbon = Character("{a=codex_name:bourbon_landstrouss}Bourbon Landstrouss{/a}")
+define zladisyormund = Character("{a=codex_name:zladisyormund_kesfer}Zladisyormund Kesfer{/a}")
 
 image zichy_portrait = Transform("images/Zichy_Hoovitz.png", yoffset=-5)
 image joziff_portrait = Transform("images/Józiff_Ivanothy.png", yoffset=-5)
